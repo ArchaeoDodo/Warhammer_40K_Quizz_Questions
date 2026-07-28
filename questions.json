@@ -1,0 +1,847 @@
+{
+  "version" : 1,
+  "questions" : [ {
+    "id" : 1,
+    "army" : "adeptusMechanicus",
+    "edition" : "ninth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What is the home world of the Adeptus Mechanicus?",
+    "options" : [ "Mars", "Terra", "Baal", "Holy Terra" ],
+    "correctAnswer" : "Mars"
+  }, {
+    "id" : 2,
+    "army" : "adeptusMechanicus",
+    "edition" : "ninth",
+    "difficulty" : "easy",
+    "type" : "textBox",
+    "questionText" : "What deity do the Adeptus Mechanicus worship, believed to be the Emperor in machine form?",
+    "correctAnswer" : "The Omnissiah",
+    "explanation" : "The Mechanicus venerate the Omnissiah, an aspect of the Machine God they believe the Emperor embodies."
+  }, {
+    "id" : 3,
+    "army" : "adeptusMechanicus",
+    "edition" : "ninth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What title is held by the supreme leader of the Adeptus Mechanicus?",
+    "options" : [ "Fabricator-General", "Chapter Master", "Primarch", "High Lord" ],
+    "correctAnswer" : "Fabricator-General"
+  }, {
+    "id" : 4,
+    "army" : "adeptusMechanicus",
+    "edition" : "ninth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What are the Adeptus Mechanicus' rank-and-file soldier-servants called?",
+    "correctAnswer" : "Skitarii"
+  }, {
+    "id" : 5,
+    "army" : "adeptusMechanicus",
+    "edition" : "ninth",
+    "difficulty" : "medium",
+    "type" : "multipleChoice",
+    "questionText" : "What term describes the Mechanicus' religious devotion to technology?",
+    "options" : [ "Cult Mechanicus", "The Ecclesiarchy", "The Inquisition", "The Astra Militarum" ],
+    "correctAnswer" : "Cult Mechanicus"
+  }, {
+    "id" : 6,
+    "army" : "adeptusMechanicus",
+    "edition" : "ninth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What is the general term for the cybernetic body enhancements common among Tech-Priests?",
+    "correctAnswer" : "Augmetics"
+  }, {
+    "id" : 7,
+    "army" : "adeptusMechanicus",
+    "edition" : "ninth",
+    "difficulty" : "hard",
+    "type" : "multipleChoice",
+    "questionText" : "What is the name of the ancient pact granting the Adeptus Mechanicus autonomy within the Imperium?",
+    "options" : [ "The Treaty of Mars", "The Edict of Terra", "The Codex Astartes", "The Word of the Omnissiah" ],
+    "correctAnswer" : "The Treaty of Mars"
+  }, {
+    "id" : 8,
+    "army" : "adeptusMechanicus",
+    "edition" : "ninth",
+    "difficulty" : "hard",
+    "type" : "textBox",
+    "questionText" : "What term describes Mechanicus expeditions sent to recover lost archeotech across the galaxy?",
+    "correctAnswer" : "Explorator Fleet",
+    "explanation" : "Explorator fleets range far beyond Imperial space hunting for lost technology."
+  }, {
+    "id" : 9,
+    "army" : "adeptusMechanicus",
+    "edition" : "tenth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What is the home world of the Adeptus Mechanicus?",
+    "options" : [ "Mars", "Terra", "Baal", "Holy Terra" ],
+    "correctAnswer" : "Mars"
+  }, {
+    "id" : 10,
+    "army" : "adeptusMechanicus",
+    "edition" : "tenth",
+    "difficulty" : "easy",
+    "type" : "textBox",
+    "questionText" : "What deity do the Adeptus Mechanicus worship, believed to be the Emperor in machine form?",
+    "correctAnswer" : "The Omnissiah",
+    "explanation" : "The Mechanicus venerate the Omnissiah, an aspect of the Machine God they believe the Emperor embodies."
+  }, {
+    "id" : 11,
+    "army" : "adeptusMechanicus",
+    "edition" : "tenth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What title is held by the supreme leader of the Adeptus Mechanicus?",
+    "options" : [ "Fabricator-General", "Chapter Master", "Primarch", "High Lord" ],
+    "correctAnswer" : "Fabricator-General"
+  }, {
+    "id" : 12,
+    "army" : "adeptusMechanicus",
+    "edition" : "tenth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What are the Adeptus Mechanicus' rank-and-file soldier-servants called?",
+    "correctAnswer" : "Skitarii"
+  }, {
+    "id" : 13,
+    "army" : "adeptusMechanicus",
+    "edition" : "tenth",
+    "difficulty" : "medium",
+    "type" : "multipleChoice",
+    "questionText" : "What term describes the Mechanicus' religious devotion to technology?",
+    "options" : [ "Cult Mechanicus", "The Ecclesiarchy", "The Inquisition", "The Astra Militarum" ],
+    "correctAnswer" : "Cult Mechanicus"
+  }, {
+    "id" : 14,
+    "army" : "adeptusMechanicus",
+    "edition" : "tenth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What is the general term for the cybernetic body enhancements common among Tech-Priests?",
+    "correctAnswer" : "Augmetics"
+  }, {
+    "id" : 15,
+    "army" : "adeptusMechanicus",
+    "edition" : "tenth",
+    "difficulty" : "hard",
+    "type" : "multipleChoice",
+    "questionText" : "What is the name of the ancient pact granting the Adeptus Mechanicus autonomy within the Imperium?",
+    "options" : [ "The Treaty of Mars", "The Edict of Terra", "The Codex Astartes", "The Word of the Omnissiah" ],
+    "correctAnswer" : "The Treaty of Mars"
+  }, {
+    "id" : 16,
+    "army" : "adeptusMechanicus",
+    "edition" : "tenth",
+    "difficulty" : "hard",
+    "type" : "textBox",
+    "questionText" : "What term describes Mechanicus expeditions sent to recover lost archeotech across the galaxy?",
+    "correctAnswer" : "Explorator Fleet",
+    "explanation" : "Explorator fleets range far beyond Imperial space hunting for lost technology."
+  }, {
+    "id" : 17,
+    "army" : "adeptusMechanicus",
+    "edition" : "eleventh",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What is the home world of the Adeptus Mechanicus?",
+    "options" : [ "Mars", "Terra", "Baal", "Holy Terra" ],
+    "correctAnswer" : "Mars"
+  }, {
+    "id" : 18,
+    "army" : "adeptusMechanicus",
+    "edition" : "eleventh",
+    "difficulty" : "easy",
+    "type" : "textBox",
+    "questionText" : "What deity do the Adeptus Mechanicus worship, believed to be the Emperor in machine form?",
+    "correctAnswer" : "The Omnissiah",
+    "explanation" : "The Mechanicus venerate the Omnissiah, an aspect of the Machine God they believe the Emperor embodies."
+  }, {
+    "id" : 19,
+    "army" : "adeptusMechanicus",
+    "edition" : "eleventh",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What title is held by the supreme leader of the Adeptus Mechanicus?",
+    "options" : [ "Fabricator-General", "Chapter Master", "Primarch", "High Lord" ],
+    "correctAnswer" : "Fabricator-General"
+  }, {
+    "id" : 20,
+    "army" : "adeptusMechanicus",
+    "edition" : "eleventh",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What are the Adeptus Mechanicus' rank-and-file soldier-servants called?",
+    "correctAnswer" : "Skitarii"
+  }, {
+    "id" : 21,
+    "army" : "adeptusMechanicus",
+    "edition" : "eleventh",
+    "difficulty" : "medium",
+    "type" : "multipleChoice",
+    "questionText" : "What term describes the Mechanicus' religious devotion to technology?",
+    "options" : [ "Cult Mechanicus", "The Ecclesiarchy", "The Inquisition", "The Astra Militarum" ],
+    "correctAnswer" : "Cult Mechanicus"
+  }, {
+    "id" : 22,
+    "army" : "adeptusMechanicus",
+    "edition" : "eleventh",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What is the general term for the cybernetic body enhancements common among Tech-Priests?",
+    "correctAnswer" : "Augmetics"
+  }, {
+    "id" : 23,
+    "army" : "adeptusMechanicus",
+    "edition" : "eleventh",
+    "difficulty" : "hard",
+    "type" : "multipleChoice",
+    "questionText" : "What is the name of the ancient pact granting the Adeptus Mechanicus autonomy within the Imperium?",
+    "options" : [ "The Treaty of Mars", "The Edict of Terra", "The Codex Astartes", "The Word of the Omnissiah" ],
+    "correctAnswer" : "The Treaty of Mars"
+  }, {
+    "id" : 24,
+    "army" : "adeptusMechanicus",
+    "edition" : "eleventh",
+    "difficulty" : "hard",
+    "type" : "textBox",
+    "questionText" : "What term describes Mechanicus expeditions sent to recover lost archeotech across the galaxy?",
+    "correctAnswer" : "Explorator Fleet",
+    "explanation" : "Explorator fleets range far beyond Imperial space hunting for lost technology."
+  }, {
+    "id" : 25,
+    "army" : "necrons",
+    "edition" : "ninth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What material are Necron Warriors' bodies primarily made of?",
+    "options" : [ "Living metal", "Flesh", "Ceramite", "Wood" ],
+    "correctAnswer" : "Living metal"
+  }, {
+    "id" : 26,
+    "army" : "necrons",
+    "edition" : "ninth",
+    "difficulty" : "easy",
+    "type" : "textBox",
+    "questionText" : "What ancient star-devouring race did the Necrontyr make a pact with, gaining immortality at the cost of their souls?",
+    "correctAnswer" : "The C'tan"
+  }, {
+    "id" : 27,
+    "army" : "necrons",
+    "edition" : "ninth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What weapon type, firing a disintegrating green beam, is most iconic to basic Necron Warriors?",
+    "options" : [ "Gauss weapon", "Bolter", "Shoota", "Lasgun" ],
+    "correctAnswer" : "Gauss weapon"
+  }, {
+    "id" : 28,
+    "army" : "necrons",
+    "edition" : "ninth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "Who is the supreme ruler of the Necrons, awakened to reunite his shattered empire?",
+    "correctAnswer" : "The Silent King",
+    "explanation" : "Also known by his true name, Szarekh."
+  }, {
+    "id" : 29,
+    "army" : "necrons",
+    "edition" : "ninth",
+    "difficulty" : "medium",
+    "type" : "multipleChoice",
+    "questionText" : "What was the name of the Necrons' original species/empire before they sacrificed their flesh for immortality?",
+    "options" : [ "The Necrontyr", "The Eldar", "The Old Ones", "The Aeldari" ],
+    "correctAnswer" : "The Necrontyr"
+  }, {
+    "id" : 30,
+    "army" : "necrons",
+    "edition" : "ninth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What is the name for a Necron's ability to self-repair and reassemble after being destroyed in battle?",
+    "correctAnswer" : "Reanimation Protocols"
+  }, {
+    "id" : 31,
+    "army" : "necrons",
+    "edition" : "ninth",
+    "difficulty" : "hard",
+    "type" : "multipleChoice",
+    "questionText" : "What process did the Necrontyr undergo to transfer their consciousness into immortal metal bodies?",
+    "options" : [ "Biotransference", "Ascension", "Chapter Rites", "Deployment" ],
+    "correctAnswer" : "Biotransference"
+  }, {
+    "id" : 32,
+    "army" : "necrons",
+    "edition" : "ninth",
+    "difficulty" : "hard",
+    "type" : "textBox",
+    "questionText" : "What is the collective name for the star-god beings the Necrontyr made their fateful pact with?",
+    "correctAnswer" : "C'tan",
+    "explanation" : "Sometimes called the Star Gods, the C'tan fed on the energy of stars and living souls."
+  }, {
+    "id" : 33,
+    "army" : "necrons",
+    "edition" : "tenth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What material are Necron Warriors' bodies primarily made of?",
+    "options" : [ "Living metal", "Flesh", "Ceramite", "Wood" ],
+    "correctAnswer" : "Living metal"
+  }, {
+    "id" : 34,
+    "army" : "necrons",
+    "edition" : "tenth",
+    "difficulty" : "easy",
+    "type" : "textBox",
+    "questionText" : "What ancient star-devouring race did the Necrontyr make a pact with, gaining immortality at the cost of their souls?",
+    "correctAnswer" : "The C'tan"
+  }, {
+    "id" : 35,
+    "army" : "necrons",
+    "edition" : "tenth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What weapon type, firing a disintegrating green beam, is most iconic to basic Necron Warriors?",
+    "options" : [ "Gauss weapon", "Bolter", "Shoota", "Lasgun" ],
+    "correctAnswer" : "Gauss weapon"
+  }, {
+    "id" : 36,
+    "army" : "necrons",
+    "edition" : "tenth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "Who is the supreme ruler of the Necrons, awakened to reunite his shattered empire?",
+    "correctAnswer" : "The Silent King",
+    "explanation" : "Also known by his true name, Szarekh."
+  }, {
+    "id" : 37,
+    "army" : "necrons",
+    "edition" : "tenth",
+    "difficulty" : "medium",
+    "type" : "multipleChoice",
+    "questionText" : "What was the name of the Necrons' original species/empire before they sacrificed their flesh for immortality?",
+    "options" : [ "The Necrontyr", "The Eldar", "The Old Ones", "The Aeldari" ],
+    "correctAnswer" : "The Necrontyr"
+  }, {
+    "id" : 38,
+    "army" : "necrons",
+    "edition" : "tenth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What is the name for a Necron's ability to self-repair and reassemble after being destroyed in battle?",
+    "correctAnswer" : "Reanimation Protocols"
+  }, {
+    "id" : 39,
+    "army" : "necrons",
+    "edition" : "tenth",
+    "difficulty" : "hard",
+    "type" : "multipleChoice",
+    "questionText" : "What process did the Necrontyr undergo to transfer their consciousness into immortal metal bodies?",
+    "options" : [ "Biotransference", "Ascension", "Chapter Rites", "Deployment" ],
+    "correctAnswer" : "Biotransference"
+  }, {
+    "id" : 40,
+    "army" : "necrons",
+    "edition" : "tenth",
+    "difficulty" : "hard",
+    "type" : "textBox",
+    "questionText" : "What is the collective name for the star-god beings the Necrontyr made their fateful pact with?",
+    "correctAnswer" : "C'tan",
+    "explanation" : "Sometimes called the Star Gods, the C'tan fed on the energy of stars and living souls."
+  }, {
+    "id" : 41,
+    "army" : "necrons",
+    "edition" : "eleventh",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What material are Necron Warriors' bodies primarily made of?",
+    "options" : [ "Living metal", "Flesh", "Ceramite", "Wood" ],
+    "correctAnswer" : "Living metal"
+  }, {
+    "id" : 42,
+    "army" : "necrons",
+    "edition" : "eleventh",
+    "difficulty" : "easy",
+    "type" : "textBox",
+    "questionText" : "What ancient star-devouring race did the Necrontyr make a pact with, gaining immortality at the cost of their souls?",
+    "correctAnswer" : "The C'tan"
+  }, {
+    "id" : 43,
+    "army" : "necrons",
+    "edition" : "eleventh",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What weapon type, firing a disintegrating green beam, is most iconic to basic Necron Warriors?",
+    "options" : [ "Gauss weapon", "Bolter", "Shoota", "Lasgun" ],
+    "correctAnswer" : "Gauss weapon"
+  }, {
+    "id" : 44,
+    "army" : "necrons",
+    "edition" : "eleventh",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "Who is the supreme ruler of the Necrons, awakened to reunite his shattered empire?",
+    "correctAnswer" : "The Silent King",
+    "explanation" : "Also known by his true name, Szarekh."
+  }, {
+    "id" : 45,
+    "army" : "necrons",
+    "edition" : "eleventh",
+    "difficulty" : "medium",
+    "type" : "multipleChoice",
+    "questionText" : "What was the name of the Necrons' original species/empire before they sacrificed their flesh for immortality?",
+    "options" : [ "The Necrontyr", "The Eldar", "The Old Ones", "The Aeldari" ],
+    "correctAnswer" : "The Necrontyr"
+  }, {
+    "id" : 46,
+    "army" : "necrons",
+    "edition" : "eleventh",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What is the name for a Necron's ability to self-repair and reassemble after being destroyed in battle?",
+    "correctAnswer" : "Reanimation Protocols"
+  }, {
+    "id" : 47,
+    "army" : "necrons",
+    "edition" : "eleventh",
+    "difficulty" : "hard",
+    "type" : "multipleChoice",
+    "questionText" : "What process did the Necrontyr undergo to transfer their consciousness into immortal metal bodies?",
+    "options" : [ "Biotransference", "Ascension", "Chapter Rites", "Deployment" ],
+    "correctAnswer" : "Biotransference"
+  }, {
+    "id" : 48,
+    "army" : "necrons",
+    "edition" : "eleventh",
+    "difficulty" : "hard",
+    "type" : "textBox",
+    "questionText" : "What is the collective name for the star-god beings the Necrontyr made their fateful pact with?",
+    "correctAnswer" : "C'tan",
+    "explanation" : "Sometimes called the Star Gods, the C'tan fed on the energy of stars and living souls."
+  }, {
+    "id" : 49,
+    "army" : "orks",
+    "edition" : "ninth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What Ork word describes anything relating to shooting or firepower?",
+    "options" : [ "Dakka", "Squig", "Waaagh", "Gubbinz" ],
+    "correctAnswer" : "Dakka"
+  }, {
+    "id" : 50,
+    "army" : "orks",
+    "edition" : "ninth",
+    "difficulty" : "easy",
+    "type" : "textBox",
+    "questionText" : "What is the Ork term for a massive, unstoppable, psychically-fuelled invasion or crusade?",
+    "correctAnswer" : "Waaagh!"
+  }, {
+    "id" : 51,
+    "army" : "orks",
+    "edition" : "ninth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What creatures do Orks breed and use for food, fuel, and even ammunition?",
+    "options" : [ "Squigs", "Gretchin", "Nobz", "Grots" ],
+    "correctAnswer" : "Squigs"
+  }, {
+    "id" : 52,
+    "army" : "orks",
+    "edition" : "ninth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What are the smaller, weaker cousins of Orks called, often used as servants and cannon fodder?",
+    "correctAnswer" : "Gretchin",
+    "explanation" : "Also commonly called Grots."
+  }, {
+    "id" : 53,
+    "army" : "orks",
+    "edition" : "ninth",
+    "difficulty" : "medium",
+    "type" : "multipleChoice",
+    "questionText" : "Ork technology often works reliably in battle largely because of what unique Ork trait?",
+    "options" : [ "Their collective psychic belief that it works", "Precise engineering standards", "Blessings from the Emperor", "Chaos sorcery" ],
+    "correctAnswer" : "Their collective psychic belief that it works"
+  }, {
+    "id" : 54,
+    "army" : "orks",
+    "edition" : "ninth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What are the names of the twin Ork war-gods?",
+    "correctAnswer" : "Gork and Mork"
+  }, {
+    "id" : 55,
+    "army" : "orks",
+    "edition" : "ninth",
+    "difficulty" : "hard",
+    "type" : "multipleChoice",
+    "questionText" : "What rank does the most powerful Ork leader hold when commanding an entire Waaagh!?",
+    "options" : [ "Warboss", "Nob", "Big Mek", "Freebooter" ],
+    "correctAnswer" : "Warboss"
+  }, {
+    "id" : 56,
+    "army" : "orks",
+    "edition" : "ninth",
+    "difficulty" : "hard",
+    "type" : "textBox",
+    "questionText" : "Orks reproduce asexually through a biological method involving what kind of spores?",
+    "correctAnswer" : "Fungal spores",
+    "explanation" : "New Orks sprout from fungal spores released by their kin, rather than conventional birth."
+  }, {
+    "id" : 57,
+    "army" : "orks",
+    "edition" : "tenth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What Ork word describes anything relating to shooting or firepower?",
+    "options" : [ "Dakka", "Squig", "Waaagh", "Gubbinz" ],
+    "correctAnswer" : "Dakka"
+  }, {
+    "id" : 58,
+    "army" : "orks",
+    "edition" : "tenth",
+    "difficulty" : "easy",
+    "type" : "textBox",
+    "questionText" : "What is the Ork term for a massive, unstoppable, psychically-fuelled invasion or crusade?",
+    "correctAnswer" : "Waaagh!"
+  }, {
+    "id" : 59,
+    "army" : "orks",
+    "edition" : "tenth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What creatures do Orks breed and use for food, fuel, and even ammunition?",
+    "options" : [ "Squigs", "Gretchin", "Nobz", "Grots" ],
+    "correctAnswer" : "Squigs"
+  }, {
+    "id" : 60,
+    "army" : "orks",
+    "edition" : "tenth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What are the smaller, weaker cousins of Orks called, often used as servants and cannon fodder?",
+    "correctAnswer" : "Gretchin",
+    "explanation" : "Also commonly called Grots."
+  }, {
+    "id" : 61,
+    "army" : "orks",
+    "edition" : "tenth",
+    "difficulty" : "medium",
+    "type" : "multipleChoice",
+    "questionText" : "Ork technology often works reliably in battle largely because of what unique Ork trait?",
+    "options" : [ "Their collective psychic belief that it works", "Precise engineering standards", "Blessings from the Emperor", "Chaos sorcery" ],
+    "correctAnswer" : "Their collective psychic belief that it works"
+  }, {
+    "id" : 62,
+    "army" : "orks",
+    "edition" : "tenth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What are the names of the twin Ork war-gods?",
+    "correctAnswer" : "Gork and Mork"
+  }, {
+    "id" : 63,
+    "army" : "orks",
+    "edition" : "tenth",
+    "difficulty" : "hard",
+    "type" : "multipleChoice",
+    "questionText" : "What rank does the most powerful Ork leader hold when commanding an entire Waaagh!?",
+    "options" : [ "Warboss", "Nob", "Big Mek", "Freebooter" ],
+    "correctAnswer" : "Warboss"
+  }, {
+    "id" : 64,
+    "army" : "orks",
+    "edition" : "tenth",
+    "difficulty" : "hard",
+    "type" : "textBox",
+    "questionText" : "Orks reproduce asexually through a biological method involving what kind of spores?",
+    "correctAnswer" : "Fungal spores",
+    "explanation" : "New Orks sprout from fungal spores released by their kin, rather than conventional birth."
+  }, {
+    "id" : 65,
+    "army" : "orks",
+    "edition" : "eleventh",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What Ork word describes anything relating to shooting or firepower?",
+    "options" : [ "Dakka", "Squig", "Waaagh", "Gubbinz" ],
+    "correctAnswer" : "Dakka"
+  }, {
+    "id" : 66,
+    "army" : "orks",
+    "edition" : "eleventh",
+    "difficulty" : "easy",
+    "type" : "textBox",
+    "questionText" : "What is the Ork term for a massive, unstoppable, psychically-fuelled invasion or crusade?",
+    "correctAnswer" : "Waaagh!"
+  }, {
+    "id" : 67,
+    "army" : "orks",
+    "edition" : "eleventh",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What creatures do Orks breed and use for food, fuel, and even ammunition?",
+    "options" : [ "Squigs", "Gretchin", "Nobz", "Grots" ],
+    "correctAnswer" : "Squigs"
+  }, {
+    "id" : 68,
+    "army" : "orks",
+    "edition" : "eleventh",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What are the smaller, weaker cousins of Orks called, often used as servants and cannon fodder?",
+    "correctAnswer" : "Gretchin",
+    "explanation" : "Also commonly called Grots."
+  }, {
+    "id" : 69,
+    "army" : "orks",
+    "edition" : "eleventh",
+    "difficulty" : "medium",
+    "type" : "multipleChoice",
+    "questionText" : "Ork technology often works reliably in battle largely because of what unique Ork trait?",
+    "options" : [ "Their collective psychic belief that it works", "Precise engineering standards", "Blessings from the Emperor", "Chaos sorcery" ],
+    "correctAnswer" : "Their collective psychic belief that it works"
+  }, {
+    "id" : 70,
+    "army" : "orks",
+    "edition" : "eleventh",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What are the names of the twin Ork war-gods?",
+    "correctAnswer" : "Gork and Mork"
+  }, {
+    "id" : 71,
+    "army" : "orks",
+    "edition" : "eleventh",
+    "difficulty" : "hard",
+    "type" : "multipleChoice",
+    "questionText" : "What rank does the most powerful Ork leader hold when commanding an entire Waaagh!?",
+    "options" : [ "Warboss", "Nob", "Big Mek", "Freebooter" ],
+    "correctAnswer" : "Warboss"
+  }, {
+    "id" : 72,
+    "army" : "orks",
+    "edition" : "eleventh",
+    "difficulty" : "hard",
+    "type" : "textBox",
+    "questionText" : "Orks reproduce asexually through a biological method involving what kind of spores?",
+    "correctAnswer" : "Fungal spores",
+    "explanation" : "New Orks sprout from fungal spores released by their kin, rather than conventional birth."
+  }, {
+    "id" : 73,
+    "army" : "tyranids",
+    "edition" : "ninth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What is the collective consciousness controlling the Tyranid race called?",
+    "options" : [ "The Hive Mind", "The Chaos Gods", "The Silent King", "The Omnissiah" ],
+    "correctAnswer" : "The Hive Mind"
+  }, {
+    "id" : 74,
+    "army" : "tyranids",
+    "edition" : "ninth",
+    "difficulty" : "easy",
+    "type" : "textBox",
+    "questionText" : "What do Tyranids call the massive living bio-ships that carry their forces across the void?",
+    "correctAnswer" : "Hive Ship"
+  }, {
+    "id" : 75,
+    "army" : "tyranids",
+    "edition" : "ninth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What is the primary driving purpose of the Tyranid race across the galaxy?",
+    "options" : [ "To consume all biomass in their path", "To spread Chaos", "To serve the Emperor", "To mine mineral resources" ],
+    "correctAnswer" : "To consume all biomass in their path"
+  }, {
+    "id" : 76,
+    "army" : "tyranids",
+    "edition" : "ninth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What are the fast, melee-focused Tyranid swarm creatures with scything claws called?",
+    "correctAnswer" : "Hormagaunts"
+  }, {
+    "id" : 77,
+    "army" : "tyranids",
+    "edition" : "ninth",
+    "difficulty" : "medium",
+    "type" : "multipleChoice",
+    "questionText" : "What is the name for Tyranid organisms that infiltrate other species and implant genetic material to create hybrid offspring?",
+    "options" : [ "Genestealers", "Termagants", "Zoanthropes", "Tyranid Warriors" ],
+    "correctAnswer" : "Genestealers"
+  }, {
+    "id" : 78,
+    "army" : "tyranids",
+    "edition" : "ninth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What term describes the rapid biological evolution Tyranid swarms undergo to counter new enemy tactics?",
+    "correctAnswer" : "Adaptation"
+  }, {
+    "id" : 79,
+    "army" : "tyranids",
+    "edition" : "ninth",
+    "difficulty" : "hard",
+    "type" : "multipleChoice",
+    "questionText" : "What nickname, reflecting their all-consuming nature, is commonly used for the Tyranid race as a whole?",
+    "options" : [ "The Great Devourer", "The Silent King", "The Great Enemy", "The Reborn" ],
+    "correctAnswer" : "The Great Devourer"
+  }, {
+    "id" : 80,
+    "army" : "tyranids",
+    "edition" : "ninth",
+    "difficulty" : "hard",
+    "type" : "textBox",
+    "questionText" : "What term describes Tyranid creatures whose role is to relay Hive Mind commands to lesser swarm organisms nearby?",
+    "correctAnswer" : "Synapse creatures"
+  }, {
+    "id" : 81,
+    "army" : "tyranids",
+    "edition" : "tenth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What is the collective consciousness controlling the Tyranid race called?",
+    "options" : [ "The Hive Mind", "The Chaos Gods", "The Silent King", "The Omnissiah" ],
+    "correctAnswer" : "The Hive Mind"
+  }, {
+    "id" : 82,
+    "army" : "tyranids",
+    "edition" : "tenth",
+    "difficulty" : "easy",
+    "type" : "textBox",
+    "questionText" : "What do Tyranids call the massive living bio-ships that carry their forces across the void?",
+    "correctAnswer" : "Hive Ship"
+  }, {
+    "id" : 83,
+    "army" : "tyranids",
+    "edition" : "tenth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What is the primary driving purpose of the Tyranid race across the galaxy?",
+    "options" : [ "To consume all biomass in their path", "To spread Chaos", "To serve the Emperor", "To mine mineral resources" ],
+    "correctAnswer" : "To consume all biomass in their path"
+  }, {
+    "id" : 84,
+    "army" : "tyranids",
+    "edition" : "tenth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What are the fast, melee-focused Tyranid swarm creatures with scything claws called?",
+    "correctAnswer" : "Hormagaunts"
+  }, {
+    "id" : 85,
+    "army" : "tyranids",
+    "edition" : "tenth",
+    "difficulty" : "medium",
+    "type" : "multipleChoice",
+    "questionText" : "What is the name for Tyranid organisms that infiltrate other species and implant genetic material to create hybrid offspring?",
+    "options" : [ "Genestealers", "Termagants", "Zoanthropes", "Tyranid Warriors" ],
+    "correctAnswer" : "Genestealers"
+  }, {
+    "id" : 86,
+    "army" : "tyranids",
+    "edition" : "tenth",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What term describes the rapid biological evolution Tyranid swarms undergo to counter new enemy tactics?",
+    "correctAnswer" : "Adaptation"
+  }, {
+    "id" : 87,
+    "army" : "tyranids",
+    "edition" : "tenth",
+    "difficulty" : "hard",
+    "type" : "multipleChoice",
+    "questionText" : "What nickname, reflecting their all-consuming nature, is commonly used for the Tyranid race as a whole?",
+    "options" : [ "The Great Devourer", "The Silent King", "The Great Enemy", "The Reborn" ],
+    "correctAnswer" : "The Great Devourer"
+  }, {
+    "id" : 88,
+    "army" : "tyranids",
+    "edition" : "tenth",
+    "difficulty" : "hard",
+    "type" : "textBox",
+    "questionText" : "What term describes Tyranid creatures whose role is to relay Hive Mind commands to lesser swarm organisms nearby?",
+    "correctAnswer" : "Synapse creatures"
+  }, {
+    "id" : 89,
+    "army" : "tyranids",
+    "edition" : "eleventh",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What is the collective consciousness controlling the Tyranid race called?",
+    "options" : [ "The Hive Mind", "The Chaos Gods", "The Silent King", "The Omnissiah" ],
+    "correctAnswer" : "The Hive Mind"
+  }, {
+    "id" : 90,
+    "army" : "tyranids",
+    "edition" : "eleventh",
+    "difficulty" : "easy",
+    "type" : "textBox",
+    "questionText" : "What do Tyranids call the massive living bio-ships that carry their forces across the void?",
+    "correctAnswer" : "Hive Ship"
+  }, {
+    "id" : 91,
+    "army" : "tyranids",
+    "edition" : "eleventh",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What is the primary driving purpose of the Tyranid race across the galaxy?",
+    "options" : [ "To consume all biomass in their path", "To spread Chaos", "To serve the Emperor", "To mine mineral resources" ],
+    "correctAnswer" : "To consume all biomass in their path"
+  }, {
+    "id" : 92,
+    "army" : "tyranids",
+    "edition" : "eleventh",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What are the fast, melee-focused Tyranid swarm creatures with scything claws called?",
+    "correctAnswer" : "Hormagaunts"
+  }, {
+    "id" : 93,
+    "army" : "tyranids",
+    "edition" : "eleventh",
+    "difficulty" : "medium",
+    "type" : "multipleChoice",
+    "questionText" : "What is the name for Tyranid organisms that infiltrate other species and implant genetic material to create hybrid offspring?",
+    "options" : [ "Genestealers", "Termagants", "Zoanthropes", "Tyranid Warriors" ],
+    "correctAnswer" : "Genestealers"
+  }, {
+    "id" : 94,
+    "army" : "tyranids",
+    "edition" : "eleventh",
+    "difficulty" : "medium",
+    "type" : "textBox",
+    "questionText" : "What term describes the rapid biological evolution Tyranid swarms undergo to counter new enemy tactics?",
+    "correctAnswer" : "Adaptation"
+  }, {
+    "id" : 95,
+    "army" : "tyranids",
+    "edition" : "eleventh",
+    "difficulty" : "hard",
+    "type" : "multipleChoice",
+    "questionText" : "What nickname, reflecting their all-consuming nature, is commonly used for the Tyranid race as a whole?",
+    "options" : [ "The Great Devourer", "The Silent King", "The Great Enemy", "The Reborn" ],
+    "correctAnswer" : "The Great Devourer"
+  }, {
+    "id" : 96,
+    "army" : "tyranids",
+    "edition" : "eleventh",
+    "difficulty" : "hard",
+    "type" : "textBox",
+    "questionText" : "What term describes Tyranid creatures whose role is to relay Hive Mind commands to lesser swarm organisms nearby?",
+    "correctAnswer" : "Synapse creatures"
+  }, {
+    "id" : 97,
+    "army" : "adeptusMechanicus",
+    "edition" : "tenth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What ability [keyword] does the Protector Imperative give?",
+    "options" : [ "RAPID FIRE 1", "ASSAULT", "PRECISION", "HEAVY" ],
+    "correctAnswer" : "Heavy"
+  } ]
+}
