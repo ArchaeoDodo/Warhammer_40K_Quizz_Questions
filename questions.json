@@ -1,5 +1,5 @@
 {
-  "version": "0.0.6",
+  "version": "0.0.7",
   "questions": [
     {
       "id": 1,
@@ -3763,6 +3763,1260 @@
         "35"
       ],
       "correctAnswer": "30"
+    },
+    {
+      "id": 299,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Space Marines' army-wide rule called?",
+      "options": [
+        "Oath of Moment",
+        "Waaagh!",
+        "Synapse",
+        "Reanimation Protocols"
+      ],
+      "correctAnswer": "Oath of Moment"
+    },
+    {
+      "id": 300,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Against your Oath of Moment target, what can you re-roll on attacks made by models with the ability?",
+      "options": [
+        "Hit roll",
+        "Wound roll",
+        "Damage roll",
+        "Save roll"
+      ],
+      "correctAnswer": "Hit roll"
+    },
+    {
+      "id": 301,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What faction keyword do all Space Marines units share, reflecting their post-human warrior nature?",
+      "correctAnswer": "ADEPTUS ASTARTES"
+    },
+    {
+      "id": 302,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of an Intercessor?",
+      "options": [
+        "T3",
+        "T4",
+        "T5",
+        "T6"
+      ],
+      "correctAnswer": "T4"
+    },
+    {
+      "id": 303,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How many points does a unit of 10 Intercessors cost?",
+      "options": [
+        "140",
+        "150",
+        "160",
+        "170"
+      ],
+      "correctAnswer": "160"
+    },
+    {
+      "id": 304,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 5 Intercessors cost?",
+      "correctAnswer": "80"
+    },
+    {
+      "id": 305,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What invulnerable save does a Terminator Squad have?",
+      "options": [
+        "3+",
+        "4+",
+        "5+",
+        "None"
+      ],
+      "correctAnswer": "4+"
+    },
+    {
+      "id": 306,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the armour Save characteristic of a Terminator Squad?",
+      "options": [
+        "2+",
+        "3+",
+        "4+",
+        "5+"
+      ],
+      "correctAnswer": "2+"
+    },
+    {
+      "id": 307,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 5 Terminators cost?",
+      "correctAnswer": "170"
+    },
+    {
+      "id": 308,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which keyword identifies a Captain, Lieutenant, Librarian, Chaplain, and Techmarine as unique leader models?",
+      "options": [
+        "CHARACTER",
+        "EPIC HERO",
+        "LEADER",
+        "NOBLE"
+      ],
+      "correctAnswer": "CHARACTER"
+    },
+    {
+      "id": 309,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a Captain cost?",
+      "correctAnswer": "80"
+    },
+    {
+      "id": 310,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Redemptor Dreadnought?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "id": 311,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a Redemptor Dreadnought cost?",
+      "correctAnswer": "205"
+    },
+    {
+      "id": 312,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of a Land Raider?",
+      "options": [
+        "T10",
+        "T11",
+        "T12",
+        "T13"
+      ],
+      "correctAnswer": "T12"
+    },
+    {
+      "id": 313,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a Land Raider cost?",
+      "correctAnswer": "220"
+    },
+    {
+      "id": 314,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which ability lets Terminator Squads and Terminator Assault Squads arrive mid-battle by teleporting in?",
+      "options": [
+        "Deep Strike",
+        "Scouts",
+        "Infiltrators",
+        "Rapid Ingress"
+      ],
+      "correctAnswer": "Deep Strike"
+    },
+    {
+      "id": 315,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What invulnerable save does a Bladeguard Veteran Squad have?",
+      "options": [
+        "3+",
+        "4+",
+        "5+",
+        "None"
+      ],
+      "correctAnswer": "4+"
+    },
+    {
+      "id": 316,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Space Marines detachment has the detachment rule \"Combat Doctrines\"?",
+      "correctAnswer": "Gladius Task Force"
+    },
+    {
+      "id": 317,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which detachment's rule, \"Shield of the Imperium\", grants ranged weapons the Heavy ability?",
+      "correctAnswer": "Anvil Siege Force"
+    },
+    {
+      "id": 318,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which detachment's rule, \"Lightning Assault\", lets units declare a charge in a turn they Advanced or Fell Back?",
+      "options": [
+        "Stormlance Task Force",
+        "Ironstorm Spearhead",
+        "Armoured Speartip",
+        "Vanguard Spearhead"
+      ],
+      "correctAnswer": "Stormlance Task Force"
+    },
+    {
+      "id": 319,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which detachment's rule, \"Close-range Eradication\", grants ranged weapons the Assault ability and +1 Strength against targets within 12\"?",
+      "options": [
+        "Firestorm Assault Force",
+        "Anvil Siege Force",
+        "Bastion Task Force",
+        "Orbital Assault Force"
+      ],
+      "correctAnswer": "Firestorm Assault Force"
+    },
+    {
+      "id": 320,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which detachment's rule, \"Shadow Masters\", penalises enemy ranged attacks made against your units from beyond 12\"?",
+      "options": [
+        "Vanguard Spearhead",
+        "Ceramite Sentinels",
+        "Headhunter Task Force",
+        "1st Company Task Force"
+      ],
+      "correctAnswer": "Vanguard Spearhead"
+    },
+    {
+      "id": 321,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which detachment's rule, \"Psychic Disciplines\", lets you pick a Discipline each battle round for your Psyker units?",
+      "correctAnswer": "Librarius Conclave"
+    },
+    {
+      "id": 322,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Under the Gladius Task Force's Combat Doctrines, which Doctrine lets a unit shoot in a turn it Advanced?",
+      "options": [
+        "Devastator Doctrine",
+        "Tactical Doctrine",
+        "Assault Doctrine",
+        "Siege Doctrine"
+      ],
+      "correctAnswer": "Devastator Doctrine"
+    },
+    {
+      "id": 323,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which Combat Doctrine lets a unit shoot and declare a charge in a turn it Fell Back?",
+      "options": [
+        "Tactical Doctrine",
+        "Devastator Doctrine",
+        "Assault Doctrine",
+        "Siege Doctrine"
+      ],
+      "correctAnswer": "Tactical Doctrine"
+    },
+    {
+      "id": 324,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Sternguard Veteran?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 325,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 10 Sternguard Veterans cost?",
+      "correctAnswer": "200"
+    },
+    {
+      "id": 326,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which Chaplain ability lets him remove Battle-shock from a friendly unit once per battle?",
+      "options": [
+        "Spiritual Leader",
+        "Litany of Hate",
+        "Oath of Moment",
+        "Rites of Battle"
+      ],
+      "correctAnswer": "Spiritual Leader"
+    },
+    {
+      "id": 327,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of an Aggressor?",
+      "options": [
+        "T5",
+        "T6",
+        "T7",
+        "T8"
+      ],
+      "correctAnswer": "T6"
+    },
+    {
+      "id": 328,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 6 Aggressors cost?",
+      "correctAnswer": "190"
+    },
+    {
+      "id": 329,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Predator Destructor?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctAnswer": "11"
+    },
+    {
+      "id": 330,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many points does a Predator Destructor cost?",
+      "correctAnswer": "140"
+    },
+    {
+      "id": 331,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "How many standard Infantry models can a Land Raider transport?",
+      "options": [
+        "6",
+        "10",
+        "12",
+        "14"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "id": 332,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "How many standard Infantry models can a Repulsor transport?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswer": "14"
+    },
+    {
+      "id": 333,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 6 Centurion Devastators cost?",
+      "correctAnswer": "350"
+    },
+    {
+      "id": 334,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of a Centurion Devastator?",
+      "options": [
+        "T6",
+        "T7",
+        "T8",
+        "T9"
+      ],
+      "correctAnswer": "T7"
+    },
+    {
+      "id": 335,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which Captain ability grants +3 Attacks and Devastating Wounds to his melee weapons, once per battle?",
+      "options": [
+        "Finest Hour",
+        "Rites of Battle",
+        "Oath of Moment",
+        "Might is Right"
+      ],
+      "correctAnswer": "Finest Hour"
+    },
+    {
+      "id": 336,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which Librarian ability grants Feel No Pain 4+ against Psychic Attacks to the unit he leads?",
+      "correctAnswer": "Psychic Hood"
+    },
+    {
+      "id": 337,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which Librarian ability grants a 4+ invulnerable save to the unit he leads?",
+      "options": [
+        "Mental Fortress",
+        "Psychic Hood",
+        "Force Barrier",
+        "Aegis"
+      ],
+      "correctAnswer": "Mental Fortress"
+    },
+    {
+      "id": 338,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Under the 1st Company Task Force's \"Extremis-level Threat\" ability, what can you additionally re-roll against your Oath of Moment target, once per battle?",
+      "options": [
+        "Wound roll",
+        "Hit roll",
+        "Damage roll",
+        "Advance roll"
+      ],
+      "correctAnswer": "Wound roll"
+    },
+    {
+      "id": 339,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which Anvil Siege Force enhancement grants the bearer a self-revival effect if destroyed?",
+      "correctAnswer": "Indomitable Fury"
+    },
+    {
+      "id": 340,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "How many points does the Anvil Siege Force enhancement \"Indomitable Fury\" cost?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "id": 341,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of an Invictor Tactical Warsuit?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "14"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "id": 342,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "How many points does an Invictor Tactical Warsuit cost?",
+      "correctAnswer": "125"
+    },
+    {
+      "id": 343,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Damage characteristic of a thunder hammer?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "D3"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 344,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What special ability does a thunder hammer have?",
+      "correctAnswer": "Devastating Wounds"
+    },
+    {
+      "id": 345,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which Ceramite Sentinels detachment rule reduces the Damage characteristic of attacks made against friendly Dreadnought models by 1?",
+      "options": [
+        "Adaptive Defence",
+        "Duty Eternal",
+        "Wisdom of the Ancients",
+        "Unyielding"
+      ],
+      "correctAnswer": "Adaptive Defence"
+    },
+    {
+      "id": 346,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of a chainfist?",
+      "options": [
+        "S6",
+        "S7",
+        "S8",
+        "S9"
+      ],
+      "correctAnswer": "S8"
+    },
+    {
+      "id": 347,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What special ability does a chainfist have that helps it fight armoured targets?",
+      "correctAnswer": "Anti-Vehicle 3+"
+    },
+    {
+      "id": 348,
+      "army": "spaceMarines",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "How many points does a unit of 10 Terminators cost?",
+      "options": [
+        "320",
+        "330",
+        "340",
+        "350"
+      ],
+      "correctAnswer": "340"
+    },
+    {
+      "id": 349,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Chaos Daemons' army-wide rule called?",
+      "options": [
+        "The Shadow of Chaos",
+        "Waaagh!",
+        "Synapse",
+        "Oath of Moment"
+      ],
+      "correctAnswer": "The Shadow of Chaos"
+    },
+    {
+      "id": 350,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What faction keyword marks a unit as belonging to the Chaos Daemons army?",
+      "correctAnswer": "LEGIONES DAEMONICA"
+    },
+    {
+      "id": 351,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of a Bloodletter?",
+      "options": [
+        "T3",
+        "T4",
+        "T5",
+        "T6"
+      ],
+      "correctAnswer": "T4"
+    },
+    {
+      "id": 352,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What invulnerable save do Bloodletters have?",
+      "options": [
+        "3+",
+        "4+",
+        "5+",
+        "6+"
+      ],
+      "correctAnswer": "5+"
+    },
+    {
+      "id": 353,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 10 Bloodletters cost?",
+      "correctAnswer": "110"
+    },
+    {
+      "id": 354,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Bloodthirster?",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "correctAnswer": "18"
+    },
+    {
+      "id": 355,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a Bloodthirster cost?",
+      "correctAnswer": "305"
+    },
+    {
+      "id": 356,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which keyword marks Skulltaker and Karanak as one-of-a-kind characters?",
+      "options": [
+        "EPIC HERO",
+        "CHARACTER",
+        "LEGENDARY",
+        "GREATER DAEMON"
+      ],
+      "correctAnswer": "EPIC HERO"
+    },
+    {
+      "id": 357,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of a Pink Horror?",
+      "options": [
+        "T2",
+        "T3",
+        "T4",
+        "T5"
+      ],
+      "correctAnswer": "T3"
+    },
+    {
+      "id": 358,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 10 Pink Horrors cost?",
+      "correctAnswer": "140"
+    },
+    {
+      "id": 359,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Lord of Change?",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "correctAnswer": "18"
+    },
+    {
+      "id": 360,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a Lord of Change cost?",
+      "correctAnswer": "285"
+    },
+    {
+      "id": 361,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What invulnerable save do Daemonettes have?",
+      "options": [
+        "3+",
+        "4+",
+        "5+",
+        "6+"
+      ],
+      "correctAnswer": "5+"
+    },
+    {
+      "id": 362,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 10 Daemonettes cost?",
+      "correctAnswer": "100"
+    },
+    {
+      "id": 363,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Keeper of Secrets?",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "correctAnswer": "18"
+    },
+    {
+      "id": 364,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a Keeper of Secrets cost?",
+      "correctAnswer": "240"
+    },
+    {
+      "id": 365,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which ability lets Chaos Daemons units arrive on the battlefield mid-battle by teleporting in from the Warp?",
+      "options": [
+        "Deep Strike",
+        "Scouts",
+        "Infiltrators",
+        "Stealth"
+      ],
+      "correctAnswer": "Deep Strike"
+    },
+    {
+      "id": 366,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Chaos Daemons detachment has the detachment rule \"Warp Rifts\"?",
+      "correctAnswer": "Daemonic Incursion"
+    },
+    {
+      "id": 367,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Chaos Daemons detachment has the detachment rules \"Murdercall\" and \"Blood Tainted\"?",
+      "correctAnswer": "Blood Legion"
+    },
+    {
+      "id": 368,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which detachment's rule, \"Melancholic Miasma\", forces an enemy unit within your Shadow of Chaos to take a Battle-shock test each Command phase?",
+      "options": [
+        "Plague Legion",
+        "Blood Legion",
+        "Legion of Excess",
+        "Scintillating Legion"
+      ],
+      "correctAnswer": "Plague Legion"
+    },
+    {
+      "id": 369,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which detachment's rule, \"Fates in Flux\", grants your army Flux tokens that can be spent to re-roll dice?",
+      "options": [
+        "Scintillating Legion",
+        "Shadow Legion",
+        "Daemonic Incursion",
+        "Legion of Excess"
+      ],
+      "correctAnswer": "Scintillating Legion"
+    },
+    {
+      "id": 370,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which detachment's rules, \"Beguiling Aura\" and \"Seductive Gambit\", let Slaanesh units declare a charge in a turn they Fell Back?",
+      "options": [
+        "Legion of Excess",
+        "Blood Legion",
+        "Plague Legion",
+        "Shadow Legion"
+      ],
+      "correctAnswer": "Legion of Excess"
+    },
+    {
+      "id": 371,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many Flux tokens does the Scintillating Legion detachment's army start the battle with?",
+      "correctAnswer": "3"
+    },
+    {
+      "id": 372,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of a Great Unclean One?",
+      "options": [
+        "T10",
+        "T11",
+        "T12",
+        "T14"
+      ],
+      "correctAnswer": "T12"
+    },
+    {
+      "id": 373,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many points does a Great Unclean One cost?",
+      "correctAnswer": "250"
+    },
+    {
+      "id": 374,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which ability lets a Beast of Nurgle that lost wounds (but wasn't destroyed) regain all of those lost wounds at the end of each phase?",
+      "options": [
+        "Grotesque Regeneration",
+        "Feel No Pain",
+        "Daemonic Resilience",
+        "Nurgle's Rot"
+      ],
+      "correctAnswer": "Grotesque Regeneration"
+    },
+    {
+      "id": 375,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Objective Control characteristic of Nurglings?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": "0"
+    },
+    {
+      "id": 376,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 6 Nurglings cost?",
+      "correctAnswer": "70"
+    },
+    {
+      "id": 377,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of Skarbrand?",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "22"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "id": 378,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many points does Skarbrand cost?",
+      "correctAnswer": "305"
+    },
+    {
+      "id": 379,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of Shalaxi Helbane?",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "22"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "id": 380,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many points does Shalaxi Helbane cost?",
+      "correctAnswer": "340"
+    },
+    {
+      "id": 381,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of Be'lakor?",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "22"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "id": 382,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many points does Be'lakor cost?",
+      "correctAnswer": "375"
+    },
+    {
+      "id": 383,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "How many points does Kairos Fateweaver cost?",
+      "correctAnswer": "295"
+    },
+    {
+      "id": 384,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of Kairos Fateweaver?",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "22"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "id": 385,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Daemon Prince of Chaos?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "id": 386,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "How many points does a Daemon Prince of Chaos cost?",
+      "correctAnswer": "190"
+    },
+    {
+      "id": 387,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of a Soul Grinder?",
+      "options": [
+        "T9",
+        "T10",
+        "T11",
+        "T12"
+      ],
+      "correctAnswer": "T11"
+    },
+    {
+      "id": 388,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "How many points does a Soul Grinder cost?",
+      "correctAnswer": "180"
+    },
+    {
+      "id": 389,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Damage characteristic of the Bloodthirster's Bloodflail?",
+      "options": [
+        "D6",
+        "D6+1",
+        "D3+1",
+        "2D6"
+      ],
+      "correctAnswer": "D6+1"
+    },
+    {
+      "id": 390,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What special ability does the Bloodflail have?",
+      "correctAnswer": "Devastating Wounds"
+    },
+    {
+      "id": 391,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of Be'lakor's \"The Blade of Shadows\" on its \"strike\" profile?",
+      "options": [
+        "S12",
+        "S14",
+        "S16",
+        "S18"
+      ],
+      "correctAnswer": "S14"
+    },
+    {
+      "id": 392,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Damage characteristic of Be'lakor's \"The Blade of Shadows\" on its \"strike\" profile?",
+      "correctAnswer": "D6+1"
+    },
+    {
+      "id": 393,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "The Daemonic Incursion enhancement \"The Everstave\" can only be taken by a model with which God's keyword?",
+      "options": [
+        "Tzeentch",
+        "Khorne",
+        "Nurgle",
+        "Slaanesh"
+      ],
+      "correctAnswer": "Tzeentch"
+    },
+    {
+      "id": 394,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "How many points does the Daemonic Incursion enhancement \"The Everstave\" cost?",
+      "correctAnswer": "25"
+    },
+    {
+      "id": 395,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which Blood Legion enhancement grants friendly Khorne units (excluding Monsters) within 6\" the Lance ability on their weapons?",
+      "options": [
+        "Slaughterthirst",
+        "Brazenmaw",
+        "Fury's Cage",
+        "Gateway Unto Damnation"
+      ],
+      "correctAnswer": "Slaughterthirst"
+    },
+    {
+      "id": 396,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "How many points does the Blood Legion enhancement \"Slaughterthirst\" cost?",
+      "correctAnswer": "25"
+    },
+    {
+      "id": 397,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of Rotigus's Gnarlrod on its \"strike\" profile?",
+      "options": [
+        "S8",
+        "S9",
+        "S10",
+        "S12"
+      ],
+      "correctAnswer": "S10"
+    },
+    {
+      "id": 398,
+      "army": "chaosDaemons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "How many points does Rotigus cost?",
+      "correctAnswer": "265"
     }
   ]
 }
