@@ -1,5 +1,5 @@
 {
-  "version" : "0.0.4",
+  "version" : "0.0.5",
   "questions" : [ {
     "id" : 1,
     "army" : "adeptusMechanicus",
@@ -842,6 +842,15 @@
     "type" : "multipleChoice",
     "questionText" : "What ability [keyword] does the Protector Imperative give?",
     "options" : [ "RAPID FIRE 1", "ASSAULT", "PRECISION", "HEAVY" ],
-    "correctAnswer" : "Heavy"
+    "correctAnswer" : "HEAVY"
+  }, {
+    "id" : 98,
+    "army" : "adeptusMechanicus",
+    "edition" : "tenth",
+    "difficulty" : "easy",
+    "type" : "multipleChoice",
+    "questionText" : "What ability [keyword] does the Conqueror Imperative give?",
+    "options" : [ "RAPID FIRE 1", "HEAVY", "ASSAULT", "PRECISION" ],
+    "correctAnswer" : "ASSAULT"
   } ]
 }
