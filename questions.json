@@ -1,856 +1,3768 @@
 {
-  "version" : "0.0.5",
-  "questions" : [ {
-    "id" : 1,
-    "army" : "adeptusMechanicus",
-    "edition" : "ninth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What is the home world of the Adeptus Mechanicus?",
-    "options" : [ "Mars", "Terra", "Baal", "Holy Terra" ],
-    "correctAnswer" : "Mars"
-  }, {
-    "id" : 2,
-    "army" : "adeptusMechanicus",
-    "edition" : "ninth",
-    "difficulty" : "easy",
-    "type" : "textBox",
-    "questionText" : "What deity do the Adeptus Mechanicus worship, believed to be the Emperor in machine form?",
-    "correctAnswer" : "The Omnissiah",
-    "explanation" : "The Mechanicus venerate the Omnissiah, an aspect of the Machine God they believe the Emperor embodies."
-  }, {
-    "id" : 3,
-    "army" : "adeptusMechanicus",
-    "edition" : "ninth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What title is held by the supreme leader of the Adeptus Mechanicus?",
-    "options" : [ "Fabricator-General", "Chapter Master", "Primarch", "High Lord" ],
-    "correctAnswer" : "Fabricator-General"
-  }, {
-    "id" : 4,
-    "army" : "adeptusMechanicus",
-    "edition" : "ninth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What are the Adeptus Mechanicus' rank-and-file soldier-servants called?",
-    "correctAnswer" : "Skitarii"
-  }, {
-    "id" : 5,
-    "army" : "adeptusMechanicus",
-    "edition" : "ninth",
-    "difficulty" : "medium",
-    "type" : "multipleChoice",
-    "questionText" : "What term describes the Mechanicus' religious devotion to technology?",
-    "options" : [ "Cult Mechanicus", "The Ecclesiarchy", "The Inquisition", "The Astra Militarum" ],
-    "correctAnswer" : "Cult Mechanicus"
-  }, {
-    "id" : 6,
-    "army" : "adeptusMechanicus",
-    "edition" : "ninth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What is the general term for the cybernetic body enhancements common among Tech-Priests?",
-    "correctAnswer" : "Augmetics"
-  }, {
-    "id" : 7,
-    "army" : "adeptusMechanicus",
-    "edition" : "ninth",
-    "difficulty" : "hard",
-    "type" : "multipleChoice",
-    "questionText" : "What is the name of the ancient pact granting the Adeptus Mechanicus autonomy within the Imperium?",
-    "options" : [ "The Treaty of Mars", "The Edict of Terra", "The Codex Astartes", "The Word of the Omnissiah" ],
-    "correctAnswer" : "The Treaty of Mars"
-  }, {
-    "id" : 8,
-    "army" : "adeptusMechanicus",
-    "edition" : "ninth",
-    "difficulty" : "hard",
-    "type" : "textBox",
-    "questionText" : "What term describes Mechanicus expeditions sent to recover lost archeotech across the galaxy?",
-    "correctAnswer" : "Explorator Fleet",
-    "explanation" : "Explorator fleets range far beyond Imperial space hunting for lost technology."
-  }, {
-    "id" : 9,
-    "army" : "adeptusMechanicus",
-    "edition" : "tenth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What is the home world of the Adeptus Mechanicus?",
-    "options" : [ "Mars", "Terra", "Baal", "Holy Terra" ],
-    "correctAnswer" : "Mars"
-  }, {
-    "id" : 10,
-    "army" : "adeptusMechanicus",
-    "edition" : "tenth",
-    "difficulty" : "easy",
-    "type" : "textBox",
-    "questionText" : "What deity do the Adeptus Mechanicus worship, believed to be the Emperor in machine form?",
-    "correctAnswer" : "The Omnissiah",
-    "explanation" : "The Mechanicus venerate the Omnissiah, an aspect of the Machine God they believe the Emperor embodies."
-  }, {
-    "id" : 11,
-    "army" : "adeptusMechanicus",
-    "edition" : "tenth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What title is held by the supreme leader of the Adeptus Mechanicus?",
-    "options" : [ "Fabricator-General", "Chapter Master", "Primarch", "High Lord" ],
-    "correctAnswer" : "Fabricator-General"
-  }, {
-    "id" : 12,
-    "army" : "adeptusMechanicus",
-    "edition" : "tenth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What are the Adeptus Mechanicus' rank-and-file soldier-servants called?",
-    "correctAnswer" : "Skitarii"
-  }, {
-    "id" : 13,
-    "army" : "adeptusMechanicus",
-    "edition" : "tenth",
-    "difficulty" : "medium",
-    "type" : "multipleChoice",
-    "questionText" : "What term describes the Mechanicus' religious devotion to technology?",
-    "options" : [ "Cult Mechanicus", "The Ecclesiarchy", "The Inquisition", "The Astra Militarum" ],
-    "correctAnswer" : "Cult Mechanicus"
-  }, {
-    "id" : 14,
-    "army" : "adeptusMechanicus",
-    "edition" : "tenth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What is the general term for the cybernetic body enhancements common among Tech-Priests?",
-    "correctAnswer" : "Augmetics"
-  }, {
-    "id" : 15,
-    "army" : "adeptusMechanicus",
-    "edition" : "tenth",
-    "difficulty" : "hard",
-    "type" : "multipleChoice",
-    "questionText" : "What is the name of the ancient pact granting the Adeptus Mechanicus autonomy within the Imperium?",
-    "options" : [ "The Treaty of Mars", "The Edict of Terra", "The Codex Astartes", "The Word of the Omnissiah" ],
-    "correctAnswer" : "The Treaty of Mars"
-  }, {
-    "id" : 16,
-    "army" : "adeptusMechanicus",
-    "edition" : "tenth",
-    "difficulty" : "hard",
-    "type" : "textBox",
-    "questionText" : "What term describes Mechanicus expeditions sent to recover lost archeotech across the galaxy?",
-    "correctAnswer" : "Explorator Fleet",
-    "explanation" : "Explorator fleets range far beyond Imperial space hunting for lost technology."
-  }, {
-    "id" : 17,
-    "army" : "adeptusMechanicus",
-    "edition" : "eleventh",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What is the home world of the Adeptus Mechanicus?",
-    "options" : [ "Mars", "Terra", "Baal", "Holy Terra" ],
-    "correctAnswer" : "Mars"
-  }, {
-    "id" : 18,
-    "army" : "adeptusMechanicus",
-    "edition" : "eleventh",
-    "difficulty" : "easy",
-    "type" : "textBox",
-    "questionText" : "What deity do the Adeptus Mechanicus worship, believed to be the Emperor in machine form?",
-    "correctAnswer" : "The Omnissiah",
-    "explanation" : "The Mechanicus venerate the Omnissiah, an aspect of the Machine God they believe the Emperor embodies."
-  }, {
-    "id" : 19,
-    "army" : "adeptusMechanicus",
-    "edition" : "eleventh",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What title is held by the supreme leader of the Adeptus Mechanicus?",
-    "options" : [ "Fabricator-General", "Chapter Master", "Primarch", "High Lord" ],
-    "correctAnswer" : "Fabricator-General"
-  }, {
-    "id" : 20,
-    "army" : "adeptusMechanicus",
-    "edition" : "eleventh",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What are the Adeptus Mechanicus' rank-and-file soldier-servants called?",
-    "correctAnswer" : "Skitarii"
-  }, {
-    "id" : 21,
-    "army" : "adeptusMechanicus",
-    "edition" : "eleventh",
-    "difficulty" : "medium",
-    "type" : "multipleChoice",
-    "questionText" : "What term describes the Mechanicus' religious devotion to technology?",
-    "options" : [ "Cult Mechanicus", "The Ecclesiarchy", "The Inquisition", "The Astra Militarum" ],
-    "correctAnswer" : "Cult Mechanicus"
-  }, {
-    "id" : 22,
-    "army" : "adeptusMechanicus",
-    "edition" : "eleventh",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What is the general term for the cybernetic body enhancements common among Tech-Priests?",
-    "correctAnswer" : "Augmetics"
-  }, {
-    "id" : 23,
-    "army" : "adeptusMechanicus",
-    "edition" : "eleventh",
-    "difficulty" : "hard",
-    "type" : "multipleChoice",
-    "questionText" : "What is the name of the ancient pact granting the Adeptus Mechanicus autonomy within the Imperium?",
-    "options" : [ "The Treaty of Mars", "The Edict of Terra", "The Codex Astartes", "The Word of the Omnissiah" ],
-    "correctAnswer" : "The Treaty of Mars"
-  }, {
-    "id" : 24,
-    "army" : "adeptusMechanicus",
-    "edition" : "eleventh",
-    "difficulty" : "hard",
-    "type" : "textBox",
-    "questionText" : "What term describes Mechanicus expeditions sent to recover lost archeotech across the galaxy?",
-    "correctAnswer" : "Explorator Fleet",
-    "explanation" : "Explorator fleets range far beyond Imperial space hunting for lost technology."
-  }, {
-    "id" : 25,
-    "army" : "necrons",
-    "edition" : "ninth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What material are Necron Warriors' bodies primarily made of?",
-    "options" : [ "Living metal", "Flesh", "Ceramite", "Wood" ],
-    "correctAnswer" : "Living metal"
-  }, {
-    "id" : 26,
-    "army" : "necrons",
-    "edition" : "ninth",
-    "difficulty" : "easy",
-    "type" : "textBox",
-    "questionText" : "What ancient star-devouring race did the Necrontyr make a pact with, gaining immortality at the cost of their souls?",
-    "correctAnswer" : "The C'tan"
-  }, {
-    "id" : 27,
-    "army" : "necrons",
-    "edition" : "ninth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What weapon type, firing a disintegrating green beam, is most iconic to basic Necron Warriors?",
-    "options" : [ "Gauss weapon", "Bolter", "Shoota", "Lasgun" ],
-    "correctAnswer" : "Gauss weapon"
-  }, {
-    "id" : 28,
-    "army" : "necrons",
-    "edition" : "ninth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "Who is the supreme ruler of the Necrons, awakened to reunite his shattered empire?",
-    "correctAnswer" : "The Silent King",
-    "explanation" : "Also known by his true name, Szarekh."
-  }, {
-    "id" : 29,
-    "army" : "necrons",
-    "edition" : "ninth",
-    "difficulty" : "medium",
-    "type" : "multipleChoice",
-    "questionText" : "What was the name of the Necrons' original species/empire before they sacrificed their flesh for immortality?",
-    "options" : [ "The Necrontyr", "The Eldar", "The Old Ones", "The Aeldari" ],
-    "correctAnswer" : "The Necrontyr"
-  }, {
-    "id" : 30,
-    "army" : "necrons",
-    "edition" : "ninth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What is the name for a Necron's ability to self-repair and reassemble after being destroyed in battle?",
-    "correctAnswer" : "Reanimation Protocols"
-  }, {
-    "id" : 31,
-    "army" : "necrons",
-    "edition" : "ninth",
-    "difficulty" : "hard",
-    "type" : "multipleChoice",
-    "questionText" : "What process did the Necrontyr undergo to transfer their consciousness into immortal metal bodies?",
-    "options" : [ "Biotransference", "Ascension", "Chapter Rites", "Deployment" ],
-    "correctAnswer" : "Biotransference"
-  }, {
-    "id" : 32,
-    "army" : "necrons",
-    "edition" : "ninth",
-    "difficulty" : "hard",
-    "type" : "textBox",
-    "questionText" : "What is the collective name for the star-god beings the Necrontyr made their fateful pact with?",
-    "correctAnswer" : "C'tan",
-    "explanation" : "Sometimes called the Star Gods, the C'tan fed on the energy of stars and living souls."
-  }, {
-    "id" : 33,
-    "army" : "necrons",
-    "edition" : "tenth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What material are Necron Warriors' bodies primarily made of?",
-    "options" : [ "Living metal", "Flesh", "Ceramite", "Wood" ],
-    "correctAnswer" : "Living metal"
-  }, {
-    "id" : 34,
-    "army" : "necrons",
-    "edition" : "tenth",
-    "difficulty" : "easy",
-    "type" : "textBox",
-    "questionText" : "What ancient star-devouring race did the Necrontyr make a pact with, gaining immortality at the cost of their souls?",
-    "correctAnswer" : "The C'tan"
-  }, {
-    "id" : 35,
-    "army" : "necrons",
-    "edition" : "tenth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What weapon type, firing a disintegrating green beam, is most iconic to basic Necron Warriors?",
-    "options" : [ "Gauss weapon", "Bolter", "Shoota", "Lasgun" ],
-    "correctAnswer" : "Gauss weapon"
-  }, {
-    "id" : 36,
-    "army" : "necrons",
-    "edition" : "tenth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "Who is the supreme ruler of the Necrons, awakened to reunite his shattered empire?",
-    "correctAnswer" : "The Silent King",
-    "explanation" : "Also known by his true name, Szarekh."
-  }, {
-    "id" : 37,
-    "army" : "necrons",
-    "edition" : "tenth",
-    "difficulty" : "medium",
-    "type" : "multipleChoice",
-    "questionText" : "What was the name of the Necrons' original species/empire before they sacrificed their flesh for immortality?",
-    "options" : [ "The Necrontyr", "The Eldar", "The Old Ones", "The Aeldari" ],
-    "correctAnswer" : "The Necrontyr"
-  }, {
-    "id" : 38,
-    "army" : "necrons",
-    "edition" : "tenth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What is the name for a Necron's ability to self-repair and reassemble after being destroyed in battle?",
-    "correctAnswer" : "Reanimation Protocols"
-  }, {
-    "id" : 39,
-    "army" : "necrons",
-    "edition" : "tenth",
-    "difficulty" : "hard",
-    "type" : "multipleChoice",
-    "questionText" : "What process did the Necrontyr undergo to transfer their consciousness into immortal metal bodies?",
-    "options" : [ "Biotransference", "Ascension", "Chapter Rites", "Deployment" ],
-    "correctAnswer" : "Biotransference"
-  }, {
-    "id" : 40,
-    "army" : "necrons",
-    "edition" : "tenth",
-    "difficulty" : "hard",
-    "type" : "textBox",
-    "questionText" : "What is the collective name for the star-god beings the Necrontyr made their fateful pact with?",
-    "correctAnswer" : "C'tan",
-    "explanation" : "Sometimes called the Star Gods, the C'tan fed on the energy of stars and living souls."
-  }, {
-    "id" : 41,
-    "army" : "necrons",
-    "edition" : "eleventh",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What material are Necron Warriors' bodies primarily made of?",
-    "options" : [ "Living metal", "Flesh", "Ceramite", "Wood" ],
-    "correctAnswer" : "Living metal"
-  }, {
-    "id" : 42,
-    "army" : "necrons",
-    "edition" : "eleventh",
-    "difficulty" : "easy",
-    "type" : "textBox",
-    "questionText" : "What ancient star-devouring race did the Necrontyr make a pact with, gaining immortality at the cost of their souls?",
-    "correctAnswer" : "The C'tan"
-  }, {
-    "id" : 43,
-    "army" : "necrons",
-    "edition" : "eleventh",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What weapon type, firing a disintegrating green beam, is most iconic to basic Necron Warriors?",
-    "options" : [ "Gauss weapon", "Bolter", "Shoota", "Lasgun" ],
-    "correctAnswer" : "Gauss weapon"
-  }, {
-    "id" : 44,
-    "army" : "necrons",
-    "edition" : "eleventh",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "Who is the supreme ruler of the Necrons, awakened to reunite his shattered empire?",
-    "correctAnswer" : "The Silent King",
-    "explanation" : "Also known by his true name, Szarekh."
-  }, {
-    "id" : 45,
-    "army" : "necrons",
-    "edition" : "eleventh",
-    "difficulty" : "medium",
-    "type" : "multipleChoice",
-    "questionText" : "What was the name of the Necrons' original species/empire before they sacrificed their flesh for immortality?",
-    "options" : [ "The Necrontyr", "The Eldar", "The Old Ones", "The Aeldari" ],
-    "correctAnswer" : "The Necrontyr"
-  }, {
-    "id" : 46,
-    "army" : "necrons",
-    "edition" : "eleventh",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What is the name for a Necron's ability to self-repair and reassemble after being destroyed in battle?",
-    "correctAnswer" : "Reanimation Protocols"
-  }, {
-    "id" : 47,
-    "army" : "necrons",
-    "edition" : "eleventh",
-    "difficulty" : "hard",
-    "type" : "multipleChoice",
-    "questionText" : "What process did the Necrontyr undergo to transfer their consciousness into immortal metal bodies?",
-    "options" : [ "Biotransference", "Ascension", "Chapter Rites", "Deployment" ],
-    "correctAnswer" : "Biotransference"
-  }, {
-    "id" : 48,
-    "army" : "necrons",
-    "edition" : "eleventh",
-    "difficulty" : "hard",
-    "type" : "textBox",
-    "questionText" : "What is the collective name for the star-god beings the Necrontyr made their fateful pact with?",
-    "correctAnswer" : "C'tan",
-    "explanation" : "Sometimes called the Star Gods, the C'tan fed on the energy of stars and living souls."
-  }, {
-    "id" : 49,
-    "army" : "orks",
-    "edition" : "ninth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What Ork word describes anything relating to shooting or firepower?",
-    "options" : [ "Dakka", "Squig", "Waaagh", "Gubbinz" ],
-    "correctAnswer" : "Dakka"
-  }, {
-    "id" : 50,
-    "army" : "orks",
-    "edition" : "ninth",
-    "difficulty" : "easy",
-    "type" : "textBox",
-    "questionText" : "What is the Ork term for a massive, unstoppable, psychically-fuelled invasion or crusade?",
-    "correctAnswer" : "Waaagh!"
-  }, {
-    "id" : 51,
-    "army" : "orks",
-    "edition" : "ninth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What creatures do Orks breed and use for food, fuel, and even ammunition?",
-    "options" : [ "Squigs", "Gretchin", "Nobz", "Grots" ],
-    "correctAnswer" : "Squigs"
-  }, {
-    "id" : 52,
-    "army" : "orks",
-    "edition" : "ninth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What are the smaller, weaker cousins of Orks called, often used as servants and cannon fodder?",
-    "correctAnswer" : "Gretchin",
-    "explanation" : "Also commonly called Grots."
-  }, {
-    "id" : 53,
-    "army" : "orks",
-    "edition" : "ninth",
-    "difficulty" : "medium",
-    "type" : "multipleChoice",
-    "questionText" : "Ork technology often works reliably in battle largely because of what unique Ork trait?",
-    "options" : [ "Their collective psychic belief that it works", "Precise engineering standards", "Blessings from the Emperor", "Chaos sorcery" ],
-    "correctAnswer" : "Their collective psychic belief that it works"
-  }, {
-    "id" : 54,
-    "army" : "orks",
-    "edition" : "ninth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What are the names of the twin Ork war-gods?",
-    "correctAnswer" : "Gork and Mork"
-  }, {
-    "id" : 55,
-    "army" : "orks",
-    "edition" : "ninth",
-    "difficulty" : "hard",
-    "type" : "multipleChoice",
-    "questionText" : "What rank does the most powerful Ork leader hold when commanding an entire Waaagh!?",
-    "options" : [ "Warboss", "Nob", "Big Mek", "Freebooter" ],
-    "correctAnswer" : "Warboss"
-  }, {
-    "id" : 56,
-    "army" : "orks",
-    "edition" : "ninth",
-    "difficulty" : "hard",
-    "type" : "textBox",
-    "questionText" : "Orks reproduce asexually through a biological method involving what kind of spores?",
-    "correctAnswer" : "Fungal spores",
-    "explanation" : "New Orks sprout from fungal spores released by their kin, rather than conventional birth."
-  }, {
-    "id" : 57,
-    "army" : "orks",
-    "edition" : "tenth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What Ork word describes anything relating to shooting or firepower?",
-    "options" : [ "Dakka", "Squig", "Waaagh", "Gubbinz" ],
-    "correctAnswer" : "Dakka"
-  }, {
-    "id" : 58,
-    "army" : "orks",
-    "edition" : "tenth",
-    "difficulty" : "easy",
-    "type" : "textBox",
-    "questionText" : "What is the Ork term for a massive, unstoppable, psychically-fuelled invasion or crusade?",
-    "correctAnswer" : "Waaagh!"
-  }, {
-    "id" : 59,
-    "army" : "orks",
-    "edition" : "tenth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What creatures do Orks breed and use for food, fuel, and even ammunition?",
-    "options" : [ "Squigs", "Gretchin", "Nobz", "Grots" ],
-    "correctAnswer" : "Squigs"
-  }, {
-    "id" : 60,
-    "army" : "orks",
-    "edition" : "tenth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What are the smaller, weaker cousins of Orks called, often used as servants and cannon fodder?",
-    "correctAnswer" : "Gretchin",
-    "explanation" : "Also commonly called Grots."
-  }, {
-    "id" : 61,
-    "army" : "orks",
-    "edition" : "tenth",
-    "difficulty" : "medium",
-    "type" : "multipleChoice",
-    "questionText" : "Ork technology often works reliably in battle largely because of what unique Ork trait?",
-    "options" : [ "Their collective psychic belief that it works", "Precise engineering standards", "Blessings from the Emperor", "Chaos sorcery" ],
-    "correctAnswer" : "Their collective psychic belief that it works"
-  }, {
-    "id" : 62,
-    "army" : "orks",
-    "edition" : "tenth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What are the names of the twin Ork war-gods?",
-    "correctAnswer" : "Gork and Mork"
-  }, {
-    "id" : 63,
-    "army" : "orks",
-    "edition" : "tenth",
-    "difficulty" : "hard",
-    "type" : "multipleChoice",
-    "questionText" : "What rank does the most powerful Ork leader hold when commanding an entire Waaagh!?",
-    "options" : [ "Warboss", "Nob", "Big Mek", "Freebooter" ],
-    "correctAnswer" : "Warboss"
-  }, {
-    "id" : 64,
-    "army" : "orks",
-    "edition" : "tenth",
-    "difficulty" : "hard",
-    "type" : "textBox",
-    "questionText" : "Orks reproduce asexually through a biological method involving what kind of spores?",
-    "correctAnswer" : "Fungal spores",
-    "explanation" : "New Orks sprout from fungal spores released by their kin, rather than conventional birth."
-  }, {
-    "id" : 65,
-    "army" : "orks",
-    "edition" : "eleventh",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What Ork word describes anything relating to shooting or firepower?",
-    "options" : [ "Dakka", "Squig", "Waaagh", "Gubbinz" ],
-    "correctAnswer" : "Dakka"
-  }, {
-    "id" : 66,
-    "army" : "orks",
-    "edition" : "eleventh",
-    "difficulty" : "easy",
-    "type" : "textBox",
-    "questionText" : "What is the Ork term for a massive, unstoppable, psychically-fuelled invasion or crusade?",
-    "correctAnswer" : "Waaagh!"
-  }, {
-    "id" : 67,
-    "army" : "orks",
-    "edition" : "eleventh",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What creatures do Orks breed and use for food, fuel, and even ammunition?",
-    "options" : [ "Squigs", "Gretchin", "Nobz", "Grots" ],
-    "correctAnswer" : "Squigs"
-  }, {
-    "id" : 68,
-    "army" : "orks",
-    "edition" : "eleventh",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What are the smaller, weaker cousins of Orks called, often used as servants and cannon fodder?",
-    "correctAnswer" : "Gretchin",
-    "explanation" : "Also commonly called Grots."
-  }, {
-    "id" : 69,
-    "army" : "orks",
-    "edition" : "eleventh",
-    "difficulty" : "medium",
-    "type" : "multipleChoice",
-    "questionText" : "Ork technology often works reliably in battle largely because of what unique Ork trait?",
-    "options" : [ "Their collective psychic belief that it works", "Precise engineering standards", "Blessings from the Emperor", "Chaos sorcery" ],
-    "correctAnswer" : "Their collective psychic belief that it works"
-  }, {
-    "id" : 70,
-    "army" : "orks",
-    "edition" : "eleventh",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What are the names of the twin Ork war-gods?",
-    "correctAnswer" : "Gork and Mork"
-  }, {
-    "id" : 71,
-    "army" : "orks",
-    "edition" : "eleventh",
-    "difficulty" : "hard",
-    "type" : "multipleChoice",
-    "questionText" : "What rank does the most powerful Ork leader hold when commanding an entire Waaagh!?",
-    "options" : [ "Warboss", "Nob", "Big Mek", "Freebooter" ],
-    "correctAnswer" : "Warboss"
-  }, {
-    "id" : 72,
-    "army" : "orks",
-    "edition" : "eleventh",
-    "difficulty" : "hard",
-    "type" : "textBox",
-    "questionText" : "Orks reproduce asexually through a biological method involving what kind of spores?",
-    "correctAnswer" : "Fungal spores",
-    "explanation" : "New Orks sprout from fungal spores released by their kin, rather than conventional birth."
-  }, {
-    "id" : 73,
-    "army" : "tyranids",
-    "edition" : "ninth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What is the collective consciousness controlling the Tyranid race called?",
-    "options" : [ "The Hive Mind", "The Chaos Gods", "The Silent King", "The Omnissiah" ],
-    "correctAnswer" : "The Hive Mind"
-  }, {
-    "id" : 74,
-    "army" : "tyranids",
-    "edition" : "ninth",
-    "difficulty" : "easy",
-    "type" : "textBox",
-    "questionText" : "What do Tyranids call the massive living bio-ships that carry their forces across the void?",
-    "correctAnswer" : "Hive Ship"
-  }, {
-    "id" : 75,
-    "army" : "tyranids",
-    "edition" : "ninth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What is the primary driving purpose of the Tyranid race across the galaxy?",
-    "options" : [ "To consume all biomass in their path", "To spread Chaos", "To serve the Emperor", "To mine mineral resources" ],
-    "correctAnswer" : "To consume all biomass in their path"
-  }, {
-    "id" : 76,
-    "army" : "tyranids",
-    "edition" : "ninth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What are the fast, melee-focused Tyranid swarm creatures with scything claws called?",
-    "correctAnswer" : "Hormagaunts"
-  }, {
-    "id" : 77,
-    "army" : "tyranids",
-    "edition" : "ninth",
-    "difficulty" : "medium",
-    "type" : "multipleChoice",
-    "questionText" : "What is the name for Tyranid organisms that infiltrate other species and implant genetic material to create hybrid offspring?",
-    "options" : [ "Genestealers", "Termagants", "Zoanthropes", "Tyranid Warriors" ],
-    "correctAnswer" : "Genestealers"
-  }, {
-    "id" : 78,
-    "army" : "tyranids",
-    "edition" : "ninth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What term describes the rapid biological evolution Tyranid swarms undergo to counter new enemy tactics?",
-    "correctAnswer" : "Adaptation"
-  }, {
-    "id" : 79,
-    "army" : "tyranids",
-    "edition" : "ninth",
-    "difficulty" : "hard",
-    "type" : "multipleChoice",
-    "questionText" : "What nickname, reflecting their all-consuming nature, is commonly used for the Tyranid race as a whole?",
-    "options" : [ "The Great Devourer", "The Silent King", "The Great Enemy", "The Reborn" ],
-    "correctAnswer" : "The Great Devourer"
-  }, {
-    "id" : 80,
-    "army" : "tyranids",
-    "edition" : "ninth",
-    "difficulty" : "hard",
-    "type" : "textBox",
-    "questionText" : "What term describes Tyranid creatures whose role is to relay Hive Mind commands to lesser swarm organisms nearby?",
-    "correctAnswer" : "Synapse creatures"
-  }, {
-    "id" : 81,
-    "army" : "tyranids",
-    "edition" : "tenth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What is the collective consciousness controlling the Tyranid race called?",
-    "options" : [ "The Hive Mind", "The Chaos Gods", "The Silent King", "The Omnissiah" ],
-    "correctAnswer" : "The Hive Mind"
-  }, {
-    "id" : 82,
-    "army" : "tyranids",
-    "edition" : "tenth",
-    "difficulty" : "easy",
-    "type" : "textBox",
-    "questionText" : "What do Tyranids call the massive living bio-ships that carry their forces across the void?",
-    "correctAnswer" : "Hive Ship"
-  }, {
-    "id" : 83,
-    "army" : "tyranids",
-    "edition" : "tenth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What is the primary driving purpose of the Tyranid race across the galaxy?",
-    "options" : [ "To consume all biomass in their path", "To spread Chaos", "To serve the Emperor", "To mine mineral resources" ],
-    "correctAnswer" : "To consume all biomass in their path"
-  }, {
-    "id" : 84,
-    "army" : "tyranids",
-    "edition" : "tenth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What are the fast, melee-focused Tyranid swarm creatures with scything claws called?",
-    "correctAnswer" : "Hormagaunts"
-  }, {
-    "id" : 85,
-    "army" : "tyranids",
-    "edition" : "tenth",
-    "difficulty" : "medium",
-    "type" : "multipleChoice",
-    "questionText" : "What is the name for Tyranid organisms that infiltrate other species and implant genetic material to create hybrid offspring?",
-    "options" : [ "Genestealers", "Termagants", "Zoanthropes", "Tyranid Warriors" ],
-    "correctAnswer" : "Genestealers"
-  }, {
-    "id" : 86,
-    "army" : "tyranids",
-    "edition" : "tenth",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What term describes the rapid biological evolution Tyranid swarms undergo to counter new enemy tactics?",
-    "correctAnswer" : "Adaptation"
-  }, {
-    "id" : 87,
-    "army" : "tyranids",
-    "edition" : "tenth",
-    "difficulty" : "hard",
-    "type" : "multipleChoice",
-    "questionText" : "What nickname, reflecting their all-consuming nature, is commonly used for the Tyranid race as a whole?",
-    "options" : [ "The Great Devourer", "The Silent King", "The Great Enemy", "The Reborn" ],
-    "correctAnswer" : "The Great Devourer"
-  }, {
-    "id" : 88,
-    "army" : "tyranids",
-    "edition" : "tenth",
-    "difficulty" : "hard",
-    "type" : "textBox",
-    "questionText" : "What term describes Tyranid creatures whose role is to relay Hive Mind commands to lesser swarm organisms nearby?",
-    "correctAnswer" : "Synapse creatures"
-  }, {
-    "id" : 89,
-    "army" : "tyranids",
-    "edition" : "eleventh",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What is the collective consciousness controlling the Tyranid race called?",
-    "options" : [ "The Hive Mind", "The Chaos Gods", "The Silent King", "The Omnissiah" ],
-    "correctAnswer" : "The Hive Mind"
-  }, {
-    "id" : 90,
-    "army" : "tyranids",
-    "edition" : "eleventh",
-    "difficulty" : "easy",
-    "type" : "textBox",
-    "questionText" : "What do Tyranids call the massive living bio-ships that carry their forces across the void?",
-    "correctAnswer" : "Hive Ship"
-  }, {
-    "id" : 91,
-    "army" : "tyranids",
-    "edition" : "eleventh",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What is the primary driving purpose of the Tyranid race across the galaxy?",
-    "options" : [ "To consume all biomass in their path", "To spread Chaos", "To serve the Emperor", "To mine mineral resources" ],
-    "correctAnswer" : "To consume all biomass in their path"
-  }, {
-    "id" : 92,
-    "army" : "tyranids",
-    "edition" : "eleventh",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What are the fast, melee-focused Tyranid swarm creatures with scything claws called?",
-    "correctAnswer" : "Hormagaunts"
-  }, {
-    "id" : 93,
-    "army" : "tyranids",
-    "edition" : "eleventh",
-    "difficulty" : "medium",
-    "type" : "multipleChoice",
-    "questionText" : "What is the name for Tyranid organisms that infiltrate other species and implant genetic material to create hybrid offspring?",
-    "options" : [ "Genestealers", "Termagants", "Zoanthropes", "Tyranid Warriors" ],
-    "correctAnswer" : "Genestealers"
-  }, {
-    "id" : 94,
-    "army" : "tyranids",
-    "edition" : "eleventh",
-    "difficulty" : "medium",
-    "type" : "textBox",
-    "questionText" : "What term describes the rapid biological evolution Tyranid swarms undergo to counter new enemy tactics?",
-    "correctAnswer" : "Adaptation"
-  }, {
-    "id" : 95,
-    "army" : "tyranids",
-    "edition" : "eleventh",
-    "difficulty" : "hard",
-    "type" : "multipleChoice",
-    "questionText" : "What nickname, reflecting their all-consuming nature, is commonly used for the Tyranid race as a whole?",
-    "options" : [ "The Great Devourer", "The Silent King", "The Great Enemy", "The Reborn" ],
-    "correctAnswer" : "The Great Devourer"
-  }, {
-    "id" : 96,
-    "army" : "tyranids",
-    "edition" : "eleventh",
-    "difficulty" : "hard",
-    "type" : "textBox",
-    "questionText" : "What term describes Tyranid creatures whose role is to relay Hive Mind commands to lesser swarm organisms nearby?",
-    "correctAnswer" : "Synapse creatures"
-  }, {
-    "id" : 97,
-    "army" : "adeptusMechanicus",
-    "edition" : "tenth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What ability [keyword] does the Protector Imperative give?",
-    "options" : [ "RAPID FIRE 1", "ASSAULT", "PRECISION", "HEAVY" ],
-    "correctAnswer" : "HEAVY"
-  }, {
-    "id" : 98,
-    "army" : "adeptusMechanicus",
-    "edition" : "tenth",
-    "difficulty" : "easy",
-    "type" : "multipleChoice",
-    "questionText" : "What ability [keyword] does the Conqueror Imperative give?",
-    "options" : [ "RAPID FIRE 1", "HEAVY", "ASSAULT", "PRECISION" ],
-    "correctAnswer" : "ASSAULT"
-  } ]
+  "version": "0.0.6",
+  "questions": [
+    {
+      "id": 1,
+      "army": "adeptusMechanicus",
+      "edition": "ninth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the home world of the Adeptus Mechanicus?",
+      "options": [
+        "Mars",
+        "Terra",
+        "Baal",
+        "Holy Terra"
+      ],
+      "correctAnswer": "Mars"
+    },
+    {
+      "id": 2,
+      "army": "adeptusMechanicus",
+      "edition": "ninth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What deity do the Adeptus Mechanicus worship, believed to be the Emperor in machine form?",
+      "correctAnswer": "The Omnissiah",
+      "explanation": "The Mechanicus venerate the Omnissiah, an aspect of the Machine God they believe the Emperor embodies."
+    },
+    {
+      "id": 3,
+      "army": "adeptusMechanicus",
+      "edition": "ninth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What title is held by the supreme leader of the Adeptus Mechanicus?",
+      "options": [
+        "Fabricator-General",
+        "Chapter Master",
+        "Primarch",
+        "High Lord"
+      ],
+      "correctAnswer": "Fabricator-General"
+    },
+    {
+      "id": 4,
+      "army": "adeptusMechanicus",
+      "edition": "ninth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What are the Adeptus Mechanicus' rank-and-file soldier-servants called?",
+      "correctAnswer": "Skitarii"
+    },
+    {
+      "id": 5,
+      "army": "adeptusMechanicus",
+      "edition": "ninth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What term describes the Mechanicus' religious devotion to technology?",
+      "options": [
+        "Cult Mechanicus",
+        "The Ecclesiarchy",
+        "The Inquisition",
+        "The Astra Militarum"
+      ],
+      "correctAnswer": "Cult Mechanicus"
+    },
+    {
+      "id": 6,
+      "army": "adeptusMechanicus",
+      "edition": "ninth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the general term for the cybernetic body enhancements common among Tech-Priests?",
+      "correctAnswer": "Augmetics"
+    },
+    {
+      "id": 7,
+      "army": "adeptusMechanicus",
+      "edition": "ninth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the name of the ancient pact granting the Adeptus Mechanicus autonomy within the Imperium?",
+      "options": [
+        "The Treaty of Mars",
+        "The Edict of Terra",
+        "The Codex Astartes",
+        "The Word of the Omnissiah"
+      ],
+      "correctAnswer": "The Treaty of Mars"
+    },
+    {
+      "id": 8,
+      "army": "adeptusMechanicus",
+      "edition": "ninth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What term describes Mechanicus expeditions sent to recover lost archeotech across the galaxy?",
+      "correctAnswer": "Explorator Fleet",
+      "explanation": "Explorator fleets range far beyond Imperial space hunting for lost technology."
+    },
+    {
+      "id": 9,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the home world of the Adeptus Mechanicus?",
+      "options": [
+        "Mars",
+        "Terra",
+        "Baal",
+        "Holy Terra"
+      ],
+      "correctAnswer": "Mars"
+    },
+    {
+      "id": 10,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What deity do the Adeptus Mechanicus worship, believed to be the Emperor in machine form?",
+      "correctAnswer": "The Omnissiah",
+      "explanation": "The Mechanicus venerate the Omnissiah, an aspect of the Machine God they believe the Emperor embodies."
+    },
+    {
+      "id": 11,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What title is held by the supreme leader of the Adeptus Mechanicus?",
+      "options": [
+        "Fabricator-General",
+        "Chapter Master",
+        "Primarch",
+        "High Lord"
+      ],
+      "correctAnswer": "Fabricator-General"
+    },
+    {
+      "id": 12,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What are the Adeptus Mechanicus' rank-and-file soldier-servants called?",
+      "correctAnswer": "Skitarii"
+    },
+    {
+      "id": 13,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What term describes the Mechanicus' religious devotion to technology?",
+      "options": [
+        "Cult Mechanicus",
+        "The Ecclesiarchy",
+        "The Inquisition",
+        "The Astra Militarum"
+      ],
+      "correctAnswer": "Cult Mechanicus"
+    },
+    {
+      "id": 14,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the general term for the cybernetic body enhancements common among Tech-Priests?",
+      "correctAnswer": "Augmetics"
+    },
+    {
+      "id": 15,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the name of the ancient pact granting the Adeptus Mechanicus autonomy within the Imperium?",
+      "options": [
+        "The Treaty of Mars",
+        "The Edict of Terra",
+        "The Codex Astartes",
+        "The Word of the Omnissiah"
+      ],
+      "correctAnswer": "The Treaty of Mars"
+    },
+    {
+      "id": 16,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What term describes Mechanicus expeditions sent to recover lost archeotech across the galaxy?",
+      "correctAnswer": "Explorator Fleet",
+      "explanation": "Explorator fleets range far beyond Imperial space hunting for lost technology."
+    },
+    {
+      "id": 17,
+      "army": "adeptusMechanicus",
+      "edition": "eleventh",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the home world of the Adeptus Mechanicus?",
+      "options": [
+        "Mars",
+        "Terra",
+        "Baal",
+        "Holy Terra"
+      ],
+      "correctAnswer": "Mars"
+    },
+    {
+      "id": 18,
+      "army": "adeptusMechanicus",
+      "edition": "eleventh",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What deity do the Adeptus Mechanicus worship, believed to be the Emperor in machine form?",
+      "correctAnswer": "The Omnissiah",
+      "explanation": "The Mechanicus venerate the Omnissiah, an aspect of the Machine God they believe the Emperor embodies."
+    },
+    {
+      "id": 19,
+      "army": "adeptusMechanicus",
+      "edition": "eleventh",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What title is held by the supreme leader of the Adeptus Mechanicus?",
+      "options": [
+        "Fabricator-General",
+        "Chapter Master",
+        "Primarch",
+        "High Lord"
+      ],
+      "correctAnswer": "Fabricator-General"
+    },
+    {
+      "id": 20,
+      "army": "adeptusMechanicus",
+      "edition": "eleventh",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What are the Adeptus Mechanicus' rank-and-file soldier-servants called?",
+      "correctAnswer": "Skitarii"
+    },
+    {
+      "id": 21,
+      "army": "adeptusMechanicus",
+      "edition": "eleventh",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What term describes the Mechanicus' religious devotion to technology?",
+      "options": [
+        "Cult Mechanicus",
+        "The Ecclesiarchy",
+        "The Inquisition",
+        "The Astra Militarum"
+      ],
+      "correctAnswer": "Cult Mechanicus"
+    },
+    {
+      "id": 22,
+      "army": "adeptusMechanicus",
+      "edition": "eleventh",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the general term for the cybernetic body enhancements common among Tech-Priests?",
+      "correctAnswer": "Augmetics"
+    },
+    {
+      "id": 23,
+      "army": "adeptusMechanicus",
+      "edition": "eleventh",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the name of the ancient pact granting the Adeptus Mechanicus autonomy within the Imperium?",
+      "options": [
+        "The Treaty of Mars",
+        "The Edict of Terra",
+        "The Codex Astartes",
+        "The Word of the Omnissiah"
+      ],
+      "correctAnswer": "The Treaty of Mars"
+    },
+    {
+      "id": 24,
+      "army": "adeptusMechanicus",
+      "edition": "eleventh",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What term describes Mechanicus expeditions sent to recover lost archeotech across the galaxy?",
+      "correctAnswer": "Explorator Fleet",
+      "explanation": "Explorator fleets range far beyond Imperial space hunting for lost technology."
+    },
+    {
+      "id": 25,
+      "army": "necrons",
+      "edition": "ninth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What material are Necron Warriors' bodies primarily made of?",
+      "options": [
+        "Living metal",
+        "Flesh",
+        "Ceramite",
+        "Wood"
+      ],
+      "correctAnswer": "Living metal"
+    },
+    {
+      "id": 26,
+      "army": "necrons",
+      "edition": "ninth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What ancient star-devouring race did the Necrontyr make a pact with, gaining immortality at the cost of their souls?",
+      "correctAnswer": "The C'tan"
+    },
+    {
+      "id": 27,
+      "army": "necrons",
+      "edition": "ninth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What weapon type, firing a disintegrating green beam, is most iconic to basic Necron Warriors?",
+      "options": [
+        "Gauss weapon",
+        "Bolter",
+        "Shoota",
+        "Lasgun"
+      ],
+      "correctAnswer": "Gauss weapon"
+    },
+    {
+      "id": 28,
+      "army": "necrons",
+      "edition": "ninth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Who is the supreme ruler of the Necrons, awakened to reunite his shattered empire?",
+      "correctAnswer": "The Silent King",
+      "explanation": "Also known by his true name, Szarekh."
+    },
+    {
+      "id": 29,
+      "army": "necrons",
+      "edition": "ninth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What was the name of the Necrons' original species/empire before they sacrificed their flesh for immortality?",
+      "options": [
+        "The Necrontyr",
+        "The Eldar",
+        "The Old Ones",
+        "The Aeldari"
+      ],
+      "correctAnswer": "The Necrontyr"
+    },
+    {
+      "id": 30,
+      "army": "necrons",
+      "edition": "ninth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the name for a Necron's ability to self-repair and reassemble after being destroyed in battle?",
+      "correctAnswer": "Reanimation Protocols"
+    },
+    {
+      "id": 31,
+      "army": "necrons",
+      "edition": "ninth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What process did the Necrontyr undergo to transfer their consciousness into immortal metal bodies?",
+      "options": [
+        "Biotransference",
+        "Ascension",
+        "Chapter Rites",
+        "Deployment"
+      ],
+      "correctAnswer": "Biotransference"
+    },
+    {
+      "id": 32,
+      "army": "necrons",
+      "edition": "ninth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the collective name for the star-god beings the Necrontyr made their fateful pact with?",
+      "correctAnswer": "C'tan",
+      "explanation": "Sometimes called the Star Gods, the C'tan fed on the energy of stars and living souls."
+    },
+    {
+      "id": 33,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What material are Necron Warriors' bodies primarily made of?",
+      "options": [
+        "Living metal",
+        "Flesh",
+        "Ceramite",
+        "Wood"
+      ],
+      "correctAnswer": "Living metal"
+    },
+    {
+      "id": 34,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What ancient star-devouring race did the Necrontyr make a pact with, gaining immortality at the cost of their souls?",
+      "correctAnswer": "The C'tan"
+    },
+    {
+      "id": 35,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What weapon type, firing a disintegrating green beam, is most iconic to basic Necron Warriors?",
+      "options": [
+        "Gauss weapon",
+        "Bolter",
+        "Shoota",
+        "Lasgun"
+      ],
+      "correctAnswer": "Gauss weapon"
+    },
+    {
+      "id": 36,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Who is the supreme ruler of the Necrons, awakened to reunite his shattered empire?",
+      "correctAnswer": "The Silent King",
+      "explanation": "Also known by his true name, Szarekh."
+    },
+    {
+      "id": 37,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What was the name of the Necrons' original species/empire before they sacrificed their flesh for immortality?",
+      "options": [
+        "The Necrontyr",
+        "The Eldar",
+        "The Old Ones",
+        "The Aeldari"
+      ],
+      "correctAnswer": "The Necrontyr"
+    },
+    {
+      "id": 38,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the name for a Necron's ability to self-repair and reassemble after being destroyed in battle?",
+      "correctAnswer": "Reanimation Protocols"
+    },
+    {
+      "id": 39,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What process did the Necrontyr undergo to transfer their consciousness into immortal metal bodies?",
+      "options": [
+        "Biotransference",
+        "Ascension",
+        "Chapter Rites",
+        "Deployment"
+      ],
+      "correctAnswer": "Biotransference"
+    },
+    {
+      "id": 40,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the collective name for the star-god beings the Necrontyr made their fateful pact with?",
+      "correctAnswer": "C'tan",
+      "explanation": "Sometimes called the Star Gods, the C'tan fed on the energy of stars and living souls."
+    },
+    {
+      "id": 41,
+      "army": "necrons",
+      "edition": "eleventh",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What material are Necron Warriors' bodies primarily made of?",
+      "options": [
+        "Living metal",
+        "Flesh",
+        "Ceramite",
+        "Wood"
+      ],
+      "correctAnswer": "Living metal"
+    },
+    {
+      "id": 42,
+      "army": "necrons",
+      "edition": "eleventh",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What ancient star-devouring race did the Necrontyr make a pact with, gaining immortality at the cost of their souls?",
+      "correctAnswer": "The C'tan"
+    },
+    {
+      "id": 43,
+      "army": "necrons",
+      "edition": "eleventh",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What weapon type, firing a disintegrating green beam, is most iconic to basic Necron Warriors?",
+      "options": [
+        "Gauss weapon",
+        "Bolter",
+        "Shoota",
+        "Lasgun"
+      ],
+      "correctAnswer": "Gauss weapon"
+    },
+    {
+      "id": 44,
+      "army": "necrons",
+      "edition": "eleventh",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Who is the supreme ruler of the Necrons, awakened to reunite his shattered empire?",
+      "correctAnswer": "The Silent King",
+      "explanation": "Also known by his true name, Szarekh."
+    },
+    {
+      "id": 45,
+      "army": "necrons",
+      "edition": "eleventh",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What was the name of the Necrons' original species/empire before they sacrificed their flesh for immortality?",
+      "options": [
+        "The Necrontyr",
+        "The Eldar",
+        "The Old Ones",
+        "The Aeldari"
+      ],
+      "correctAnswer": "The Necrontyr"
+    },
+    {
+      "id": 46,
+      "army": "necrons",
+      "edition": "eleventh",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the name for a Necron's ability to self-repair and reassemble after being destroyed in battle?",
+      "correctAnswer": "Reanimation Protocols"
+    },
+    {
+      "id": 47,
+      "army": "necrons",
+      "edition": "eleventh",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What process did the Necrontyr undergo to transfer their consciousness into immortal metal bodies?",
+      "options": [
+        "Biotransference",
+        "Ascension",
+        "Chapter Rites",
+        "Deployment"
+      ],
+      "correctAnswer": "Biotransference"
+    },
+    {
+      "id": 48,
+      "army": "necrons",
+      "edition": "eleventh",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the collective name for the star-god beings the Necrontyr made their fateful pact with?",
+      "correctAnswer": "C'tan",
+      "explanation": "Sometimes called the Star Gods, the C'tan fed on the energy of stars and living souls."
+    },
+    {
+      "id": 49,
+      "army": "orks",
+      "edition": "ninth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What Ork word describes anything relating to shooting or firepower?",
+      "options": [
+        "Dakka",
+        "Squig",
+        "Waaagh",
+        "Gubbinz"
+      ],
+      "correctAnswer": "Dakka"
+    },
+    {
+      "id": 50,
+      "army": "orks",
+      "edition": "ninth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the Ork term for a massive, unstoppable, psychically-fuelled invasion or crusade?",
+      "correctAnswer": "Waaagh!"
+    },
+    {
+      "id": 51,
+      "army": "orks",
+      "edition": "ninth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What creatures do Orks breed and use for food, fuel, and even ammunition?",
+      "options": [
+        "Squigs",
+        "Gretchin",
+        "Nobz",
+        "Grots"
+      ],
+      "correctAnswer": "Squigs"
+    },
+    {
+      "id": 52,
+      "army": "orks",
+      "edition": "ninth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What are the smaller, weaker cousins of Orks called, often used as servants and cannon fodder?",
+      "correctAnswer": "Gretchin",
+      "explanation": "Also commonly called Grots."
+    },
+    {
+      "id": 53,
+      "army": "orks",
+      "edition": "ninth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Ork technology often works reliably in battle largely because of what unique Ork trait?",
+      "options": [
+        "Their collective psychic belief that it works",
+        "Precise engineering standards",
+        "Blessings from the Emperor",
+        "Chaos sorcery"
+      ],
+      "correctAnswer": "Their collective psychic belief that it works"
+    },
+    {
+      "id": 54,
+      "army": "orks",
+      "edition": "ninth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What are the names of the twin Ork war-gods?",
+      "correctAnswer": "Gork and Mork"
+    },
+    {
+      "id": 55,
+      "army": "orks",
+      "edition": "ninth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What rank does the most powerful Ork leader hold when commanding an entire Waaagh!?",
+      "options": [
+        "Warboss",
+        "Nob",
+        "Big Mek",
+        "Freebooter"
+      ],
+      "correctAnswer": "Warboss"
+    },
+    {
+      "id": 56,
+      "army": "orks",
+      "edition": "ninth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Orks reproduce asexually through a biological method involving what kind of spores?",
+      "correctAnswer": "Fungal spores",
+      "explanation": "New Orks sprout from fungal spores released by their kin, rather than conventional birth."
+    },
+    {
+      "id": 57,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What Ork word describes anything relating to shooting or firepower?",
+      "options": [
+        "Dakka",
+        "Squig",
+        "Waaagh",
+        "Gubbinz"
+      ],
+      "correctAnswer": "Dakka"
+    },
+    {
+      "id": 58,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the Ork term for a massive, unstoppable, psychically-fuelled invasion or crusade?",
+      "correctAnswer": "Waaagh!"
+    },
+    {
+      "id": 59,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What creatures do Orks breed and use for food, fuel, and even ammunition?",
+      "options": [
+        "Squigs",
+        "Gretchin",
+        "Nobz",
+        "Grots"
+      ],
+      "correctAnswer": "Squigs"
+    },
+    {
+      "id": 60,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What are the smaller, weaker cousins of Orks called, often used as servants and cannon fodder?",
+      "correctAnswer": "Gretchin",
+      "explanation": "Also commonly called Grots."
+    },
+    {
+      "id": 61,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Ork technology often works reliably in battle largely because of what unique Ork trait?",
+      "options": [
+        "Their collective psychic belief that it works",
+        "Precise engineering standards",
+        "Blessings from the Emperor",
+        "Chaos sorcery"
+      ],
+      "correctAnswer": "Their collective psychic belief that it works"
+    },
+    {
+      "id": 62,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What are the names of the twin Ork war-gods?",
+      "correctAnswer": "Gork and Mork"
+    },
+    {
+      "id": 63,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What rank does the most powerful Ork leader hold when commanding an entire Waaagh!?",
+      "options": [
+        "Warboss",
+        "Nob",
+        "Big Mek",
+        "Freebooter"
+      ],
+      "correctAnswer": "Warboss"
+    },
+    {
+      "id": 64,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Orks reproduce asexually through a biological method involving what kind of spores?",
+      "correctAnswer": "Fungal spores",
+      "explanation": "New Orks sprout from fungal spores released by their kin, rather than conventional birth."
+    },
+    {
+      "id": 65,
+      "army": "orks",
+      "edition": "eleventh",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What Ork word describes anything relating to shooting or firepower?",
+      "options": [
+        "Dakka",
+        "Squig",
+        "Waaagh",
+        "Gubbinz"
+      ],
+      "correctAnswer": "Dakka"
+    },
+    {
+      "id": 66,
+      "army": "orks",
+      "edition": "eleventh",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the Ork term for a massive, unstoppable, psychically-fuelled invasion or crusade?",
+      "correctAnswer": "Waaagh!"
+    },
+    {
+      "id": 67,
+      "army": "orks",
+      "edition": "eleventh",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What creatures do Orks breed and use for food, fuel, and even ammunition?",
+      "options": [
+        "Squigs",
+        "Gretchin",
+        "Nobz",
+        "Grots"
+      ],
+      "correctAnswer": "Squigs"
+    },
+    {
+      "id": 68,
+      "army": "orks",
+      "edition": "eleventh",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What are the smaller, weaker cousins of Orks called, often used as servants and cannon fodder?",
+      "correctAnswer": "Gretchin",
+      "explanation": "Also commonly called Grots."
+    },
+    {
+      "id": 69,
+      "army": "orks",
+      "edition": "eleventh",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Ork technology often works reliably in battle largely because of what unique Ork trait?",
+      "options": [
+        "Their collective psychic belief that it works",
+        "Precise engineering standards",
+        "Blessings from the Emperor",
+        "Chaos sorcery"
+      ],
+      "correctAnswer": "Their collective psychic belief that it works"
+    },
+    {
+      "id": 70,
+      "army": "orks",
+      "edition": "eleventh",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What are the names of the twin Ork war-gods?",
+      "correctAnswer": "Gork and Mork"
+    },
+    {
+      "id": 71,
+      "army": "orks",
+      "edition": "eleventh",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What rank does the most powerful Ork leader hold when commanding an entire Waaagh!?",
+      "options": [
+        "Warboss",
+        "Nob",
+        "Big Mek",
+        "Freebooter"
+      ],
+      "correctAnswer": "Warboss"
+    },
+    {
+      "id": 72,
+      "army": "orks",
+      "edition": "eleventh",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Orks reproduce asexually through a biological method involving what kind of spores?",
+      "correctAnswer": "Fungal spores",
+      "explanation": "New Orks sprout from fungal spores released by their kin, rather than conventional birth."
+    },
+    {
+      "id": 73,
+      "army": "tyranids",
+      "edition": "ninth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the collective consciousness controlling the Tyranid race called?",
+      "options": [
+        "The Hive Mind",
+        "The Chaos Gods",
+        "The Silent King",
+        "The Omnissiah"
+      ],
+      "correctAnswer": "The Hive Mind"
+    },
+    {
+      "id": 74,
+      "army": "tyranids",
+      "edition": "ninth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What do Tyranids call the massive living bio-ships that carry their forces across the void?",
+      "correctAnswer": "Hive Ship"
+    },
+    {
+      "id": 75,
+      "army": "tyranids",
+      "edition": "ninth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the primary driving purpose of the Tyranid race across the galaxy?",
+      "options": [
+        "To consume all biomass in their path",
+        "To spread Chaos",
+        "To serve the Emperor",
+        "To mine mineral resources"
+      ],
+      "correctAnswer": "To consume all biomass in their path"
+    },
+    {
+      "id": 76,
+      "army": "tyranids",
+      "edition": "ninth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What are the fast, melee-focused Tyranid swarm creatures with scything claws called?",
+      "correctAnswer": "Hormagaunts"
+    },
+    {
+      "id": 77,
+      "army": "tyranids",
+      "edition": "ninth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the name for Tyranid organisms that infiltrate other species and implant genetic material to create hybrid offspring?",
+      "options": [
+        "Genestealers",
+        "Termagants",
+        "Zoanthropes",
+        "Tyranid Warriors"
+      ],
+      "correctAnswer": "Genestealers"
+    },
+    {
+      "id": 78,
+      "army": "tyranids",
+      "edition": "ninth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What term describes the rapid biological evolution Tyranid swarms undergo to counter new enemy tactics?",
+      "correctAnswer": "Adaptation"
+    },
+    {
+      "id": 79,
+      "army": "tyranids",
+      "edition": "ninth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What nickname, reflecting their all-consuming nature, is commonly used for the Tyranid race as a whole?",
+      "options": [
+        "The Great Devourer",
+        "The Silent King",
+        "The Great Enemy",
+        "The Reborn"
+      ],
+      "correctAnswer": "The Great Devourer"
+    },
+    {
+      "id": 80,
+      "army": "tyranids",
+      "edition": "ninth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What term describes Tyranid creatures whose role is to relay Hive Mind commands to lesser swarm organisms nearby?",
+      "correctAnswer": "Synapse creatures"
+    },
+    {
+      "id": 81,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the collective consciousness controlling the Tyranid race called?",
+      "options": [
+        "The Hive Mind",
+        "The Chaos Gods",
+        "The Silent King",
+        "The Omnissiah"
+      ],
+      "correctAnswer": "The Hive Mind"
+    },
+    {
+      "id": 82,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What do Tyranids call the massive living bio-ships that carry their forces across the void?",
+      "correctAnswer": "Hive Ship"
+    },
+    {
+      "id": 83,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the primary driving purpose of the Tyranid race across the galaxy?",
+      "options": [
+        "To consume all biomass in their path",
+        "To spread Chaos",
+        "To serve the Emperor",
+        "To mine mineral resources"
+      ],
+      "correctAnswer": "To consume all biomass in their path"
+    },
+    {
+      "id": 84,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What are the fast, melee-focused Tyranid swarm creatures with scything claws called?",
+      "correctAnswer": "Hormagaunts"
+    },
+    {
+      "id": 85,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the name for Tyranid organisms that infiltrate other species and implant genetic material to create hybrid offspring?",
+      "options": [
+        "Genestealers",
+        "Termagants",
+        "Zoanthropes",
+        "Tyranid Warriors"
+      ],
+      "correctAnswer": "Genestealers"
+    },
+    {
+      "id": 86,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What term describes the rapid biological evolution Tyranid swarms undergo to counter new enemy tactics?",
+      "correctAnswer": "Adaptation"
+    },
+    {
+      "id": 87,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What nickname, reflecting their all-consuming nature, is commonly used for the Tyranid race as a whole?",
+      "options": [
+        "The Great Devourer",
+        "The Silent King",
+        "The Great Enemy",
+        "The Reborn"
+      ],
+      "correctAnswer": "The Great Devourer"
+    },
+    {
+      "id": 88,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What term describes Tyranid creatures whose role is to relay Hive Mind commands to lesser swarm organisms nearby?",
+      "correctAnswer": "Synapse creatures"
+    },
+    {
+      "id": 89,
+      "army": "tyranids",
+      "edition": "eleventh",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the collective consciousness controlling the Tyranid race called?",
+      "options": [
+        "The Hive Mind",
+        "The Chaos Gods",
+        "The Silent King",
+        "The Omnissiah"
+      ],
+      "correctAnswer": "The Hive Mind"
+    },
+    {
+      "id": 90,
+      "army": "tyranids",
+      "edition": "eleventh",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What do Tyranids call the massive living bio-ships that carry their forces across the void?",
+      "correctAnswer": "Hive Ship"
+    },
+    {
+      "id": 91,
+      "army": "tyranids",
+      "edition": "eleventh",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the primary driving purpose of the Tyranid race across the galaxy?",
+      "options": [
+        "To consume all biomass in their path",
+        "To spread Chaos",
+        "To serve the Emperor",
+        "To mine mineral resources"
+      ],
+      "correctAnswer": "To consume all biomass in their path"
+    },
+    {
+      "id": 92,
+      "army": "tyranids",
+      "edition": "eleventh",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What are the fast, melee-focused Tyranid swarm creatures with scything claws called?",
+      "correctAnswer": "Hormagaunts"
+    },
+    {
+      "id": 93,
+      "army": "tyranids",
+      "edition": "eleventh",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the name for Tyranid organisms that infiltrate other species and implant genetic material to create hybrid offspring?",
+      "options": [
+        "Genestealers",
+        "Termagants",
+        "Zoanthropes",
+        "Tyranid Warriors"
+      ],
+      "correctAnswer": "Genestealers"
+    },
+    {
+      "id": 94,
+      "army": "tyranids",
+      "edition": "eleventh",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What term describes the rapid biological evolution Tyranid swarms undergo to counter new enemy tactics?",
+      "correctAnswer": "Adaptation"
+    },
+    {
+      "id": 95,
+      "army": "tyranids",
+      "edition": "eleventh",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What nickname, reflecting their all-consuming nature, is commonly used for the Tyranid race as a whole?",
+      "options": [
+        "The Great Devourer",
+        "The Silent King",
+        "The Great Enemy",
+        "The Reborn"
+      ],
+      "correctAnswer": "The Great Devourer"
+    },
+    {
+      "id": 96,
+      "army": "tyranids",
+      "edition": "eleventh",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What term describes Tyranid creatures whose role is to relay Hive Mind commands to lesser swarm organisms nearby?",
+      "correctAnswer": "Synapse creatures"
+    },
+    {
+      "id": 97,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What ability [keyword] does the Protector Imperative give?",
+      "options": [
+        "RAPID FIRE 1",
+        "ASSAULT",
+        "PRECISION",
+        "HEAVY"
+      ],
+      "correctAnswer": "HEAVY"
+    },
+    {
+      "id": 98,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What ability [keyword] does the Conqueror Imperative give?",
+      "options": [
+        "RAPID FIRE 1",
+        "HEAVY",
+        "ASSAULT",
+        "PRECISION"
+      ],
+      "correctAnswer": "ASSAULT"
+    },
+    {
+      "id": 99,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Adeptus Mechanicus' army-wide rule called?",
+      "options": [
+        "Doctrina Imperatives",
+        "Waaagh!",
+        "Reanimation Protocols",
+        "Oath of Moment"
+      ],
+      "correctAnswer": "Doctrina Imperatives"
+    },
+    {
+      "id": 100,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Under the Doctrina Imperatives rule, how many Imperatives can be active for your army in a given battle round?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "All of them"
+      ],
+      "correctAnswer": "One",
+      "explanation": "At the start of each battle round you select a single Doctrina Imperative to be active until the end of that round."
+    },
+    {
+      "id": 101,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "Name the two Doctrina Imperatives an Adeptus Mechanicus player can choose between.",
+      "correctAnswer": "Protector Imperative and Conqueror Imperative"
+    },
+    {
+      "id": 102,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which of the following keywords do Kastelan Robots have?",
+      "options": [
+        "VEHICLE",
+        "INFANTRY",
+        "MOUNTED",
+        "AIRCRAFT"
+      ],
+      "correctAnswer": "VEHICLE"
+    },
+    {
+      "id": 103,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of an Onager Dunecrawler?",
+      "options": [
+        "T7",
+        "T8",
+        "T9",
+        "T10"
+      ],
+      "correctAnswer": "T10"
+    },
+    {
+      "id": 104,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a single Onager Dunecrawler cost?",
+      "correctAnswer": "155"
+    },
+    {
+      "id": 105,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is Belisarius Cawl's Wounds characteristic?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "id": 106,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which keyword marks Belisarius Cawl as a one-of-a-kind character who must be your Warlord if fielded?",
+      "options": [
+        "EPIC HERO",
+        "CHARACTER",
+        "LEGENDARY",
+        "UNIQUE"
+      ],
+      "correctAnswer": "EPIC HERO"
+    },
+    {
+      "id": 107,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What Objective Control characteristic do Skitarii Rangers have?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 108,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How many models are in a 95-point unit of Skitarii Vanguard?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "id": 109,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What invulnerable save do Tech-Priest characters such as the Dominus, Enginseer, and Manipulus typically have?",
+      "options": [
+        "4+",
+        "5+",
+        "6+",
+        "None"
+      ],
+      "correctAnswer": "5+"
+    },
+    {
+      "id": 110,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of Kastelan Robots?",
+      "options": [
+        "T7",
+        "T8",
+        "T9",
+        "T10"
+      ],
+      "correctAnswer": "T9"
+    },
+    {
+      "id": 111,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Movement characteristic of Sicarian Infiltrators?",
+      "options": [
+        "6\"",
+        "7\"",
+        "8\"",
+        "9\""
+      ],
+      "correctAnswer": "8\""
+    },
+    {
+      "id": 112,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 5 Sicarian Ruststalkers cost?",
+      "correctAnswer": "80"
+    },
+    {
+      "id": 113,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Corpuscarii and Fulgurite Electro-priests both share which unit-type keyword?",
+      "options": [
+        "ELECTRO-PRIESTS",
+        "SKITARII",
+        "KATAPHRON",
+        "SICARIAN"
+      ],
+      "correctAnswer": "ELECTRO-PRIESTS"
+    },
+    {
+      "id": 114,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What Leadership characteristic do the Tech-priest Dominus, Enginseer, and Manipulus share?",
+      "options": [
+        "6+",
+        "7+",
+        "8+",
+        "9+"
+      ],
+      "correctAnswer": "7+"
+    },
+    {
+      "id": 115,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What signature melee weapon do Sydonian Dragoons (with Taser Lances) wield?",
+      "correctAnswer": "Taser lance"
+    },
+    {
+      "id": 116,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "While the Protector Imperative is active, what ability do affected units' ranged weapons gain?",
+      "options": [
+        "Heavy",
+        "Assault",
+        "Twin-linked",
+        "Devastating Wounds"
+      ],
+      "correctAnswer": "Heavy"
+    },
+    {
+      "id": 117,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "While the Conqueror Imperative is active, what ability do affected units' ranged weapons gain?",
+      "options": [
+        "Assault",
+        "Heavy",
+        "Lethal Hits",
+        "Lance"
+      ],
+      "correctAnswer": "Assault"
+    },
+    {
+      "id": 118,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Adeptus Mechanicus detachment has the detachment rule \"Rad-bombardment\"?",
+      "correctAnswer": "Rad-Zone Corps"
+    },
+    {
+      "id": 119,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Adeptus Mechanicus detachment has the detachment rule \"Acquisition At Any Cost\"?",
+      "correctAnswer": "Explorator Maniple"
+    },
+    {
+      "id": 120,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which detachment's rule gives Legio Cybernetica units +2\" Move and (unless Battle-shocked) +1 Objective Control?",
+      "options": [
+        "Cohort Cybernetica",
+        "Haloscreed Battle Clade",
+        "Rad-Zone Corps",
+        "Eradication Cohort"
+      ],
+      "correctAnswer": "Cohort Cybernetica"
+    },
+    {
+      "id": 121,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "The Skitarii Hunter Cohort detachment rule grants Stealth to Skitarii Infantry, Mounted, and which other unit?",
+      "options": [
+        "Ironstrider Ballistarii",
+        "Onager Dunecrawler",
+        "Kastelan Robots",
+        "Skorpius Disintegrator"
+      ],
+      "correctAnswer": "Ironstrider Ballistarii"
+    },
+    {
+      "id": 122,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Rad-Zone Corps enhancement grants the bearer's unit's ranged weapons the Sustained Hits 1 ability?",
+      "correctAnswer": "Peerless Eradicator"
+    },
+    {
+      "id": 123,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "How many points does Belisarius Cawl cost?",
+      "options": [
+        "175",
+        "195",
+        "210",
+        "230"
+      ],
+      "correctAnswer": "210"
+    },
+    {
+      "id": 124,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Damage characteristic of an Onager Dunecrawler's neutron laser?",
+      "options": [
+        "D6",
+        "D6+1",
+        "D6+2",
+        "2D6"
+      ],
+      "correctAnswer": "D6+2"
+    },
+    {
+      "id": 125,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Armour Penetration of a Sydonian Dragoon's Taser lance?",
+      "options": [
+        "-1",
+        "-2",
+        "-3",
+        "-4"
+      ],
+      "correctAnswer": "-2"
+    },
+    {
+      "id": 126,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of a Kastelan Robot's Kastelan fist?",
+      "options": [
+        "S10",
+        "S11",
+        "S12",
+        "S14"
+      ],
+      "correctAnswer": "S12"
+    },
+    {
+      "id": 127,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Alongside Precision, what other special ability does the Sicarian Ruststalkers' transonic blades have?",
+      "options": [
+        "Devastating Wounds",
+        "Lethal Hits",
+        "Sustained Hits 1",
+        "Twin-linked"
+      ],
+      "correctAnswer": "Devastating Wounds"
+    },
+    {
+      "id": 128,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which unit has the \"Rad-saturation Aura\" ability, giving enemy non-VEHICLE units within 3\" -1 to Objective Control?",
+      "correctAnswer": "Skitarii Vanguard"
+    },
+    {
+      "id": 129,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "How many points does a unit of 10 Sicarian Infiltrators cost?",
+      "options": [
+        "145",
+        "155",
+        "165",
+        "175"
+      ],
+      "correctAnswer": "155"
+    },
+    {
+      "id": 130,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What invulnerable save does an Ironstrider Ballistarii have?",
+      "options": [
+        "4+",
+        "5+",
+        "6+",
+        "None"
+      ],
+      "correctAnswer": "5+"
+    },
+    {
+      "id": 131,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a single Kataphron Destroyer model?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 132,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the name of the Onager Dunecrawler ability that lets it move through friendly Monsters, Vehicles, and terrain features?",
+      "correctAnswer": "Scuttling Walker"
+    },
+    {
+      "id": 133,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "How many points does a 3-model unit of Serberys Raiders cost?",
+      "options": [
+        "45",
+        "60",
+        "75",
+        "90"
+      ],
+      "correctAnswer": "60"
+    },
+    {
+      "id": 134,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which Kataphron Breachers weapon has the Blast special rule?",
+      "options": [
+        "Torsion cannon",
+        "Heavy arc rifle",
+        "Arc claw",
+        "Hydraulic claw"
+      ],
+      "correctAnswer": "Torsion cannon"
+    },
+    {
+      "id": 135,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 6 Kataphron Destroyers cost?",
+      "correctAnswer": "210"
+    },
+    {
+      "id": 136,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Damage characteristic of the Skorpius Disintegrator's Ferrumite cannon?",
+      "options": [
+        "D3",
+        "2",
+        "D6+1",
+        "D6+2"
+      ],
+      "correctAnswer": "D6+1"
+    },
+    {
+      "id": 137,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of the Tech-priest Manipulus's Magnarail lance?",
+      "options": [
+        "S6",
+        "S7",
+        "S8",
+        "S9"
+      ],
+      "correctAnswer": "S7"
+    },
+    {
+      "id": 138,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which Data-Psalm Conclave enhancement grants the bearer's unit the Fights First ability?",
+      "correctAnswer": "Temporcopia"
+    },
+    {
+      "id": 139,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "How many points does the Data-Psalm Conclave enhancement \"Temporcopia\" cost?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "25"
+    },
+    {
+      "id": 140,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which Cohort Cybernetica enhancement forces an enemy Vehicle within 12\" to take a Leadership test or be unable to shoot?",
+      "correctAnswer": "Lord of Machines"
+    },
+    {
+      "id": 141,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the ranged Attacks characteristic of the Skorpius Disintegrator's Belleros energy cannon?",
+      "options": [
+        "D6",
+        "D3",
+        "2D6",
+        "3D3"
+      ],
+      "correctAnswer": "2D6"
+    },
+    {
+      "id": 142,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which Haloscreed Battle Clade enhancement, costing 35 points, grants both Doctrina Imperatives active simultaneously for the bearer's unit?",
+      "correctAnswer": "Cognitive Reinforcement"
+    },
+    {
+      "id": 143,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What Toughness characteristic do Sicarian Infiltrators and Sicarian Ruststalkers share?",
+      "options": [
+        "T3",
+        "T4",
+        "T5",
+        "T6"
+      ],
+      "correctAnswer": "T4"
+    },
+    {
+      "id": 144,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which Onager Dunecrawler weapon option has the Anti-fly 2+ ability?",
+      "correctAnswer": "Daedalus missile launcher"
+    },
+    {
+      "id": 145,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Armour Penetration of the Tech-priest Dominus's eradication ray when using its focused profile?",
+      "options": [
+        "-1",
+        "-2",
+        "-3",
+        "-4"
+      ],
+      "correctAnswer": "-2"
+    },
+    {
+      "id": 146,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "How many points does a unit of 2 Kastelan Robots cost?",
+      "options": [
+        "160",
+        "170",
+        "180",
+        "190"
+      ],
+      "correctAnswer": "180"
+    },
+    {
+      "id": 147,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What special ability, related to fighting armoured targets, do both the Arc rifle and Heavy arc rifle share?",
+      "correctAnswer": "Anti-vehicle 4+"
+    },
+    {
+      "id": 148,
+      "army": "adeptusMechanicus",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Skorpius Dunerider?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctAnswer": "11"
+    },
+    {
+      "id": 149,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Necrons' army-wide rule called?",
+      "options": [
+        "Reanimation Protocols",
+        "Waaagh!",
+        "Doctrina Imperatives",
+        "Synapse"
+      ],
+      "correctAnswer": "Reanimation Protocols"
+    },
+    {
+      "id": 150,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "At the end of your Command phase, how many wounds does a unit with Reanimation Protocols typically reanimate?",
+      "options": [
+        "D3",
+        "D6",
+        "1",
+        "2"
+      ],
+      "correctAnswer": "D3"
+    },
+    {
+      "id": 151,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What faction keyword is shared by every Necrons unit, from Necron Warriors to the Silent King?",
+      "correctAnswer": "NECRONS"
+    },
+    {
+      "id": 152,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of a Necron Warrior?",
+      "options": [
+        "T3",
+        "T4",
+        "T5",
+        "T6"
+      ],
+      "correctAnswer": "T4"
+    },
+    {
+      "id": 153,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of an Immortal?",
+      "options": [
+        "T3",
+        "T4",
+        "T5",
+        "T6"
+      ],
+      "correctAnswer": "T5"
+    },
+    {
+      "id": 154,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 10 Necron Warriors cost?",
+      "correctAnswer": "90"
+    },
+    {
+      "id": 155,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How many points does a unit of 10 Immortals cost?",
+      "options": [
+        "130",
+        "140",
+        "150",
+        "160"
+      ],
+      "correctAnswer": "150"
+    },
+    {
+      "id": 156,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which unit-type keyword do Canoptek Scarab Swarms have?",
+      "options": [
+        "SWARM",
+        "BEASTS",
+        "MOUNTED",
+        "INFANTRY"
+      ],
+      "correctAnswer": "SWARM"
+    },
+    {
+      "id": 157,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the default ranged weapon carried by Necron Warriors?",
+      "correctAnswer": "Gauss flayer"
+    },
+    {
+      "id": 158,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Lychguard model?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 159,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What invulnerable save does an Overlord have?",
+      "options": [
+        "3+",
+        "4+",
+        "5+",
+        "None"
+      ],
+      "correctAnswer": "4+"
+    },
+    {
+      "id": 160,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which keyword marks Imotekh The Stormlord as a one-of-a-kind character?",
+      "options": [
+        "EPIC HERO",
+        "CHARACTER",
+        "LEGENDARY",
+        "NOBLE"
+      ],
+      "correctAnswer": "EPIC HERO"
+    },
+    {
+      "id": 161,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a Monolith cost?",
+      "correctAnswer": "400"
+    },
+    {
+      "id": 162,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which keyword identifies the Monolith as an enormous, exceptionally durable unit type?",
+      "options": [
+        "TITANIC",
+        "MOUNTED",
+        "BEASTS",
+        "SWARM"
+      ],
+      "correctAnswer": "TITANIC"
+    },
+    {
+      "id": 163,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Movement characteristic of Canoptek Wraiths?",
+      "options": [
+        "8\"",
+        "9\"",
+        "10\"",
+        "12\""
+      ],
+      "correctAnswer": "10\""
+    },
+    {
+      "id": 164,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What ability lets units like Deathmarks, Triarch Praetorians, and the Monolith arrive on the battlefield mid-battle from reserves?",
+      "correctAnswer": "Deep Strike"
+    },
+    {
+      "id": 165,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Objective Control characteristic of a Monolith?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctAnswer": "8"
+    },
+    {
+      "id": 166,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Necrons detachment has the detachment rule \"Annihilation Protocol\"?",
+      "correctAnswer": "Annihilation Legion"
+    },
+    {
+      "id": 167,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Necrons detachment has the detachment rule \"Worthy Foes\"?",
+      "correctAnswer": "Obeisance Phalanx"
+    },
+    {
+      "id": 168,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which detachment's rule, \"Hyperphasing\", lets you remove Necrons units from the battlefield at the end of your opponent's turn and place them into Strategic Reserves?",
+      "options": [
+        "Hypercrypt Legion",
+        "Canoptek Court",
+        "Starshatter Arsenal",
+        "Cursed Legion"
+      ],
+      "correctAnswer": "Hypercrypt Legion"
+    },
+    {
+      "id": 169,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "The Cursed Legion detachment rule \"Cold Fervour\" adds how much to the Strength of Destroyer Cult weapons?",
+      "options": [
+        "+1",
+        "+2",
+        "+3",
+        "+4"
+      ],
+      "correctAnswer": "+2"
+    },
+    {
+      "id": 170,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which detachment's rule gives Necrons Vehicle and Mounted units (excluding Titanic) the Assault ability on their ranged weapons?",
+      "options": [
+        "Starshatter Arsenal",
+        "Annihilation Legion",
+        "Cryptek Conclave",
+        "Awakened Dynasty"
+      ],
+      "correctAnswer": "Starshatter Arsenal"
+    },
+    {
+      "id": 171,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Awakened Dynasty enhancement grants the bearer Feel No Pain 4+?",
+      "correctAnswer": "Enaegic Dermal Bond"
+    },
+    {
+      "id": 172,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "How many points does the Awakened Dynasty enhancement \"Phasal Subjugator\" cost?",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correctAnswer": "35"
+    },
+    {
+      "id": 173,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Skorpekh Destroyer?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 174,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of a warscythe?",
+      "options": [
+        "S6",
+        "S7",
+        "S8",
+        "S9"
+      ],
+      "correctAnswer": "S8"
+    },
+    {
+      "id": 175,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which special ability does the warscythe have?",
+      "options": [
+        "Devastating Wounds",
+        "Lethal Hits",
+        "Sustained Hits 1",
+        "Twin-linked"
+      ],
+      "correctAnswer": "Devastating Wounds"
+    },
+    {
+      "id": 176,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "How many points does Trazyn The Infinite cost?",
+      "options": [
+        "65",
+        "75",
+        "85",
+        "95"
+      ],
+      "correctAnswer": "75"
+    },
+    {
+      "id": 177,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of Illuminor Szeras?",
+      "options": [
+        "T6",
+        "T7",
+        "T8",
+        "T9"
+      ],
+      "correctAnswer": "T8"
+    },
+    {
+      "id": 178,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the name of the Ghost Ark ability that lets a nearby damaged Necron Warriors unit immediately activate Reanimation Protocols after being attacked?",
+      "correctAnswer": "Repair Barge"
+    },
+    {
+      "id": 179,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "How many Necron Warriors models can a Ghost Ark transport?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "id": 180,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "How many points does a single Triarch Stalker cost?",
+      "options": [
+        "90",
+        "100",
+        "110",
+        "120"
+      ],
+      "correctAnswer": "110"
+    },
+    {
+      "id": 181,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which C'tan Shard costs 340 points?",
+      "correctAnswer": "C'tan Shard of the Nightbringer"
+    },
+    {
+      "id": 182,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of the C'tan Shard of the Nightbringer?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "18"
+      ],
+      "correctAnswer": "16"
+    },
+    {
+      "id": 183,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 6 Skorpekh Destroyers cost?",
+      "correctAnswer": "180"
+    },
+    {
+      "id": 184,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Damage characteristic of the Doomsday Ark's doomsday cannon?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "id": 185,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Via its \"Overwhelming Obliteration\" ability, what special rule does a Doomsday Ark's doomsday cannon gain if the Ark Remains Stationary?",
+      "correctAnswer": "Devastating Wounds"
+    },
+    {
+      "id": 186,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of the Tachyon Arrow?",
+      "options": [
+        "S14",
+        "S16",
+        "S18",
+        "S20"
+      ],
+      "correctAnswer": "S16"
+    },
+    {
+      "id": 187,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Damage characteristic of the Tachyon Arrow?",
+      "correctAnswer": "D6+2"
+    },
+    {
+      "id": 188,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What special rule limits the Tachyon Arrow to being fired only once per battle?",
+      "correctAnswer": "One Shot"
+    },
+    {
+      "id": 189,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "In the Pantheon of Woe detachment, which Necrodermal Binding Ability lets the C'tan Shard of the Nightbringer charge in a turn it Advanced?",
+      "correctAnswer": "Quantum Goad"
+    },
+    {
+      "id": 190,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "How many points does the Pantheon of Woe ability \"Quantum Goad\" cost?",
+      "options": [
+        "35",
+        "40",
+        "45",
+        "55"
+      ],
+      "correctAnswer": "45"
+    },
+    {
+      "id": 191,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of the Scythe of the Nightbringer's \"strike\" profile?",
+      "options": [
+        "S12",
+        "S13",
+        "S14",
+        "S16"
+      ],
+      "correctAnswer": "S14"
+    },
+    {
+      "id": 192,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Damage characteristic of the Scythe of the Nightbringer's \"strike\" profile?",
+      "correctAnswer": "D6+2"
+    },
+    {
+      "id": 193,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "How many points does The Silent King (Szarekh plus 2 Triarchal Menhirs) cost as a whole unit?",
+      "options": [
+        "380",
+        "390",
+        "400",
+        "420"
+      ],
+      "correctAnswer": "400"
+    },
+    {
+      "id": 194,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is Szarekh's (The Silent King's) Wounds characteristic?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "18"
+      ],
+      "correctAnswer": "16"
+    },
+    {
+      "id": 195,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the detachment rule of the Canoptek Court detachment, which extends your army's control zone based on objectives held in No Man's Land?",
+      "correctAnswer": "Power Matrix"
+    },
+    {
+      "id": 196,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "How many points does the Canoptek Court enhancement \"Dimensional Sanctum\", which grants the bearer's unit Infiltrators, cost?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "id": 197,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Damage characteristic of the Annihilator Beam weapon?",
+      "correctAnswer": "6"
+    },
+    {
+      "id": 198,
+      "army": "necrons",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Armour Penetration of the Gauss Destructor weapon?",
+      "options": [
+        "-2",
+        "-3",
+        "-4",
+        "-5"
+      ],
+      "correctAnswer": "-4"
+    },
+    {
+      "id": 199,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which ability lets Tyranids units within 6\" of a Synapse model test Battle-shock on 3D6 instead of 2D6, and gain +1 Strength on melee attacks?",
+      "options": [
+        "Synapse",
+        "Shadow in the Warp",
+        "Reanimation Protocols",
+        "Waaagh!"
+      ],
+      "correctAnswer": "Synapse"
+    },
+    {
+      "id": 200,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which once-per-battle ability can force every enemy unit on the battlefield to take a Battle-shock test?",
+      "options": [
+        "Shadow in the Warp",
+        "Synapse",
+        "Onslaught",
+        "Hive Commander"
+      ],
+      "correctAnswer": "Shadow in the Warp"
+    },
+    {
+      "id": 201,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "Besides TYRANIDS, what faction keyword do all Tyranids units share that reflects the Hive Fleets' consuming nature?",
+      "correctAnswer": "GREAT DEVOURER"
+    },
+    {
+      "id": 202,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of a Termagant?",
+      "options": [
+        "T2",
+        "T3",
+        "T4",
+        "T5"
+      ],
+      "correctAnswer": "T3"
+    },
+    {
+      "id": 203,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Movement characteristic of a Hormagaunt?",
+      "options": [
+        "8\"",
+        "9\"",
+        "10\"",
+        "12\""
+      ],
+      "correctAnswer": "10\""
+    },
+    {
+      "id": 204,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 10 Termagants cost?",
+      "correctAnswer": "60"
+    },
+    {
+      "id": 205,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How many points does a unit of 20 Hormagaunts cost?",
+      "options": [
+        "110",
+        "120",
+        "130",
+        "140"
+      ],
+      "correctAnswer": "130"
+    },
+    {
+      "id": 206,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which keyword marks Gargoyles, Genestealers, the Broodlord, the Lictor, and the Trygon as fast-moving vanguard units?",
+      "options": [
+        "VANGUARD INVADER",
+        "ENDLESS MULTITUDE",
+        "GREAT DEVOURER",
+        "HARVESTER"
+      ],
+      "correctAnswer": "VANGUARD INVADER"
+    },
+    {
+      "id": 207,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Hive Tyrant?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "id": 208,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What invulnerable save does a Hive Tyrant have?",
+      "options": [
+        "3+",
+        "4+",
+        "5+",
+        "None"
+      ],
+      "correctAnswer": "4+"
+    },
+    {
+      "id": 209,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a Hive Tyrant cost?",
+      "correctAnswer": "195"
+    },
+    {
+      "id": 210,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which keyword marks The Swarmlord as a one-of-a-kind character?",
+      "options": [
+        "EPIC HERO",
+        "CHARACTER",
+        "EXALTED",
+        "LEGENDARY"
+      ],
+      "correctAnswer": "EPIC HERO"
+    },
+    {
+      "id": 211,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does The Swarmlord cost?",
+      "correctAnswer": "220"
+    },
+    {
+      "id": 212,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What invulnerable save do Genestealers have?",
+      "options": [
+        "4+",
+        "5+",
+        "6+",
+        "None"
+      ],
+      "correctAnswer": "5+"
+    },
+    {
+      "id": 213,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of a Tyrannofex?",
+      "options": [
+        "T10",
+        "T11",
+        "T12",
+        "T14"
+      ],
+      "correctAnswer": "T12"
+    },
+    {
+      "id": 214,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a Tyrannofex cost?",
+      "correctAnswer": "200"
+    },
+    {
+      "id": 215,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the name of the ability that lets Genestealers redeploy up to 8\" after normal deployment, before the battle begins?",
+      "correctAnswer": "Scouts 8\""
+    },
+    {
+      "id": 216,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Tyranids detachment has the detachment rule \"Enraged Behemoths\"?",
+      "correctAnswer": "Crusher Stampede"
+    },
+    {
+      "id": 217,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Tyranids detachment has the detachment rule \"Insurmountable Odds\"?",
+      "correctAnswer": "Unending Swarm"
+    },
+    {
+      "id": 218,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which detachment's rule, \"Feed the Swarm\", lets Harvester units regenerate friendly Tyranids models each Command phase?",
+      "options": [
+        "Assimilation Swarm",
+        "Crusher Stampede",
+        "Synaptic Nexus",
+        "Subterranean Assault"
+      ],
+      "correctAnswer": "Assimilation Swarm"
+    },
+    {
+      "id": 219,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which detachment's rule, \"Questing Tendrils\", lets Vanguard Invader units charge in a turn they Advanced?",
+      "options": [
+        "Vanguard Onslaught",
+        "Subterranean Assault",
+        "Warrior Bioform Onslaught",
+        "Invasion Fleet"
+      ],
+      "correctAnswer": "Vanguard Onslaught"
+    },
+    {
+      "id": 220,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which detachment's Synaptic Imperatives can grant units within Synapse Range a 5+ invulnerable save for the battle round?",
+      "options": [
+        "Synaptic Nexus",
+        "Crusher Stampede",
+        "Assimilation Swarm",
+        "Invasion Fleet"
+      ],
+      "correctAnswer": "Synaptic Nexus"
+    },
+    {
+      "id": 221,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Invasion Fleet Hyper-adaptation grants attacks against Monster or Vehicle targets the Lethal Hits ability?",
+      "correctAnswer": "Hyper-aggression"
+    },
+    {
+      "id": 222,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "How many points does the Invasion Fleet enhancement \"Alien Cunning\" cost?",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correctAnswer": "30"
+    },
+    {
+      "id": 223,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Under the Crusher Stampede rule \"Enraged Behemoths\", a Tyranids Monster unit's models get +2 Objective Control while that unit is at what strength?",
+      "options": [
+        "Starting Strength",
+        "Half-strength",
+        "Full Wounds",
+        "Below Half-strength"
+      ],
+      "correctAnswer": "Starting Strength"
+    },
+    {
+      "id": 224,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Carnifex?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": "8"
+    },
+    {
+      "id": 225,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many points does a single Carnifex cost?",
+      "correctAnswer": "90"
+    },
+    {
+      "id": 226,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of a Carnifex's crushing claws?",
+      "options": [
+        "S10",
+        "S11",
+        "S12",
+        "S14"
+      ],
+      "correctAnswer": "S12"
+    },
+    {
+      "id": 227,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of a Trygon?",
+      "options": [
+        "T8",
+        "T9",
+        "T10",
+        "T11"
+      ],
+      "correctAnswer": "T10"
+    },
+    {
+      "id": 228,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many points does a Trygon cost?",
+      "correctAnswer": "140"
+    },
+    {
+      "id": 229,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which ability lets a Trygon Deep Strike anywhere 6\" or more from enemy models, but prevents it from charging that same turn?",
+      "options": [
+        "Subterranean Tunnels",
+        "Burrower Assault",
+        "Scuttling Walker",
+        "Tunnel Network"
+      ],
+      "correctAnswer": "Subterranean Tunnels"
+    },
+    {
+      "id": 230,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Broodlord?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "6"
+    },
+    {
+      "id": 231,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Broodlord ability grants the Devastating Wounds ability to the melee weapons of the unit it leads?",
+      "correctAnswer": "Vicious Insight"
+    },
+    {
+      "id": 232,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of Old One Eye's claws & talons on their \"Strike\" profile?",
+      "options": [
+        "S12",
+        "S13",
+        "S14",
+        "S16"
+      ],
+      "correctAnswer": "S14"
+    },
+    {
+      "id": 233,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Norn Emissary?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "18"
+      ],
+      "correctAnswer": "16"
+    },
+    {
+      "id": 234,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "How many points does a Norn Emissary cost?",
+      "correctAnswer": "260"
+    },
+    {
+      "id": 235,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What invulnerable save does a Norn Emissary have?",
+      "options": [
+        "3+",
+        "4+",
+        "5+",
+        "None"
+      ],
+      "correctAnswer": "4+"
+    },
+    {
+      "id": 236,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Damage characteristic of the Tyrannofex's rupture cannon?",
+      "options": [
+        "D6+3",
+        "D6+4",
+        "D6+6",
+        "2D6"
+      ],
+      "correctAnswer": "D6+6"
+    },
+    {
+      "id": 237,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of the Tyrannofex's rupture cannon?",
+      "options": [
+        "S14",
+        "S16",
+        "S18",
+        "S20"
+      ],
+      "correctAnswer": "S18"
+    },
+    {
+      "id": 238,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which Synaptic Nexus enhancement worsens the Leadership of enemy units within 9\" of the bearer?",
+      "correctAnswer": "The Dirgeheart of Kharis"
+    },
+    {
+      "id": 239,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "How many points does the Synaptic Nexus enhancement \"The Dirgeheart of Kharis\" cost?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctAnswer": "15"
+    },
+    {
+      "id": 240,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which Warrior Bioform Onslaught detachment rule grants Tyranid Warriors a 5+ invulnerable save?",
+      "correctAnswer": "Leader-beasts"
+    },
+    {
+      "id": 241,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Under the Warrior Bioform Onslaught rule, non-Battle-shocked Tyranid Warriors with Ranged/Melee Bio-weapons units get what Objective Control characteristic?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 242,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which Subterranean Assault enhancement grants a Trygon the Synapse keyword?",
+      "correctAnswer": "Trygon Prime"
+    },
+    {
+      "id": 243,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "How many points does the Subterranean Assault enhancement \"Trygon Prime\" cost?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "id": 244,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Damage characteristic of the Exocrine's bio-plasmic cannon?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 245,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Attacks characteristic of the Exocrine's bio-plasmic cannon?",
+      "correctAnswer": "D6+3"
+    },
+    {
+      "id": 246,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which Tyrannofex ability lets it change an incoming attack's Damage characteristic to 0, once per battle?",
+      "correctAnswer": "Resilient Organism"
+    },
+    {
+      "id": 247,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of a Tervigon?",
+      "options": [
+        "T9",
+        "T10",
+        "T11",
+        "T12"
+      ],
+      "correctAnswer": "T11"
+    },
+    {
+      "id": 248,
+      "army": "tyranids",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "How many points does a Tervigon cost?",
+      "correctAnswer": "160"
+    },
+    {
+      "id": 249,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Orks' army-wide rule called?",
+      "options": [
+        "Waaagh!",
+        "Synapse",
+        "Reanimation Protocols",
+        "Doctrina Imperatives"
+      ],
+      "correctAnswer": "Waaagh!"
+    },
+    {
+      "id": 250,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "While Waaagh! is active, what invulnerable save do Orks models with the ability gain?",
+      "options": [
+        "3+",
+        "4+",
+        "5+",
+        "6+"
+      ],
+      "correctAnswer": "5+"
+    },
+    {
+      "id": 251,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "While Waaagh! is active, units are eligible to declare a charge in a turn in which they did what?",
+      "correctAnswer": "Advanced"
+    },
+    {
+      "id": 252,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of a Boy (from a Boyz unit)?",
+      "options": [
+        "T3",
+        "T4",
+        "T5",
+        "T6"
+      ],
+      "correctAnswer": "T5"
+    },
+    {
+      "id": 253,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How many points does a unit of 20 Boyz cost?",
+      "options": [
+        "150",
+        "160",
+        "170",
+        "180"
+      ],
+      "correctAnswer": "170"
+    },
+    {
+      "id": 254,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 10 Boyz cost?",
+      "correctAnswer": "80"
+    },
+    {
+      "id": 255,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Meganob?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 256,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Save characteristic of a Meganob?",
+      "options": [
+        "2+",
+        "3+",
+        "4+",
+        "5+"
+      ],
+      "correctAnswer": "2+"
+    },
+    {
+      "id": 257,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which keyword marks Ghazghkull Thraka as a one-of-a-kind character?",
+      "options": [
+        "EPIC HERO",
+        "CHARACTER",
+        "LEGENDARY",
+        "WARBOSS"
+      ],
+      "correctAnswer": "EPIC HERO"
+    },
+    {
+      "id": 258,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does the Ghazghkull Thraka unit (Ghazghkull plus Makari) cost?",
+      "correctAnswer": "235"
+    },
+    {
+      "id": 259,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What invulnerable save does a Warboss have?",
+      "options": [
+        "3+",
+        "4+",
+        "5+",
+        "6+"
+      ],
+      "correctAnswer": "5+"
+    },
+    {
+      "id": 260,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a Warboss cost?",
+      "correctAnswer": "75"
+    },
+    {
+      "id": 261,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Stompa?",
+      "options": [
+        "24",
+        "26",
+        "28",
+        "30"
+      ],
+      "correctAnswer": "30"
+    },
+    {
+      "id": 262,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many points does a Stompa cost?",
+      "correctAnswer": "800"
+    },
+    {
+      "id": 263,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which keyword identifies the Stompa and Gorkanaut as enormous, especially durable unit types?",
+      "options": [
+        "TITANIC",
+        "MOUNTED",
+        "BEASTS",
+        "SWARM"
+      ],
+      "correctAnswer": "TITANIC"
+    },
+    {
+      "id": 264,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the Movement characteristic of Warbikers?",
+      "options": [
+        "8\"",
+        "10\"",
+        "12\"",
+        "14\""
+      ],
+      "correctAnswer": "12\""
+    },
+    {
+      "id": 265,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the default melee weapon carried by most Boyz?",
+      "correctAnswer": "Choppa"
+    },
+    {
+      "id": 266,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Orks detachment has the detachment rule \"Get Stuck In\"?",
+      "correctAnswer": "War Horde"
+    },
+    {
+      "id": 267,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Orks detachment has the detachment rule \"Mob Mentality\"?",
+      "correctAnswer": "Green Tide"
+    },
+    {
+      "id": 268,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Under the Green Tide detachment's \"Mob Mentality\" rule, what invulnerable save does a Boyz unit with 10 or more models get against attacks?",
+      "options": [
+        "4+",
+        "5+",
+        "6+",
+        "None"
+      ],
+      "correctAnswer": "5+"
+    },
+    {
+      "id": 269,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which detachment's rule, \"Adrenaline Junkies\", lets Speed Freeks units shoot and declare a charge in a turn they Advanced or Fell Back?",
+      "options": [
+        "Kult of Speed",
+        "Speedwaaagh!",
+        "Blitz Brigade",
+        "Dread Mob"
+      ],
+      "correctAnswer": "Kult of Speed"
+    },
+    {
+      "id": 270,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which detachment's rule, \"Dakka! Dakka! Dakka!\", grants Orks Infantry and Walker ranged weapons the Assault ability?",
+      "options": [
+        "More Dakka!",
+        "Freebooter Krew",
+        "Taktikal Brigade",
+        "Dread Mob"
+      ],
+      "correctAnswer": "More Dakka!"
+    },
+    {
+      "id": 271,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which detachment's rule, \"Turbo Boostas\", lets Speed Freeks or Trukk units make an automatic 24\" Move in a straight line instead of Advancing?",
+      "correctAnswer": "Speedwaaagh!"
+    },
+    {
+      "id": 272,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which War Horde enhancement grants the bearer's melee weapons the Devastating Wounds ability?",
+      "options": [
+        "Headwoppa's Killchoppa",
+        "Follow Me Ladz",
+        "Kunnin' But Brutal",
+        "Supa-Cybork Body"
+      ],
+      "correctAnswer": "Headwoppa's Killchoppa"
+    },
+    {
+      "id": 273,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "How many points does the War Horde enhancement \"Headwoppa's Killchoppa\" cost?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "id": 274,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Nob (from a Nobz unit)?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 275,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 10 Nobz cost?",
+      "correctAnswer": "210"
+    },
+    {
+      "id": 276,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What two core abilities let Kommandos set up hidden, close to the enemy, before the battle begins?",
+      "correctAnswer": "Infiltrators and Stealth"
+    },
+    {
+      "id": 277,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of a Killa Kan?",
+      "options": [
+        "T5",
+        "T6",
+        "T7",
+        "T8"
+      ],
+      "correctAnswer": "T6"
+    },
+    {
+      "id": 278,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 3 Killa Kans cost?",
+      "correctAnswer": "125"
+    },
+    {
+      "id": 279,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Gorkanaut?",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "22"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "id": 280,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many points does a Gorkanaut cost?",
+      "correctAnswer": "265"
+    },
+    {
+      "id": 281,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of a Trukk?",
+      "options": [
+        "T6",
+        "T7",
+        "T8",
+        "T9"
+      ],
+      "correctAnswer": "T8"
+    },
+    {
+      "id": 282,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What invulnerable save does a Trukk have?",
+      "options": [
+        "4+",
+        "5+",
+        "6+",
+        "None"
+      ],
+      "correctAnswer": "6+"
+    },
+    {
+      "id": 283,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "How many points does a unit of 6 Killa Kans cost?",
+      "correctAnswer": "250"
+    },
+    {
+      "id": 284,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of the Stompa's Deffkannon?",
+      "options": [
+        "S12",
+        "S14",
+        "S16",
+        "S18"
+      ],
+      "correctAnswer": "S14"
+    },
+    {
+      "id": 285,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Damage characteristic of the Stompa's Deffkannon?",
+      "correctAnswer": "D6"
+    },
+    {
+      "id": 286,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of the Gorkanaut's Klaw of Gork on its \"Strike\" profile?",
+      "options": [
+        "S16",
+        "S18",
+        "S20",
+        "S22"
+      ],
+      "correctAnswer": "S18"
+    },
+    {
+      "id": 287,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Damage characteristic of the Gorkanaut's Klaw of Gork on its \"Strike\" profile?",
+      "correctAnswer": "6"
+    },
+    {
+      "id": 288,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which detachment offers the 45-point enhancement \"Mek Kaptin\", which grants re-rolled Hit rolls for the bearer's unit's ranged attacks?",
+      "options": [
+        "Taktikal Brigade",
+        "Dread Mob",
+        "Freebooter Krew",
+        "More Dakka!"
+      ],
+      "correctAnswer": "Taktikal Brigade"
+    },
+    {
+      "id": 289,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the name of the Taktikal Brigade enhancement that grants re-rolled Hit rolls for the bearer's unit's ranged attacks?",
+      "correctAnswer": "Mek Kaptin"
+    },
+    {
+      "id": 290,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of the Stompa's Mega-Choppa on its \"Strike\" profile?",
+      "options": [
+        "S20",
+        "S22",
+        "S24",
+        "S26"
+      ],
+      "correctAnswer": "S24"
+    },
+    {
+      "id": 291,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Damage characteristic of the Stompa's Mega-Choppa on its \"Strike\" profile?",
+      "correctAnswer": "10"
+    },
+    {
+      "id": 292,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "How many points does a single Deff Dread cost?",
+      "options": [
+        "100",
+        "110",
+        "120",
+        "130"
+      ],
+      "correctAnswer": "120"
+    },
+    {
+      "id": 293,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which Deff Dread ability can deal mortal wounds to an enemy unit in Engagement Range after the Deff Dread charges?",
+      "correctAnswer": "Piston-driven Brutality"
+    },
+    {
+      "id": 294,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Objective Control characteristic of a Gorkanaut?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": "8"
+    },
+    {
+      "id": 295,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "How many points does a Battlewagon cost?",
+      "correctAnswer": "160"
+    },
+    {
+      "id": 296,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Wounds characteristic of a Battlewagon?",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correctAnswer": "16"
+    },
+    {
+      "id": 297,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which Da Big Hunt detachment enhancement grants the bearer's unit the Scouts 9\" ability?",
+      "correctAnswer": "Glory Hog"
+    },
+    {
+      "id": 298,
+      "army": "orks",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "How many points does the Da Big Hunt enhancement \"Glory Hog\" cost?",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correctAnswer": "30"
+    }
+  ]
 }
