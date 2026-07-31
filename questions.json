@@ -1,5 +1,5 @@
 {
-  "version": "0.0.14",
+  "version": "0.0.15",
   "questions": [
     {
       "id": 1,
@@ -18835,6 +18835,2406 @@
         "6"
       ],
       "correctAnswer": "5"
+    },
+    {
+      "id": 1549,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How is Black Templars represented in 10th edition Warhammer 40,000?",
+      "options": [
+        "A Chapter/Faction Pack within Codex: Space Marines",
+        "A standalone codex",
+        "A Boarding Actions-only faction",
+        "An Imperial Agents sub-faction"
+      ],
+      "correctAnswer": "A Chapter/Faction Pack within Codex: Space Marines"
+    },
+    {
+      "id": 1550,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the name of the army rule that replaces Oath of Moment for Black Templars?",
+      "correctAnswer": "Templar Vows"
+    },
+    {
+      "id": 1551,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How many Templar Vows can be active for a Black Templars army at once?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": 1552,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the name of the umbrella rule governing Black Templars' Chapter mechanics, including the replacement of Oath of Moment?",
+      "correctAnswer": "Heirs of Sigismund"
+    },
+    {
+      "id": 1553,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Does a Black Templars army get the +1 to Wound roll half of the generic Oath of Moment rule?",
+      "options": [
+        "No, Black Templars is on the exclusion list",
+        "Yes, Black Templars is not excluded",
+        "Only with the Emperor's Champion",
+        "Only in the first battle round"
+      ],
+      "correctAnswer": "No, Black Templars is on the exclusion list"
+    },
+    {
+      "id": 1554,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many Black-Templars-exclusive Detachments exist?",
+      "correctAnswer": "4"
+    },
+    {
+      "id": 1555,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which keyword is fully banned from Black Templars armies?",
+      "options": [
+        "Psyker",
+        "Terminator",
+        "Vehicle",
+        "Character"
+      ],
+      "correctAnswer": "Psyker"
+    },
+    {
+      "id": 1556,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many Codex: Space Marines datasheets can a Black Templars army only take via a Black-Templars-keyworded reprint, rather than the generic version?",
+      "correctAnswer": "9"
+    },
+    {
+      "id": 1557,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which generic Space Marines Detachment is explicitly banned for Black Templars armies?",
+      "options": [
+        "1st Company Task Force",
+        "Gladius Task Force",
+        "Anvil Siege Force",
+        "Bastion Task Force"
+      ],
+      "correctAnswer": "1st Company Task Force"
+    },
+    {
+      "id": 1558,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the points cost of High Marshal Helbrecht?",
+      "correctAnswer": "120"
+    },
+    {
+      "id": 1559,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of the Chaplain Grimaldus unit?",
+      "options": [
+        "90",
+        "100",
+        "110",
+        "120"
+      ],
+      "correctAnswer": "110"
+    },
+    {
+      "id": 1560,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the points cost of the Emperor's Champion?",
+      "correctAnswer": "100"
+    },
+    {
+      "id": 1561,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Is the Emperor's Champion an Epic Hero?",
+      "options": [
+        "No",
+        "Yes",
+        "Only when leading Sword Brethren",
+        "Only if Helbrecht is also in the army"
+      ],
+      "correctAnswer": "No"
+    },
+    {
+      "id": 1562,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What are the names of the two Black Templars characters that ARE Epic Heroes?",
+      "correctAnswer": "Chaplain Grimaldus, High Marshal Helbrecht"
+    },
+    {
+      "id": 1563,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of the Marshal?",
+      "options": [
+        "70",
+        "75",
+        "80",
+        "85"
+      ],
+      "correctAnswer": "80"
+    },
+    {
+      "id": 1564,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the points cost of the Castellan?",
+      "correctAnswer": "70"
+    },
+    {
+      "id": 1565,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which unit is the Black Templars' Battleline choice, replacing Intercessor Squad?",
+      "options": [
+        "Crusader Squad",
+        "Sword Brethren Squad",
+        "Sternguard Veteran Squad",
+        "Terminator Squad"
+      ],
+      "correctAnswer": "Crusader Squad"
+    },
+    {
+      "id": 1566,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Templar Vow lets a unit re-roll Charge rolls and gives its melee weapons Precision against Psyker targets?",
+      "correctAnswer": "Abhor the Witch, Destroy the Witch"
+    },
+    {
+      "id": 1567,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which Templar Vow adds 1 to the Wound roll when a melee attack's Strength is less than or equal to the target's Toughness?",
+      "options": [
+        "Accept Any Challenge, No Matter the Odds",
+        "Abhor the Witch, Destroy the Witch",
+        "Suffer Not the Unclean to Live",
+        "Uphold the Honour of the Emperor"
+      ],
+      "correctAnswer": "Accept Any Challenge, No Matter the Odds"
+    },
+    {
+      "id": 1568,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Templar Vow makes a unit eligible to charge in a turn it Fell Back?",
+      "correctAnswer": "Suffer Not the Unclean to Live"
+    },
+    {
+      "id": 1569,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which Templar Vow lets Infantry units hold objectives and start Actions in a turn they Advanced?",
+      "options": [
+        "Uphold the Honour of the Emperor",
+        "Accept Any Challenge, No Matter the Odds",
+        "Suffer Not the Unclean to Live",
+        "Abhor the Witch, Destroy the Witch"
+      ],
+      "correctAnswer": "Uphold the Honour of the Emperor"
+    },
+    {
+      "id": 1570,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the name of the Companions of Vehemence detachment rule?",
+      "correctAnswer": "Righteous Fervour"
+    },
+    {
+      "id": 1571,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the name of the Vindication Task Force detachment rule?",
+      "options": [
+        "Purge and Sanctify",
+        "Shock and Awe",
+        "Zealous Litanies",
+        "Righteous Fervour"
+      ],
+      "correctAnswer": "Purge and Sanctify"
+    },
+    {
+      "id": 1572,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the name of the Godhammer Assault Force detachment rule?",
+      "correctAnswer": "Shock and Awe"
+    },
+    {
+      "id": 1573,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the name of the Wrathful Procession detachment rule?",
+      "options": [
+        "Zealous Litanies",
+        "Purge and Sanctify",
+        "Shock and Awe",
+        "Righteous Fervour"
+      ],
+      "correctAnswer": "Zealous Litanies"
+    },
+    {
+      "id": 1574,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Unlike Templar Vows, which are chosen once at the start of the battle, how often is an active Litany under Zealous Litanies reselected?",
+      "correctAnswer": "Every battle round"
+    },
+    {
+      "id": 1575,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which of the three Litanies under Zealous Litanies grants a 5+ invulnerable save against ranged attacks?",
+      "options": [
+        "Chant of Deathless Devotion",
+        "Chorus of Relentless Hate",
+        "Rite of Perfervid Wrath",
+        "Righteous Fervour"
+      ],
+      "correctAnswer": "Chant of Deathless Devotion"
+    },
+    {
+      "id": 1576,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the points cost of a 4-model Sword Brethren Squad?",
+      "correctAnswer": "105"
+    },
+    {
+      "id": 1577,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of a 20-model (1 Sword Brother + 11 Initiates + 8 Neophytes) Crusader Squad?",
+      "options": [
+        "260",
+        "280",
+        "300",
+        "320"
+      ],
+      "correctAnswer": "300"
+    },
+    {
+      "id": 1578,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the points cost of the Execrator?",
+      "correctAnswer": "60"
+    },
+    {
+      "id": 1579,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of the Crusade Ancient?",
+      "options": [
+        "45",
+        "50",
+        "55",
+        "60"
+      ],
+      "correctAnswer": "55"
+    },
+    {
+      "id": 1580,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the points cost of a 5-model Terminator Squad (Black Templars-keyworded version)?",
+      "correctAnswer": "175"
+    },
+    {
+      "id": 1581,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of a Land Raider Crusader (Black Templars-keyworded version)?",
+      "options": [
+        "200",
+        "210",
+        "220",
+        "230"
+      ],
+      "correctAnswer": "220"
+    },
+    {
+      "id": 1582,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many Enhancements does each of the four Black Templars Detachments have?",
+      "correctAnswer": "4"
+    },
+    {
+      "id": 1583,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Strength characteristic of High Marshal Helbrecht's Sword of the High Marshals, strike profile?",
+      "correctAnswer": "8"
+    },
+    {
+      "id": 1584,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Damage characteristic of the Sword of the High Marshals, strike profile?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "D3"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 1585,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Strength characteristic of the Emperor's Champion's melee weapon, Black Sword, strike profile?",
+      "correctAnswer": "8"
+    },
+    {
+      "id": 1586,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which two special rules does the Black Sword have in its strike profile?",
+      "options": [
+        "Anti-character 5+ and Precision",
+        "Lethal Hits and Precision",
+        "Devastating Wounds and Lance",
+        "Anti-character 5+ and Devastating Wounds"
+      ],
+      "correctAnswer": "Anti-character 5+ and Precision"
+    },
+    {
+      "id": 1587,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the AP of High Marshal Helbrecht's ranged weapon, Ferocity?",
+      "correctAnswer": "-1"
+    },
+    {
+      "id": 1588,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Damage characteristic of Ferocity?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "D3"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 1589,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which Emperor's Champion ability lets him change a failed save's Damage to 0 once per phase?",
+      "correctAnswer": "Armour of Faith"
+    },
+    {
+      "id": 1590,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which Wrathful Procession-exclusive Enhancement grants Fights First once per battle?",
+      "options": [
+        "Sacred Rage",
+        "Pyrebrand",
+        "Taramond's Censer",
+        "Benediction of Fury"
+      ],
+      "correctAnswer": "Sacred Rage"
+    },
+    {
+      "id": 1591,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the points cost of Sacred Rage?",
+      "correctAnswer": "30"
+    },
+    {
+      "id": 1592,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which Companions of Vehemence-exclusive Enhancement, restricted to a Chaplain or Judiciar model, improves melee AP by 1?",
+      "options": [
+        "Incendiary Animus",
+        "Oathbound Exemplar",
+        "Merciless Denunciation",
+        "Zealous Vanguard"
+      ],
+      "correctAnswer": "Incendiary Animus"
+    },
+    {
+      "id": 1593,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the points cost of Incendiary Animus?",
+      "correctAnswer": "25"
+    },
+    {
+      "id": 1594,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which unit has the Righteous Zeal ability, letting it move up to 1D6+2\" toward the enemy after losing models to enemy shooting?",
+      "options": [
+        "Crusader Squad",
+        "Sword Brethren Squad",
+        "Terminator Squad",
+        "Sternguard Veteran Squad"
+      ],
+      "correctAnswer": "Crusader Squad"
+    },
+    {
+      "id": 1595,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Strength characteristic of the Black-Templars-keyworded Terminator Squad's chainfist?",
+      "correctAnswer": "8"
+    },
+    {
+      "id": 1596,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which special rule does the Black-Templars-keyworded Land Raider Crusader's hunter-killer missile have?",
+      "options": [
+        "One Shot",
+        "Blast",
+        "Heavy",
+        "Twin-linked"
+      ],
+      "correctAnswer": "One Shot"
+    },
+    {
+      "id": 1597,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the name of the distinct, Warhammer Legends-only datasheet that shares its name with the current Crusader Squad?",
+      "correctAnswer": "Crusader Squad (Legendary)"
+    },
+    {
+      "id": 1598,
+      "army": "blackTemplars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "How many Neophytes are in the 150-point Crusader Squad composition (1 Sword Brother + 5 Initiates + 4 Neophytes)?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "id": 1599,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How is Imperial Fists represented in 10th edition Warhammer 40,000?",
+      "options": [
+        "A Chapter within Codex: Space Marines, with no separate Faction Pack of its own",
+        "A standalone codex",
+        "A Boarding Actions-only faction",
+        "A sub-faction of Iron Hands"
+      ],
+      "correctAnswer": "A Chapter within Codex: Space Marines, with no separate Faction Pack of its own"
+    },
+    {
+      "id": 1600,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "Does an Imperial Fists army get the +1 to Wound roll half of Oath of Moment?",
+      "correctAnswer": "Yes"
+    },
+    {
+      "id": 1601,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the name of Imperial Fists' exclusive Detachment?",
+      "options": [
+        "Emperor's Shield",
+        "Hammer of Avernii",
+        "Forgefather's Seekers",
+        "Wrathful Procession"
+      ],
+      "correctAnswer": "Emperor's Shield"
+    },
+    {
+      "id": 1602,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the name of the Emperor's Shield detachment rule?",
+      "correctAnswer": "Wrath of Dorn"
+    },
+    {
+      "id": 1603,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How many Imperial-Fists-keyworded named-character datasheets exist?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 1604,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What are the names of the three Imperial-Fists-exclusive named characters?",
+      "correctAnswer": "Darnath Lysander, Pedro Kantor, Tor Garadon"
+    },
+    {
+      "id": 1605,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Darnath Lysander?",
+      "options": [
+        "90",
+        "95",
+        "100",
+        "105"
+      ],
+      "correctAnswer": "100"
+    },
+    {
+      "id": 1606,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the points cost of Pedro Kantor?",
+      "correctAnswer": "90"
+    },
+    {
+      "id": 1607,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Tor Garadon?",
+      "options": [
+        "80",
+        "85",
+        "90",
+        "95"
+      ],
+      "correctAnswer": "90"
+    },
+    {
+      "id": 1608,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "Which Imperial Fists character's true lore-Chapter is actually Crimson Fists, a successor Chapter, not Imperial Fists?",
+      "correctAnswer": "Pedro Kantor"
+    },
+    {
+      "id": 1609,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What Invulnerable save is shared by Darnath Lysander, Pedro Kantor, and Tor Garadon?",
+      "options": [
+        "3+",
+        "4+",
+        "5+",
+        "6+"
+      ],
+      "correctAnswer": "4+"
+    },
+    {
+      "id": 1610,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the name of Darnath Lysander's melee weapon?",
+      "correctAnswer": "Fist of Dorn"
+    },
+    {
+      "id": 1611,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which special rule does the Fist of Dorn have?",
+      "options": [
+        "Devastating Wounds",
+        "Lethal Hits",
+        "Precision",
+        "Anti-vehicle 3+"
+      ],
+      "correctAnswer": "Devastating Wounds"
+    },
+    {
+      "id": 1612,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many Enhancements does the Emperor's Shield Detachment have?",
+      "correctAnswer": "4"
+    },
+    {
+      "id": 1613,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How many Stratagems does the Emperor's Shield Detachment have?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "6"
+    },
+    {
+      "id": 1614,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What CP cost do all six Emperor's Shield Stratagems share?",
+      "correctAnswer": "1CP"
+    },
+    {
+      "id": 1615,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which unit types do five of the six Emperor's Shield Stratagems key off of?",
+      "options": [
+        "Terminator, Bladeguard Veteran Squad, Sternguard Veteran Squad, and Vanguard Veteran Squad",
+        "Dreadnought, Predator, Vindicator, and Land Raider",
+        "Intercessor Squad, Tactical Squad, and Scout Squad",
+        "Aggressor Squad and Eradicator Squad only"
+      ],
+      "correctAnswer": "Terminator, Bladeguard Veteran Squad, Sternguard Veteran Squad, and Vanguard Veteran Squad"
+    },
+    {
+      "id": 1616,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What does Wrath of Dorn grant models with Oath of Moment when attacking their Oath of Moment target?",
+      "correctAnswer": "Re-roll a Wound roll of 1"
+    },
+    {
+      "id": 1617,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What additional bonus does Wrath of Dorn grant specifically to a Darnath Lysander unit's attacks against the Oath of Moment target?",
+      "options": [
+        "Re-roll the whole Wound roll, not just 1s",
+        "Re-roll the Hit roll twice",
+        "Add 2 to the Wound roll",
+        "Ignore invulnerable saves"
+      ],
+      "correctAnswer": "Re-roll the whole Wound roll, not just 1s"
+    },
+    {
+      "id": 1618,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Emperor's Shield Enhancement adds 1 Attacks to the bearer's melee weapons, extendable to the unit once per battle?",
+      "correctAnswer": "Champion of the Feast"
+    },
+    {
+      "id": 1619,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Champion of the Feast?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "25"
+    },
+    {
+      "id": 1620,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Emperor's Shield Enhancement, restricted to an Ancient model, worsens Wound rolls against the bearer's unit when the attacker's Strength exceeds its Toughness?",
+      "correctAnswer": "Malodraxian Standard"
+    },
+    {
+      "id": 1621,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Malodraxian Standard?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "id": 1622,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Emperor's Shield Enhancement, restricted to a Terminator model, lets the bearer return with 3 wounds on a 2+ the first time it is destroyed?",
+      "correctAnswer": "Indomitable Champion"
+    },
+    {
+      "id": 1623,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Indomitable Champion?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "id": 1624,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Emperor's Shield Enhancement, restricted to a Terminator model, grants +1 Objective Control?",
+      "correctAnswer": "Disciple of Rhetoricus"
+    },
+    {
+      "id": 1625,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Disciple of Rhetoricus?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "id": 1626,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the name of Pedro Kantor's ranged weapon?",
+      "correctAnswer": "Dorn's Arrow"
+    },
+    {
+      "id": 1627,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the name of Tor Garadon's melee weapon?",
+      "options": [
+        "Hand of Defiance",
+        "Fist of Retribution",
+        "Artificer grav-gun",
+        "Fist of Dorn"
+      ],
+      "correctAnswer": "Hand of Defiance"
+    },
+    {
+      "id": 1628,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Tor Garadon ability improves Strength, AP, and Damage by 2 when he attacks a Monster, Vehicle, or Fortification?",
+      "correctAnswer": "Siege Captain"
+    },
+    {
+      "id": 1629,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which Pedro Kantor ability grants Sternguard Veteran Squad units Objective Control 2 while not Battle-shocked?",
+      "options": [
+        "Inspiring Commander",
+        "Oath of Rynn",
+        "To the Last",
+        "Siege Captain"
+      ],
+      "correctAnswer": "Inspiring Commander"
+    },
+    {
+      "id": 1630,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the points cost of a 5-model Terminator Squad (generic)?",
+      "correctAnswer": "170"
+    },
+    {
+      "id": 1631,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of a 5-model Sternguard Veteran Squad?",
+      "options": [
+        "80",
+        "90",
+        "100",
+        "110"
+      ],
+      "correctAnswer": "100"
+    },
+    {
+      "id": 1632,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the points cost of a 3-model Bladeguard Veteran Squad?",
+      "correctAnswer": "80"
+    },
+    {
+      "id": 1633,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Strength characteristic of Darnath Lysander's Fist of Dorn?",
+      "correctAnswer": "10"
+    },
+    {
+      "id": 1634,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Damage characteristic of the Fist of Dorn?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "D3"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 1635,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which Darnath Lysander ability grants him a 2+ invulnerable save once per battle, at the start of any phase?",
+      "correctAnswer": "Rampart"
+    },
+    {
+      "id": 1636,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of Pedro Kantor's Dorn's Arrow?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "5"
+    },
+    {
+      "id": 1637,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What two special rules does Dorn's Arrow have, besides its base profile?",
+      "correctAnswer": "Rapid Fire 2, Sustained Hits 1"
+    },
+    {
+      "id": 1638,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of Pedro Kantor's melee weapon, Fist of Retribution?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": "8"
+    },
+    {
+      "id": 1639,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Damage characteristic of Fist of Retribution?",
+      "correctAnswer": "3"
+    },
+    {
+      "id": 1640,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of Tor Garadon's ranged weapon, Artificer grav-gun?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "5"
+    },
+    {
+      "id": 1641,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which special rule does the Artificer grav-gun have?",
+      "correctAnswer": "Anti-vehicle 2+"
+    },
+    {
+      "id": 1642,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of Tor Garadon's melee weapon, Hand of Defiance?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correctAnswer": "12"
+    },
+    {
+      "id": 1643,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Wounds characteristic of Tor Garadon?",
+      "correctAnswer": "6"
+    },
+    {
+      "id": 1644,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of Tor Garadon?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "6"
+    },
+    {
+      "id": 1645,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the points cost of a Land Raider?",
+      "correctAnswer": "220"
+    },
+    {
+      "id": 1646,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of a Vindicator?",
+      "options": [
+        "175",
+        "180",
+        "185",
+        "190"
+      ],
+      "correctAnswer": "185"
+    },
+    {
+      "id": 1647,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the points cost of a Repulsor Executioner?",
+      "correctAnswer": "230"
+    },
+    {
+      "id": 1648,
+      "army": "imperialFists",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which Vindicator ability lets it target enemies within Engagement Range with its demolisher cannon and ignore the usual Hit-roll penalty for shooting at that range?",
+      "options": [
+        "Siege Shield",
+        "Assault Ramp",
+        "Duty Eternal",
+        "Executioner"
+      ],
+      "correctAnswer": "Siege Shield"
+    },
+    {
+      "id": 1649,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How is Iron Hands represented in 10th edition Warhammer 40,000?",
+      "options": [
+        "A Chapter within Codex: Space Marines",
+        "A standalone codex",
+        "A Boarding Actions-only faction",
+        "A sub-faction of Imperial Fists"
+      ],
+      "correctAnswer": "A Chapter within Codex: Space Marines"
+    },
+    {
+      "id": 1650,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "Does an Iron Hands army get the +1 to Wound roll half of Oath of Moment?",
+      "correctAnswer": "Yes"
+    },
+    {
+      "id": 1651,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Is there a Chapter-wide \"Bionics\" or Feel No Pain army rule for Iron Hands, separate from any Detachment or character?",
+      "options": [
+        "No",
+        "Yes",
+        "Only for Dreadnoughts",
+        "Only for Terminators"
+      ],
+      "correctAnswer": "No"
+    },
+    {
+      "id": 1652,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many datasheets carry the Iron Hands faction keyword?",
+      "correctAnswer": "2"
+    },
+    {
+      "id": 1653,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What are the names of the two Iron-Hands-exclusive characters?",
+      "options": [
+        "Iron Father Feirros and Caanok Var",
+        "Kardan Stronos and Iron Father Feirros",
+        "Caanok Var and Kardan Stronos",
+        "Iron Father Feirros and Telemon"
+      ],
+      "correctAnswer": "Iron Father Feirros and Caanok Var"
+    },
+    {
+      "id": 1654,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the name of Iron Hands' exclusive Detachment?",
+      "correctAnswer": "Hammer of Avernii"
+    },
+    {
+      "id": 1655,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How many Detachment Rules does Hammer of Avernii have, not counting its Restrictions clause?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 1656,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the name of the first Hammer of Avernii detachment rule?",
+      "correctAnswer": "Calculated Annihilation"
+    },
+    {
+      "id": 1657,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the name of the second Hammer of Avernii detachment rule, tied to Caanok Var?",
+      "options": [
+        "Recalculating",
+        "Calculated Annihilation",
+        "Iron Father",
+        "Cold and Calculating"
+      ],
+      "correctAnswer": "Recalculating"
+    },
+    {
+      "id": 1658,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the points cost of Iron Father Feirros?",
+      "correctAnswer": "95"
+    },
+    {
+      "id": 1659,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Caanok Var?",
+      "options": [
+        "90",
+        "95",
+        "100",
+        "105"
+      ],
+      "correctAnswer": "100"
+    },
+    {
+      "id": 1660,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What Invulnerable save does Caanok Var have?",
+      "correctAnswer": "4+"
+    },
+    {
+      "id": 1661,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Does Iron Father Feirros have an Invulnerable save?",
+      "options": [
+        "No",
+        "Yes, 4+",
+        "Yes, 5+",
+        "Yes, 3+"
+      ],
+      "correctAnswer": "No"
+    },
+    {
+      "id": 1662,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many Enhancements does the Hammer of Avernii Detachment have?",
+      "correctAnswer": "4"
+    },
+    {
+      "id": 1663,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How many Stratagems does the Hammer of Avernii Detachment have?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "6"
+    },
+    {
+      "id": 1664,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What CP cost do all six Hammer of Avernii Stratagems share?",
+      "correctAnswer": "1CP"
+    },
+    {
+      "id": 1665,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which classic Iron Hands character name has no datasheet at all in current 10th edition data?",
+      "options": [
+        "Kardan Stronos",
+        "Iron Father Feirros",
+        "Caanok Var",
+        "Telemon"
+      ],
+      "correctAnswer": "Kardan Stronos"
+    },
+    {
+      "id": 1666,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What does Calculated Annihilation grant models with Oath of Moment when attacking their Oath of Moment target?",
+      "correctAnswer": "Re-roll a Wound roll of 1"
+    },
+    {
+      "id": 1667,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What does Recalculating let a Caanok Var army do once per battle round after its Oath of Moment target is destroyed?",
+      "options": [
+        "Select a new Oath of Moment target",
+        "Gain 1 Command Point",
+        "Heal D3 wounds on Caanok Var",
+        "Re-roll all Hit rolls that round"
+      ],
+      "correctAnswer": "Select a new Oath of Moment target"
+    },
+    {
+      "id": 1668,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Iron Father Feirros ability grants Feel No Pain 5+ to the unit he leads?",
+      "correctAnswer": "Rites of Tempering"
+    },
+    {
+      "id": 1669,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which Caanok Var ability grants his unit's attacks Sustained Hits 1 or Lethal Hits depending on the target type?",
+      "options": [
+        "Cold and Calculating",
+        "Cerebrex Logic Engine",
+        "Rites of Tempering",
+        "Recalculating"
+      ],
+      "correctAnswer": "Cold and Calculating"
+    },
+    {
+      "id": 1670,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Hammer of Avernii Enhancement, costing 30 points, is an Aura that can destroy a model in a nearby enemy unit that fails a Battle-shock test?",
+      "correctAnswer": "Medusan Roar"
+    },
+    {
+      "id": 1671,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Medusan Roar?",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correctAnswer": "30"
+    },
+    {
+      "id": 1672,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Hammer of Avernii Enhancement, costing 25 points, adds 1 to the Attacks characteristic of the bearer's melee weapons?",
+      "correctAnswer": "Spiritus Ferrum"
+    },
+    {
+      "id": 1673,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Spiritus Ferrum?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "25"
+    },
+    {
+      "id": 1674,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Hammer of Avernii Enhancement, costing 10 points, improves the bearer's Objective Control by 1?",
+      "correctAnswer": "Iron Laurel"
+    },
+    {
+      "id": 1675,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Iron Laurel?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "id": 1676,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Hammer of Avernii Enhancement, restricted to a Terminator model, returns a destroyed Bodyguard model to the bearer's unit each Command phase?",
+      "correctAnswer": "Steel Font"
+    },
+    {
+      "id": 1677,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Steel Font?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctAnswer": "15"
+    },
+    {
+      "id": 1678,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many Detachments does the Space Marines Faction Pack list in total (version 1.8)?",
+      "correctAnswer": "14"
+    },
+    {
+      "id": 1679,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Of those 14 Space Marines Detachments, how many are Iron-Hands-exclusive?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": 1680,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the points cost of a Dreadnought?",
+      "correctAnswer": "135"
+    },
+    {
+      "id": 1681,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of a Redemptor Dreadnought?",
+      "options": [
+        "185",
+        "195",
+        "205",
+        "215"
+      ],
+      "correctAnswer": "205"
+    },
+    {
+      "id": 1682,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the points cost of a Brutalis Dreadnought?",
+      "correctAnswer": "160"
+    },
+    {
+      "id": 1683,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Strength characteristic of Iron Father Feirros's ranged weapon, Gorgon's Wrath?",
+      "correctAnswer": "5"
+    },
+    {
+      "id": 1684,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which special rule does Gorgon's Wrath have?",
+      "options": [
+        "Sustained Hits 2",
+        "Sustained Hits 1",
+        "Lethal Hits",
+        "Devastating Wounds"
+      ],
+      "correctAnswer": "Sustained Hits 2"
+    },
+    {
+      "id": 1685,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Strength characteristic of Iron Father Feirros's melee weapon, Medusan Manipuli?",
+      "correctAnswer": "8"
+    },
+    {
+      "id": 1686,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Damage characteristic of Medusan Manipuli?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "D3"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 1687,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Strength characteristic of Caanok Var's melee weapon, Axiom, strike profile?",
+      "correctAnswer": "8"
+    },
+    {
+      "id": 1688,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Attacks characteristic of Axiom, sweep profile?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "id": 1689,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Wounds characteristic of Caanok Var?",
+      "correctAnswer": "6"
+    },
+    {
+      "id": 1690,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Toughness characteristic of Caanok Var?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "5"
+    },
+    {
+      "id": 1691,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the base size, in millimetres, of the Caanok Var model?",
+      "correctAnswer": "50mm"
+    },
+    {
+      "id": 1692,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of a Ballistus Dreadnought?",
+      "options": [
+        "140",
+        "145",
+        "150",
+        "155"
+      ],
+      "correctAnswer": "150"
+    },
+    {
+      "id": 1693,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the points cost of a Repulsor Executioner?",
+      "correctAnswer": "230"
+    },
+    {
+      "id": 1694,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of the Repulsor Executioner's Heavy laser destroyer?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "correctAnswer": "16"
+    },
+    {
+      "id": 1695,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Damage characteristic of the Heavy laser destroyer?",
+      "correctAnswer": "D6+4"
+    },
+    {
+      "id": 1696,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of the Gladiator Lancer's Lancer laser destroyer?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correctAnswer": "14"
+    },
+    {
+      "id": 1697,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which ability makes a Brutalis Dreadnought deal mortal wounds to an enemy unit it just charged, based on a D6 roll?",
+      "correctAnswer": "Brutalis Charge"
+    },
+    {
+      "id": 1698,
+      "army": "ironHands",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which ability lets a Techmarine heal D3 wounds and grant +1 to Hit to a nearby friendly Vehicle each Command phase?",
+      "options": [
+        "Blessing of the Omnissiah",
+        "Techmarine",
+        "Vengeance of the Omnissiah",
+        "Master of the Forge"
+      ],
+      "correctAnswer": "Blessing of the Omnissiah"
+    },
+    {
+      "id": 1699,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How is Salamanders represented in 10th edition Warhammer 40,000?",
+      "options": [
+        "A Chapter within Codex: Space Marines, with no standalone Faction Pack",
+        "A standalone codex",
+        "A Boarding Actions-only faction",
+        "A sub-faction of Deathwatch"
+      ],
+      "correctAnswer": "A Chapter within Codex: Space Marines, with no standalone Faction Pack"
+    },
+    {
+      "id": 1700,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "Does a Salamanders army get the +1 to Wound roll half of Oath of Moment?",
+      "correctAnswer": "Yes"
+    },
+    {
+      "id": 1701,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Is there a Chapter-wide flamer/melta army rule for Salamanders, separate from any Detachment?",
+      "options": [
+        "No",
+        "Yes",
+        "Only for Infernus Squad",
+        "Only for Techmarines"
+      ],
+      "correctAnswer": "No"
+    },
+    {
+      "id": 1702,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the name of Salamanders' exclusive Detachment?",
+      "correctAnswer": "Forgefather's Seekers"
+    },
+    {
+      "id": 1703,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the name of the Forgefather's Seekers detachment rule?",
+      "options": [
+        "Vulkan's Quest",
+        "Wrath of Dorn",
+        "Calculated Annihilation",
+        "Zealous Litanies"
+      ],
+      "correctAnswer": "Vulkan's Quest"
+    },
+    {
+      "id": 1704,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What ability does Vulkan's Quest grant to ranged weapons equipped by Adeptus Astartes models?",
+      "correctAnswer": "Assault"
+    },
+    {
+      "id": 1705,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What additional bonus does Vulkan's Quest grant to attacks targeting units within 12\"?",
+      "options": [
+        "+1 to Strength",
+        "+1 to AP",
+        "+1 to Damage",
+        "Ignores Cover"
+      ],
+      "correctAnswer": "+1 to Strength"
+    },
+    {
+      "id": 1706,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many Salamanders-exclusive Epic Hero characters exist?",
+      "correctAnswer": "2"
+    },
+    {
+      "id": 1707,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What are the names of the two Salamanders-exclusive characters?",
+      "options": [
+        "Vulkan He'stan and Adrax Agatone",
+        "Tu'Shan and Vulkan He'stan",
+        "Adrax Agatone and Numeon",
+        "Vulkan He'stan and Numeon"
+      ],
+      "correctAnswer": "Vulkan He'stan and Adrax Agatone"
+    },
+    {
+      "id": 1708,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the points cost of Vulkan He'stan?",
+      "correctAnswer": "100"
+    },
+    {
+      "id": 1709,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Adrax Agatone?",
+      "options": [
+        "75",
+        "80",
+        "85",
+        "90"
+      ],
+      "correctAnswer": "85"
+    },
+    {
+      "id": 1710,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "Which classic Salamanders Chapter Master has no 10th-edition datasheet at all?",
+      "correctAnswer": "Tu'Shan"
+    },
+    {
+      "id": 1711,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What Invulnerable save is shared by Vulkan He'stan and Adrax Agatone?",
+      "options": [
+        "3+",
+        "4+",
+        "5+",
+        "6+"
+      ],
+      "correctAnswer": "4+"
+    },
+    {
+      "id": 1712,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the name of Vulkan He'stan's melee weapon?",
+      "correctAnswer": "Spear of Vulkan"
+    },
+    {
+      "id": 1713,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Which special rule does the Spear of Vulkan have?",
+      "options": [
+        "Devastating Wounds",
+        "Lethal Hits",
+        "Precision",
+        "Anti-vehicle 3+"
+      ],
+      "correctAnswer": "Devastating Wounds"
+    },
+    {
+      "id": 1714,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the name of Adrax Agatone's ranged weapon, a hand flamer?",
+      "correctAnswer": "Drakkis"
+    },
+    {
+      "id": 1715,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the name of Adrax Agatone's melee weapon, a thunder hammer?",
+      "options": [
+        "Malleus Noctum",
+        "Spear of Vulkan",
+        "Gauntlet of the Forge",
+        "Axiom"
+      ],
+      "correctAnswer": "Malleus Noctum"
+    },
+    {
+      "id": 1716,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "How many Enhancements does the Forgefather's Seekers Detachment have?",
+      "correctAnswer": "4"
+    },
+    {
+      "id": 1717,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "How many Stratagems does the Forgefather's Seekers Detachment have?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "6"
+    },
+    {
+      "id": 1718,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Forgefather's Seekers Enhancement adds 1 to the Attacks characteristic of Torrent weapons equipped by the bearer's unit?",
+      "correctAnswer": "Immolator"
+    },
+    {
+      "id": 1719,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Immolator?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "id": 1720,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Forgefather's Seekers Enhancement adds 3 to the Strength characteristic of the bearer's melee weapons?",
+      "correctAnswer": "War-tempered Artifice"
+    },
+    {
+      "id": 1721,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of War-tempered Artifice?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "25"
+    },
+    {
+      "id": 1722,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Forgefather's Seekers Enhancement lets the bearer, while leading, change a Hit roll or saving throw result to an unmodified 6 once per turn?",
+      "correctAnswer": "Forged in Battle"
+    },
+    {
+      "id": 1723,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Forged in Battle?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctAnswer": "15"
+    },
+    {
+      "id": 1724,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Forgefather's Seekers Enhancement reduces Damage by 1 against the bearer, or sets it to 1 if the attack used a Melta or Torrent weapon?",
+      "correctAnswer": "Adamantine Mantle"
+    },
+    {
+      "id": 1725,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Adamantine Mantle?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "id": 1726,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Vulkan He'stan ability lets him grant a Wound-roll re-roll for Torrent/Melta attacks against a chosen enemy unit?",
+      "correctAnswer": "Forgefather"
+    },
+    {
+      "id": 1727,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which Vulkan He'stan ability gives him Objective Control 10, Leadership 5+, and Feel No Pain 4+ while near a chosen objective marker?",
+      "options": [
+        "Seeker of the Unfound",
+        "Forgefather",
+        "Inspiring Commander",
+        "Rites of Tempering"
+      ],
+      "correctAnswer": "Seeker of the Unfound"
+    },
+    {
+      "id": 1728,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Adrax Agatone ability halves the Objective Control characteristic of an enemy unit within Engagement Range of him?",
+      "correctAnswer": "Lord of the Pyroclasts"
+    },
+    {
+      "id": 1729,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of a 5-model Infernus Squad?",
+      "options": [
+        "80",
+        "85",
+        "90",
+        "95"
+      ],
+      "correctAnswer": "90"
+    },
+    {
+      "id": 1730,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the points cost of a 5-model Hellblaster Squad?",
+      "correctAnswer": "110"
+    },
+    {
+      "id": 1731,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of a 3-model Eradicator Squad?",
+      "options": [
+        "80",
+        "85",
+        "90",
+        "95"
+      ],
+      "correctAnswer": "90"
+    },
+    {
+      "id": 1732,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the points cost of a 3-model Aggressor Squad?",
+      "correctAnswer": "95"
+    },
+    {
+      "id": 1733,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Damage characteristic of Vulkan He'stan's Gauntlet of the Forge?",
+      "correctAnswer": "1"
+    },
+    {
+      "id": 1734,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of the Gauntlet of the Forge?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "6"
+    },
+    {
+      "id": 1735,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Strength characteristic of Adrax Agatone's melee weapon, Malleus Noctum?",
+      "correctAnswer": "10"
+    },
+    {
+      "id": 1736,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Damage characteristic of Malleus Noctum?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "D3"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "id": 1737,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Strength characteristic of Adrax Agatone's Drakkis hand flamer?",
+      "correctAnswer": "4"
+    },
+    {
+      "id": 1738,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What two special rules does Drakkis have, besides Pistol?",
+      "options": [
+        "Ignores Cover and Torrent",
+        "Ignores Cover and Devastating Wounds",
+        "Torrent and Twin-linked",
+        "Blast and Torrent"
+      ],
+      "correctAnswer": "Ignores Cover and Torrent"
+    },
+    {
+      "id": 1739,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Strength characteristic of the Infernus Squad's Pyreblaster?",
+      "correctAnswer": "5"
+    },
+    {
+      "id": 1740,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What two special rules does the Pyreblaster have?",
+      "options": [
+        "Ignores Cover and Torrent",
+        "Ignores Cover and Blast",
+        "Torrent and Devastating Wounds",
+        "Heavy and Torrent"
+      ],
+      "correctAnswer": "Ignores Cover and Torrent"
+    },
+    {
+      "id": 1741,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the points cost of a 1-model Firestrike Servo-turrets unit?",
+      "correctAnswer": "75"
+    },
+    {
+      "id": 1742,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of the Firestrike Servo-turret's Twin Firestrike autocannon?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correctAnswer": "9"
+    },
+    {
+      "id": 1743,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Damage characteristic of the Twin Firestrike las-talon?",
+      "correctAnswer": "D6+1"
+    },
+    {
+      "id": 1744,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Strength characteristic of the Twin Firestrike las-talon?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correctAnswer": "10"
+    },
+    {
+      "id": 1745,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the points cost of a 10-model Tactical Squad?",
+      "correctAnswer": "140"
+    },
+    {
+      "id": 1746,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which special rule does the Tactical Squad's Thunder hammer wargear option have?",
+      "options": [
+        "Devastating Wounds",
+        "Lethal Hits",
+        "Precision",
+        "Sustained Hits 1"
+      ],
+      "correctAnswer": "Devastating Wounds"
+    },
+    {
+      "id": 1747,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the CP cost of the Immolation Protocols Stratagem, higher than the other five Forgefather's Seekers Stratagems?",
+      "correctAnswer": "2CP"
+    },
+    {
+      "id": 1748,
+      "army": "salamanders",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which Forgefather's Seekers Stratagem grants Torrent weapons the Devastating Wounds ability?",
+      "options": [
+        "Immolation Protocols",
+        "Wrathful Inferno",
+        "Burning Vengeance",
+        "Blazing Earth"
+      ],
+      "correctAnswer": "Immolation Protocols"
     }
   ]
 }
