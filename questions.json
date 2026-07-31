@@ -1,5 +1,5 @@
 {
-  "version": "0.0.16",
+  "version": "0.0.17",
   "questions": [
     {
       "id": 9,
@@ -20455,6 +20455,606 @@
         "Blazing Earth"
       ],
       "correctAnswer": "Immolation Protocols"
+    },
+    {
+      "id": 1749,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How is White Scars represented in 10th edition Warhammer 40,000?",
+      "options": [
+        "A Chapter within Codex: Space Marines, with no standalone Faction Pack",
+        "A standalone codex",
+        "A Boarding Actions-only faction",
+        "A sub-faction of Raven Guard"
+      ],
+      "correctAnswer": "A Chapter within Codex: Space Marines, with no standalone Faction Pack"
+    },
+    {
+      "id": 1750,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "Does a White Scars army get the +1 to Wound roll half of Oath of Moment?",
+      "correctAnswer": "Yes"
+    },
+    {
+      "id": 1751,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Is there a separate White-Scars-specific addendum that modifies Oath of Moment itself?",
+      "options": [
+        "No",
+        "Yes",
+        "Only for Mounted units",
+        "Only for Suboden Khan's unit"
+      ],
+      "correctAnswer": "No"
+    },
+    {
+      "id": 1752,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the name of White Scars' exclusive Detachment?",
+      "correctAnswer": "Spearpoint Task Force"
+    },
+    {
+      "id": 1753,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the name of the first Spearpoint Task Force detachment rule?",
+      "options": [
+        "Storm-swift Onslaught",
+        "Wrath of the First Khan",
+        "Masters of the Hunt",
+        "Spear of Chogoris"
+      ],
+      "correctAnswer": "Storm-swift Onslaught"
+    },
+    {
+      "id": 1754,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the name of the second Spearpoint Task Force detachment ability, tied to Suboden Khan?",
+      "correctAnswer": "Wrath of the First Khan"
+    },
+    {
+      "id": 1755,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How many White-Scars-exclusive datasheets exist in current 10th edition?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 1756,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What are the names of the two White-Scars-exclusive characters?",
+      "correctAnswer": "Kor'sarro Khan, Suboden Khan"
+    },
+    {
+      "id": 1757,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Kor'sarro Khan?",
+      "options": [
+        "50",
+        "55",
+        "60",
+        "65"
+      ],
+      "correctAnswer": "60"
+    },
+    {
+      "id": 1758,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the points cost of Suboden Khan?",
+      "correctAnswer": "115"
+    },
+    {
+      "id": 1759,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Does Kor'sarro Khan have an Invulnerable save?",
+      "options": [
+        "No",
+        "Yes, 4+",
+        "Yes, 5+",
+        "Yes, 3+"
+      ],
+      "correctAnswer": "No"
+    },
+    {
+      "id": 1760,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What is the name of Kor'sarro Khan's melee weapon?",
+      "correctAnswer": "Moonfang"
+    },
+    {
+      "id": 1761,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "What is the name of Suboden Khan's lance-type melee weapon?",
+      "options": [
+        "Stormtooth",
+        "Moonfang",
+        "Onslaught gatling cannon",
+        "Spearpoint"
+      ],
+      "correctAnswer": "Stormtooth"
+    },
+    {
+      "id": 1762,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "How many Enhancements does the Spearpoint Task Force Detachment have?",
+      "correctAnswer": "4"
+    },
+    {
+      "id": 1763,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "How many Stratagems does the Spearpoint Task Force Detachment have?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "6"
+    },
+    {
+      "id": 1764,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "textBox",
+      "questionText": "What CP cost do all six Spearpoint Task Force Stratagems share?",
+      "correctAnswer": "1CP"
+    },
+    {
+      "id": 1765,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "type": "multipleChoice",
+      "questionText": "Is there a current, playable \"Jubal Khan\" datasheet in 10th edition Warhammer 40,000?",
+      "options": [
+        "No",
+        "Yes, as an Epic Hero",
+        "Yes, but only in Boarding Actions",
+        "Yes, as a Legends unit"
+      ],
+      "correctAnswer": "No"
+    },
+    {
+      "id": 1766,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What does Storm-swift Onslaught let Adeptus Astartes units do after they Advanced or Fell Back?",
+      "correctAnswer": "Declare a charge"
+    },
+    {
+      "id": 1767,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What does Wrath of the First Khan let a Suboden Khan unit do at the end of the Fight phase, after destroying an enemy unit and being clear of Engagement Range?",
+      "options": [
+        "Make a Normal move of up to 6\"",
+        "Gain 1 Command Point",
+        "Heal D3 wounds",
+        "Re-roll all Hit rolls next turn"
+      ],
+      "correctAnswer": "Make a Normal move of up to 6\""
+    },
+    {
+      "id": 1768,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Spearpoint Task Force Enhancement improves the bearer's melee Strength and AP by 1 (or by 2 after ending a Charge move)?",
+      "correctAnswer": "Spearpoint Paragon"
+    },
+    {
+      "id": 1769,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Spearpoint Paragon?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "25"
+    },
+    {
+      "id": 1770,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Spearpoint Task Force Enhancement lets the bearer re-roll Advance rolls for the unit they lead?",
+      "correctAnswer": "Stormseers' Wisdom"
+    },
+    {
+      "id": 1771,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Stormseers' Wisdom?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctAnswer": "15"
+    },
+    {
+      "id": 1772,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Spearpoint Task Force Enhancement grants ranged weapons in the bearer's unit Sustained Hits 1 and Ignores Cover?",
+      "correctAnswer": "Hunter's Eye"
+    },
+    {
+      "id": 1773,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Hunter's Eye?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctAnswer": "20"
+    },
+    {
+      "id": 1774,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Spearpoint Task Force Enhancement, restricted to a Mounted model, lets the bearer's unit arrive from Strategic Reserves a round earlier than normal?",
+      "correctAnswer": "Chogorian Huntmaster"
+    },
+    {
+      "id": 1775,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of Chogorian Huntmaster?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correctAnswer": "25"
+    },
+    {
+      "id": 1776,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Kor'sarro Khan ability grants his led unit's ranged weapons Assault and melee weapons Lance?",
+      "correctAnswer": "For the Khan!"
+    },
+    {
+      "id": 1777,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which Kor'sarro Khan ability grants a Command Point each time he destroys an enemy Character model?",
+      "options": [
+        "Trophy Taker",
+        "For the Khan!",
+        "Inspiring Commander",
+        "Skilled Riders"
+      ],
+      "correctAnswer": "Trophy Taker"
+    },
+    {
+      "id": 1778,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "Which Suboden Khan ability makes his unit eligible to shoot and declare a charge in a turn it Advanced or Fell Back?",
+      "correctAnswer": "Spear of Chogoris"
+    },
+    {
+      "id": 1779,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "Which Suboden Khan ability lets models in his unit move horizontally through terrain features on any move?",
+      "options": [
+        "Skilled Riders",
+        "Spear of Chogoris",
+        "Trophy Taker",
+        "Storm-swift Onslaught"
+      ],
+      "correctAnswer": "Skilled Riders"
+    },
+    {
+      "id": 1780,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the points cost of a 3-model Outrider Squad?",
+      "correctAnswer": "80"
+    },
+    {
+      "id": 1781,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of a 6-model Outrider Squad?",
+      "options": [
+        "140",
+        "150",
+        "160",
+        "170"
+      ],
+      "correctAnswer": "160"
+    },
+    {
+      "id": 1782,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "type": "textBox",
+      "questionText": "What is the points cost of a standalone Invader ATV?",
+      "correctAnswer": "60"
+    },
+    {
+      "id": 1783,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Strength characteristic of Kor'sarro Khan's melee weapon, Moonfang?",
+      "correctAnswer": "5"
+    },
+    {
+      "id": 1784,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What two special rules does Moonfang have?",
+      "options": [
+        "Devastating Wounds and Precision",
+        "Lethal Hits and Precision",
+        "Devastating Wounds and Lance",
+        "Anti-character 4+ and Precision"
+      ],
+      "correctAnswer": "Devastating Wounds and Precision"
+    },
+    {
+      "id": 1785,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Strength characteristic of Suboden Khan's ranged weapon, the Onslaught gatling cannon?",
+      "correctAnswer": "5"
+    },
+    {
+      "id": 1786,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Attacks characteristic of the Onslaught gatling cannon?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": "8"
+    },
+    {
+      "id": 1787,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Strength characteristic of Suboden Khan's melee weapon, Stormtooth?",
+      "correctAnswer": "6"
+    },
+    {
+      "id": 1788,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Besides Lance, what two special rules does Stormtooth have?",
+      "options": [
+        "Anti-monster 4+ and Anti-vehicle 4+",
+        "Devastating Wounds and Precision",
+        "Sustained Hits 1 and Twin-linked",
+        "Anti-infantry 4+ and Devastating Wounds"
+      ],
+      "correctAnswer": "Anti-monster 4+ and Anti-vehicle 4+"
+    },
+    {
+      "id": 1789,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Wounds characteristic of Suboden Khan?",
+      "correctAnswer": "8"
+    },
+    {
+      "id": 1790,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Move characteristic of Suboden Khan?",
+      "options": [
+        "10\"",
+        "11\"",
+        "12\"",
+        "13\""
+      ],
+      "correctAnswer": "12\""
+    },
+    {
+      "id": 1791,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "Which classic White Scars lore character, Kor'sarro Khan's predecessor as \"Master of the Hunt\", has a Warhammer Legends-only datasheet that doesn't even carry the White Scars keyword?",
+      "correctAnswer": "Carab Culln (The Risen)"
+    },
+    {
+      "id": 1792,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Despite White Scars' identity being built around bike-mounted warfare, which is the ONLY bike-mounted unit remaining in current 10th-edition matched play?",
+      "options": [
+        "Chaplain On Bike",
+        "Captain on Bike",
+        "Bike Squad",
+        "Attack Bike Squad"
+      ],
+      "correctAnswer": "Chaplain On Bike"
+    },
+    {
+      "id": 1793,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the points cost of Chaplain On Bike?",
+      "correctAnswer": "75"
+    },
+    {
+      "id": 1794,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the points cost of a Storm Speeder Hammerstrike?",
+      "options": [
+        "115",
+        "120",
+        "125",
+        "130"
+      ],
+      "correctAnswer": "125"
+    },
+    {
+      "id": 1795,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the Strength characteristic of the Storm Speeder Hammerstrike's melta destroyer?",
+      "correctAnswer": "9"
+    },
+    {
+      "id": 1796,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "What is the Damage characteristic of the melta destroyer?",
+      "options": [
+        "D3",
+        "D6",
+        "D6+1",
+        "2D6"
+      ],
+      "correctAnswer": "D6"
+    },
+    {
+      "id": 1797,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "textBox",
+      "questionText": "What is the points cost of a Land Raider Crusader?",
+      "correctAnswer": "220"
+    },
+    {
+      "id": 1798,
+      "army": "whiteScars",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "type": "multipleChoice",
+      "questionText": "Which weapon on the Land Raider Crusader has the One Shot special rule?",
+      "options": [
+        "Hunter-killer missile",
+        "Hurricane bolter",
+        "Twin assault cannon",
+        "Storm bolter"
+      ],
+      "correctAnswer": "Hunter-killer missile"
     }
   ]
 }
