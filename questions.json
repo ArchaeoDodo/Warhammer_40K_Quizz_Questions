@@ -1,5 +1,5 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.9",
   "questions": [
     {
       "id": 9,
@@ -8695,7 +8695,7 @@
       "difficulty": "easy",
       "category": "rules",
       "type": "multipleChoice",
-      "questionText": "What is the Move characteristic of a Warlord Titan — the slowest of the four Titan classes despite being the largest?",
+      "questionText": "What is the Move characteristic of a Warlord Titan \u2014 the slowest of the four Titan classes despite being the largest?",
       "options": [
         "8\"",
         "9\"",
@@ -9088,7 +9088,7 @@
       "difficulty": "hard",
       "category": "rules",
       "type": "multipleChoice",
-      "questionText": "What is the Strength characteristic of the Warlord Titan's Belicosa volcano cannon — the highest Strength weapon in the entire faction?",
+      "questionText": "What is the Strength characteristic of the Warlord Titan's Belicosa volcano cannon \u2014 the highest Strength weapon in the entire faction?",
       "options": [
         "28",
         "30",
@@ -9178,7 +9178,7 @@
       "difficulty": "hard",
       "category": "rules",
       "type": "textBox",
-      "questionText": "What is the Range of the Warbringer Nemesis Titan's Nemesis quake cannon — the longest-ranged weapon in the faction?",
+      "questionText": "What is the Range of the Warbringer Nemesis Titan's Nemesis quake cannon \u2014 the longest-ranged weapon in the faction?",
       "correctAnswer": "480\""
     },
     {
@@ -12239,7 +12239,7 @@
       "difficulty": "hard",
       "category": "rules",
       "type": "multipleChoice",
-      "questionText": "What is the Damage characteristic of the Blade Champion's Vaultswords – Victus profile?",
+      "questionText": "What is the Damage characteristic of the Blade Champion's Vaultswords \u2013 Victus profile?",
       "options": [
         "1",
         "2",
@@ -13957,12 +13957,12 @@
       "type": "multipleChoice",
       "questionText": "Which Leagues of Votann Epic Hero character has the ability Ancestral Fortune, letting him spend Yield Points to change a roll to an unmodified 6?",
       "options": [
-        "Ûthar the Destined",
+        "\u00dbthar the Destined",
         "Buri Aegnirssen",
-        "Berehk Stornbröw",
-        "Kâhl"
+        "Berehk Stornbr\u00f6w",
+        "K\u00e2hl"
       ],
-      "correctAnswer": "Ûthar the Destined"
+      "correctAnswer": "\u00dbthar the Destined"
     },
     {
       "id": 1057,
@@ -13972,7 +13972,7 @@
       "difficulty": "easy",
       "category": "rules",
       "type": "textBox",
-      "questionText": "What is the points cost of Ûthar the Destined?",
+      "questionText": "What is the points cost of \u00dbthar the Destined?",
       "correctAnswer": "95"
     },
     {
@@ -13986,9 +13986,9 @@
       "questionText": "Which Leagues of Votann character has the Psyker keyword?",
       "options": [
         "Grimnyr",
-        "Kâhl",
+        "K\u00e2hl",
         "Einhyr Champion",
-        "Brôkhyr Iron-master"
+        "Br\u00f4khyr Iron-master"
       ],
       "correctAnswer": "Grimnyr"
     },
@@ -14047,12 +14047,12 @@
       "type": "multipleChoice",
       "questionText": "Which Leagues of Votann Epic Hero leads Cthonian Beserks?",
       "options": [
-        "Berehk Stornbröw",
-        "Ûthar the Destined",
+        "Berehk Stornbr\u00f6w",
+        "\u00dbthar the Destined",
         "Buri Aegnirssen",
         "Memnyr Strategist"
       ],
-      "correctAnswer": "Berehk Stornbröw"
+      "correctAnswer": "Berehk Stornbr\u00f6w"
     },
     {
       "id": 1063,
@@ -14076,7 +14076,7 @@
       "questionText": "Which Leagues of Votann unit has the Artillery keyword?",
       "options": [
         "Cthonian Earthshakers",
-        "Brôkhyr Thunderkyn",
+        "Br\u00f4khyr Thunderkyn",
         "Hernkyn Yaegirs",
         "Cthonian Beserks"
       ],
@@ -14169,7 +14169,7 @@
       "difficulty": "medium",
       "category": "rules",
       "type": "textBox",
-      "questionText": "What is the name of the Hearthband detachment rule that improves Armour Penetration for attacks by a Kâhl, Einhyr Hearthguard, or Ûthar the Destined unit?",
+      "questionText": "What is the name of the Hearthband detachment rule that improves Armour Penetration for attacks by a K\u00e2hl, Einhyr Hearthguard, or \u00dbthar the Destined unit?",
       "correctAnswer": "Methodical Annihilation"
     },
     {
@@ -14180,12 +14180,12 @@
       "difficulty": "medium",
       "category": "rules",
       "type": "multipleChoice",
-      "questionText": "What is the name of the Needgaârd Oathband detachment rule that grants 1 Yield Point each time an enemy unit is destroyed?",
+      "questionText": "What is the name of the Needga\u00e2rd Oathband detachment rule that grants 1 Yield Point each time an enemy unit is destroyed?",
       "options": [
         "Martial Leverage",
         "Methodical Annihilation",
         "Assailed From Every Angle",
-        "Fury From The Dêlve"
+        "Fury From The D\u00ealve"
       ],
       "correctAnswer": "Martial Leverage"
     },
@@ -14201,7 +14201,7 @@
       "options": [
         "Assailed From Every Angle",
         "Martial Leverage",
-        "Fury From The Dêlve",
+        "Fury From The D\u00ealve",
         "Mobile Sensor Relays"
       ],
       "correctAnswer": "Assailed From Every Angle"
@@ -14214,8 +14214,8 @@
       "difficulty": "medium",
       "category": "rules",
       "type": "textBox",
-      "questionText": "What is the name of the Dêlve Assault Shift detachment rule that grants Cthonian Beserks the Deep Strike ability?",
-      "correctAnswer": "Fury From The Dêlve"
+      "questionText": "What is the name of the D\u00ealve Assault Shift detachment rule that grants Cthonian Beserks the Deep Strike ability?",
+      "correctAnswer": "Fury From The D\u00ealve"
     },
     {
       "id": 1074,
@@ -14225,7 +14225,7 @@
       "difficulty": "medium",
       "category": "rules",
       "type": "multipleChoice",
-      "questionText": "Under Dêlve Assault Shift, Cthonian Beserks gain which additional keyword?",
+      "questionText": "Under D\u00ealve Assault Shift, Cthonian Beserks gain which additional keyword?",
       "options": [
         "Battleline",
         "Character",
@@ -14289,12 +14289,12 @@
       "type": "multipleChoice",
       "questionText": "Which Leagues of Votann character has the Kindred Hero ability, granting Lethal Hits to their led unit's weapons?",
       "options": [
-        "Kâhl",
-        "Ûthar the Destined",
+        "K\u00e2hl",
+        "\u00dbthar the Destined",
         "Einhyr Champion",
         "Grimnyr"
       ],
-      "correctAnswer": "Kâhl"
+      "correctAnswer": "K\u00e2hl"
     },
     {
       "id": 1079,
@@ -14335,9 +14335,9 @@
       "questionText": "Which Leagues of Votann character has the Grudge-fuelled Fortitude ability, allowing him to return to full wounds the first time he is destroyed?",
       "options": [
         "Buri Aegnirssen",
-        "Ûthar the Destined",
-        "Berehk Stornbröw",
-        "Kâhl"
+        "\u00dbthar the Destined",
+        "Berehk Stornbr\u00f6w",
+        "K\u00e2hl"
       ],
       "correctAnswer": "Buri Aegnirssen"
     },
@@ -14456,7 +14456,7 @@
       "difficulty": "hard",
       "category": "rules",
       "type": "multipleChoice",
-      "questionText": "What is the Strength characteristic of Berehk Stornbröw's Kromlôk's Revenge in its graviton strikes profile?",
+      "questionText": "What is the Strength characteristic of Berehk Stornbr\u00f6w's Kroml\u00f4k's Revenge in its graviton strikes profile?",
       "options": [
         "8",
         "9",
@@ -14473,7 +14473,7 @@
       "difficulty": "hard",
       "category": "rules",
       "type": "textBox",
-      "questionText": "What is the Attacks characteristic of Kromlôk's Revenge in its plasma sweeps profile?",
+      "questionText": "What is the Attacks characteristic of Kroml\u00f4k's Revenge in its plasma sweeps profile?",
       "correctAnswer": "8"
     },
     {
@@ -16933,7 +16933,7 @@
         "Red Corsairs Raiders",
         "Legionaries",
         "Cultist Mob",
-        "None of them — all three do"
+        "None of them \u2014 all three do"
       ],
       "correctAnswer": "Red Corsairs Raiders"
     },
@@ -17630,12 +17630,12 @@
       "type": "multipleChoice",
       "questionText": "Does the Chaos Knights faction include any named, unique individual Characters?",
       "options": [
-        "No — its 'Characters' are generic titles like Knight Abominant, not named individuals",
-        "Yes, one — a Chaos equivalent of Canis Rex",
+        "No \u2014 its 'Characters' are generic titles like Knight Abominant, not named individuals",
+        "Yes, one \u2014 a Chaos equivalent of Canis Rex",
         "Yes, several, similar to Imperial Knights",
         "Only in Warhammer Legends"
       ],
-      "correctAnswer": "No — its 'Characters' are generic titles like Knight Abominant, not named individuals"
+      "correctAnswer": "No \u2014 its 'Characters' are generic titles like Knight Abominant, not named individuals"
     },
     {
       "id": 1314,
@@ -18104,7 +18104,7 @@
       "difficulty": "hard",
       "category": "rules",
       "type": "textBox",
-      "questionText": "What is the name of the Chaos Questoris Knight Magaera's ability that heals D3 wounds at the end of the Command phase — the only self-heal ability found on a Chaos Knight datasheet?",
+      "questionText": "What is the name of the Chaos Questoris Knight Magaera's ability that heals D3 wounds at the end of the Command phase \u2014 the only self-heal ability found on a Chaos Knight datasheet?",
       "correctAnswer": "Repair Auto-simulacra"
     },
     {
@@ -18278,7 +18278,7 @@
       "difficulty": "easy",
       "category": "rules",
       "type": "textBox",
-      "questionText": "What is the points cost of Khârn The Betrayer?",
+      "questionText": "What is the points cost of Kh\u00e2rn The Betrayer?",
       "correctAnswer": "100"
     },
     {
@@ -18499,7 +18499,7 @@
       "questionText": "Which five current World Eaters datasheets have the Faction Keyword BLOOD LEGIONS rather than World Eaters?",
       "options": [
         "Bloodthirster, Skarbrand, Bloodletters, Bloodcrushers, and Flesh Hounds",
-        "Angron, Khârn, Lord Invocatus, Slaughterbound, and the Daemon Prince of Khorne",
+        "Angron, Kh\u00e2rn, Lord Invocatus, Slaughterbound, and the Daemon Prince of Khorne",
         "Jakhals, Goremongers, Eightbound, Exalted Eightbound, and the Chaos Spawn",
         "Forgefiend, Maulerfiend, Helbrute, Defiler, and Heldrake"
       ],
@@ -18748,7 +18748,7 @@
       "difficulty": "hard",
       "category": "rules",
       "type": "textBox",
-      "questionText": "What is the Attacks characteristic of Khârn The Betrayer's melee weapon, Gorechild?",
+      "questionText": "What is the Attacks characteristic of Kh\u00e2rn The Betrayer's melee weapon, Gorechild?",
       "correctAnswer": "8"
     },
     {
@@ -19982,12 +19982,12 @@
       "type": "multipleChoice",
       "questionText": "Unlike Black Templars, Deathwatch, and Space Wolves, what banned-generic-unit restriction does Dark Angels have?",
       "options": [
-        "None — Dark Angels has no banned generic-unit list",
+        "None \u2014 Dark Angels has no banned generic-unit list",
         "It cannot include any Psyker models",
         "It cannot include Devastator Squad or Tactical Squad",
         "It cannot include any Terminator units"
       ],
-      "correctAnswer": "None — Dark Angels has no banned generic-unit list"
+      "correctAnswer": "None \u2014 Dark Angels has no banned generic-unit list"
     },
     {
       "id": 1482,
@@ -30846,7 +30846,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "Which Craftworld is positioned near the Eye of Terror to watch for and fight Chaos?",
-      "correctAnswer": "Ulthwé"
+      "correctAnswer": "Ulthw\u00e9"
     },
     {
       "id": 2383,
@@ -30889,7 +30889,7 @@
       "difficulty": "easy",
       "category": "lore",
       "type": "textBox",
-      "questionText": "Who is one of the most famous and powerful Farseers, serving Craftworld Ulthwé?",
+      "questionText": "Who is one of the most famous and powerful Farseers, serving Craftworld Ulthw\u00e9?",
       "correctAnswer": "Eldrad Ulthran"
     },
     {
@@ -32715,7 +32715,7 @@
       "difficulty": "medium",
       "category": "lore",
       "type": "textBox",
-      "questionText": "What is Craftworld Ulthwé renowned for producing, thanks to its unusually large Seer Council?",
+      "questionText": "What is Craftworld Ulthw\u00e9 renowned for producing, thanks to its unusually large Seer Council?",
       "correctAnswer": "Exceptionally powerful Farseers"
     },
     {
@@ -34662,7 +34662,7 @@
       "difficulty": "hard",
       "category": "lore",
       "type": "textBox",
-      "questionText": "What has made Craftworld Ulthwé's population grimly determined and heavily militarised?",
+      "questionText": "What has made Craftworld Ulthw\u00e9's population grimly determined and heavily militarised?",
       "correctAnswer": "Its constant proximity to Chaos incursions from the Eye of Terror"
     },
     {
@@ -35972,7 +35972,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "During the Great Crusade, where were new Custodes recruited from?",
-      "correctAnswer": "Nowhere off-world — recruitment remained tied exclusively to Terra"
+      "correctAnswer": "Nowhere off-world \u2014 recruitment remained tied exclusively to Terra"
     },
     {
       "id": 2849,
@@ -35994,7 +35994,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "For most of their ten-thousand-year vigil, how often did the Custodes leave the Imperial Palace or Terra?",
-      "correctAnswer": "Rarely — they seldom left the Imperial Palace and even more rarely left Terra itself"
+      "correctAnswer": "Rarely \u2014 they seldom left the Imperial Palace and even more rarely left Terra itself"
     },
     {
       "id": 2851,
@@ -36016,7 +36016,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "How does a single Custodian compare to a Space Marine in strength, speed, resilience, and skill?",
-      "correctAnswer": "A Custodian is markedly superior in every measurable way — standing in the same relation to a Space Marine as a Space Marine does to an ordinary human"
+      "correctAnswer": "A Custodian is markedly superior in every measurable way \u2014 standing in the same relation to a Space Marine as a Space Marine does to an ordinary human"
     },
     {
       "id": 2853,
@@ -36027,7 +36027,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "How were the Adeptus Custodes deployed during the Great Crusade?",
-      "correctAnswer": "They were never deployed as a Legion-style garrison force — they remained at the Emperor's side as bodyguards and companions"
+      "correctAnswer": "They were never deployed as a Legion-style garrison force \u2014 they remained at the Emperor's side as bodyguards and companions"
     },
     {
       "id": 2854,
@@ -36082,7 +36082,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "What are the Sisters of Silence also known as?",
-      "correctAnswer": "The Silent Sisterhood, the Anathema Psykana, or Null Maidens — psychic blanks who cannot be sensed or affected by psychic powers"
+      "correctAnswer": "The Silent Sisterhood, the Anathema Psykana, or Null Maidens \u2014 psychic blanks who cannot be sensed or affected by psychic powers"
     },
     {
       "id": 2859,
@@ -36478,7 +36478,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "What pre-Imperial technological origin do Battle Titans have?",
-      "correctAnswer": "They are Standard Template Construct (STC)-derived war machines that predate the Imperium — described by Wahapedia as \"a miracle of forgotten technology.\""
+      "correctAnswer": "They are Standard Template Construct (STC)-derived war machines that predate the Imperium \u2014 described by Wahapedia as \"a miracle of forgotten technology.\""
     },
     {
       "id": 2895,
@@ -37116,7 +37116,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "Did the Black Templars fully adopt the Codex Astartes?",
-      "correctAnswer": "No — Sigismund rejected it, viewing it as an affront to Rogal Dorn's own teachings"
+      "correctAnswer": "No \u2014 Sigismund rejected it, viewing it as an affront to Rogal Dorn's own teachings"
     },
     {
       "id": 2953,
@@ -37127,7 +37127,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "Do the Black Templars have a fixed Chapter homeworld?",
-      "correctAnswer": "No — they live permanently aboard their Crusade fleets"
+      "correctAnswer": "No \u2014 they live permanently aboard their Crusade fleets"
     },
     {
       "id": 2954,
@@ -37138,7 +37138,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "Do the Black Templars induct and field Librarians?",
-      "correctAnswer": "No — the Chapter has no Librarius tradition"
+      "correctAnswer": "No \u2014 the Chapter has no Librarius tradition"
     },
     {
       "id": 2955,
@@ -37149,7 +37149,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "Does High Marshal Helbrecht have his own datasheet in Warhammer 40,000 10th edition?",
-      "correctAnswer": "Yes — he is an Epic Hero with his own datasheet"
+      "correctAnswer": "Yes \u2014 he is an Epic Hero with his own datasheet"
     },
     {
       "id": 2956,
@@ -37160,7 +37160,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "Does the Emperor's Champion have his own datasheet in Warhammer 40,000 10th edition?",
-      "correctAnswer": "Yes — as a single-model unit"
+      "correctAnswer": "Yes \u2014 as a single-model unit"
     },
     {
       "id": 2957,
@@ -37182,7 +37182,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "How do the Black Templars generally regard psychic power?",
-      "correctAnswer": "As witchcraft — they hate and distrust psykers on principle"
+      "correctAnswer": "As witchcraft \u2014 they hate and distrust psykers on principle"
     },
     {
       "id": 2959,
@@ -37358,7 +37358,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "What title did Rogal Dorn bestow on Sigismund during the defense of the Imperial Palace in the Horus Heresy?",
-      "correctAnswer": "Emperor's Champion — Sigismund was the first to hold the title"
+      "correctAnswer": "Emperor's Champion \u2014 Sigismund was the first to hold the title"
     },
     {
       "id": 2975,
@@ -37490,7 +37490,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "Does Constantin Valdor have a current 10th-edition tabletop datasheet?",
-      "correctAnswer": "No — he is a background/novel-only character with no playable datasheet in any edition"
+      "correctAnswer": "No \u2014 he is a background/novel-only character with no playable datasheet in any edition"
     },
     {
       "id": 2987,
@@ -37501,7 +37501,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "Does Diocletian Coros have a tabletop datasheet in any edition, including Legends?",
-      "correctAnswer": "No — he is a purely novel/background character"
+      "correctAnswer": "No \u2014 he is a purely novel/background character"
     },
     {
       "id": 2988,
@@ -37644,7 +37644,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "Is Constantin Valdor definitively known to have been the very first Custodian ever made?",
-      "correctAnswer": "No — even in-lore it's uncertain whether he was truly the first Custodian or merely the first successful one"
+      "correctAnswer": "No \u2014 even in-lore it's uncertain whether he was truly the first Custodian or merely the first successful one"
     },
     {
       "id": 3001,
@@ -37853,7 +37853,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "What tome did Diocletian Coros author, and how long was it still read by Custodians?",
-      "correctAnswer": "\"The Master of Mankind,\" recording his dreams/visions of the Emperor — still read by Custodians into the 41st Millennium"
+      "correctAnswer": "\"The Master of Mankind,\" recording his dreams/visions of the Emperor \u2014 still read by Custodians into the 41st Millennium"
     },
     {
       "id": 3020,
@@ -38260,7 +38260,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "What does the Warbringer Nemesis Titan's chassis combine, and what does the \"Nemesis\" pattern designation mean?",
-      "correctAnswer": "It combines the Warlord's torso/carapace with the Reaver's legs; \"Nemesis\" denotes a pattern modified to mount heavier-than-standard weaponry — in this case, Warlord-grade carapace armament."
+      "correctAnswer": "It combines the Warlord's torso/carapace with the Reaver's legs; \"Nemesis\" denotes a pattern modified to mount heavier-than-standard weaponry \u2014 in this case, Warlord-grade carapace armament."
     },
     {
       "id": 3057,
@@ -39492,7 +39492,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "Do Cenobyte Servitors have their own independent datasheet?",
-      "correctAnswer": "No — they only exist as part of the Chaplain Grimaldus unit datasheet"
+      "correctAnswer": "No \u2014 they only exist as part of the Chaplain Grimaldus unit datasheet"
     },
     {
       "id": 3169,
@@ -39514,7 +39514,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "How autonomous is a Black Templars High Marshal compared to other Imperial commanders?",
-      "correctAnswer": "Extremely — he deploys Chapter forces on his own authority without needing approval from the High Lords of Terra"
+      "correctAnswer": "Extremely \u2014 he deploys Chapter forces on his own authority without needing approval from the High Lords of Terra"
     },
     {
       "id": 3171,
@@ -39525,7 +39525,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "How closely do the Black Templars follow the Codex Astartes?",
-      "correctAnswer": "Only nominally — they pay it lip service while organizing around roaming Crusade fleets rather than Codex-standard companies"
+      "correctAnswer": "Only nominally \u2014 they pay it lip service while organizing around roaming Crusade fleets rather than Codex-standard companies"
     },
     {
       "id": 3172,
@@ -39558,7 +39558,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "How does the Black Templars' zealotry typically manifest in battle?",
-      "correctAnswer": "As impulsive, headstrong aggression — a defining trait of Black Templars Initiates"
+      "correctAnswer": "As impulsive, headstrong aggression \u2014 a defining trait of Black Templars Initiates"
     },
     {
       "id": 3175,
@@ -39591,7 +39591,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "Is the Black Templars Chapter ever assembled as a single unified body?",
-      "correctAnswer": "Rarely, if ever — it operates as numerous independent Crusade fleets instead"
+      "correctAnswer": "Rarely, if ever \u2014 it operates as numerous independent Crusade fleets instead"
     },
     {
       "id": 3178,
@@ -39657,7 +39657,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "What happens to Grimaldus's Cenobyte Servitors if he is destroyed?",
-      "correctAnswer": "They are destroyed as well — they cannot survive without him"
+      "correctAnswer": "They are destroyed as well \u2014 they cannot survive without him"
     },
     {
       "id": 3184,
@@ -39833,7 +39833,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "When Rogal Dorn split the Imperial Fists into successor Chapters, which warriors gravitated to Sigismund?",
-      "correctAnswer": "The more zealous, crusading-minded warriors — the younger, more restrained warriors went to Alexis Polux and became the Crimson Fists"
+      "correctAnswer": "The more zealous, crusading-minded warriors \u2014 the younger, more restrained warriors went to Alexis Polux and became the Crimson Fists"
     },
     {
       "id": 3200,
@@ -39844,7 +39844,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "When do the Black Templars swear their Vows, and who leads the ritual?",
-      "correctAnswer": "Before every battle, in a ritual of prayer and contemplation led by their champions — Chaplains and the Emperor's Champion"
+      "correctAnswer": "Before every battle, in a ritual of prayer and contemplation led by their champions \u2014 Chaplains and the Emperor's Champion"
     },
     {
       "id": 3201,
@@ -39998,7 +39998,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "What dedicated contingent guards the Sanctum Imperialis at all times, and how many strong is it?",
-      "correctAnswer": "The Hetaeron Guard, or \"Companions of the Emperor\" — a 300-strong contingent"
+      "correctAnswer": "The Hetaeron Guard, or \"Companions of the Emperor\" \u2014 a 300-strong contingent"
     },
     {
       "id": 3215,
@@ -40020,7 +40020,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "What honorific was bestowed on Valerian after the Battle of the Lion's Gate, and how rare was it?",
-      "correctAnswer": "\"Hero of the Lion's Gate\" — an honorific that had been used only once before, during the original Siege of Terra in the Horus Heresy"
+      "correctAnswer": "\"Hero of the Lion's Gate\" \u2014 an honorific that had been used only once before, during the original Siege of Terra in the Horus Heresy"
     },
     {
       "id": 3217,
@@ -40075,7 +40075,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "What rare relic weapons did the Sagittarum Guard historically wield, entrusted to no other Imperial force?",
-      "correctAnswer": "\"Adrathic Weapons\" — disintegration-beam armaments — alongside Adrastus Bolt Calivers"
+      "correctAnswer": "\"Adrathic Weapons\" \u2014 disintegration-beam armaments \u2014 alongside Adrastus Bolt Calivers"
     },
     {
       "id": 3222,
@@ -40449,7 +40449,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "Does Sigismund have his own datasheet in Warhammer 40,000 10th edition?",
-      "correctAnswer": "No — he is referenced only indirectly, via the \"Sigismund's Seal\" Enhancement and the \"Sigismund's Heir\" ability on the Emperor's Champion datasheet"
+      "correctAnswer": "No \u2014 he is referenced only indirectly, via the \"Sigismund's Seal\" Enhancement and the \"Sigismund's Heir\" ability on the Emperor's Champion datasheet"
     },
     {
       "id": 3256,
@@ -40470,7 +40470,7 @@
       "difficulty": "hard",
       "category": "lore",
       "type": "textBox",
-      "questionText": "During the War of the Beast (544–546.M32), what was the Sword of the High Marshals still commonly called?",
+      "questionText": "During the War of the Beast (544\u2013546.M32), what was the Sword of the High Marshals still commonly called?",
       "correctAnswer": "\"The Sword of Sigismund,\" since there had been only a few High Marshals up to that point"
     },
     {
@@ -40493,7 +40493,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "How does the Black Templars' belief that the Emperor is a literal deity sit with the Imperium's official Cult Imperialis?",
-      "correctAnswer": "It borders on heretical dogma, since the Imperial Truth officially denies the Emperor's godhood — though it is tolerated given the Chapter's martial value"
+      "correctAnswer": "It borders on heretical dogma, since the Imperial Truth officially denies the Emperor's godhood \u2014 though it is tolerated given the Chapter's martial value"
     },
     {
       "id": 3260,
@@ -40526,7 +40526,7 @@
       "category": "lore",
       "type": "textBox",
       "questionText": "In a boarding duel roughly a thousand years after the Heresy, whom did Sigismund nearly kill during Abaddon's assault on the Black Templars fleet at the First Battle of Cadia?",
-      "correctAnswer": "Abaddon the Despoiler — though Sigismund himself was ultimately defeated"
+      "correctAnswer": "Abaddon the Despoiler \u2014 though Sigismund himself was ultimately defeated"
     },
     {
       "id": 3263,
@@ -40734,7 +40734,7 @@
       "difficulty": "hard",
       "category": "lore",
       "type": "textBox",
-      "questionText": "Why did Black Legion warleaders reportedly move to silence witnesses of the Abaddon–Sigismund duel?",
+      "questionText": "Why did Black Legion warleaders reportedly move to silence witnesses of the Abaddon\u2013Sigismund duel?",
       "correctAnswer": "To hide how close their \"invincible\" leader had come to death"
     },
     {
@@ -47300,6 +47300,4065 @@
       "questionText": "Which of Nathaniel Garro's men was infected with Nurgle's Rot by Ignatius Grulgor?",
       "correctAnswer": "Solun Decius",
       "id": 3877
+    },
+    {
+      "id": 3878,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "From which Feral World was Watch Captain Artemis recruited?",
+      "correctAnswer": "Posul"
+    },
+    {
+      "id": 3879,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "In Deathwatch: Overkill, on which Genestealer Cult-infested world does Kill Team Cassius fight?",
+      "correctAnswer": "Ghosar Quintus"
+    },
+    {
+      "id": 3880,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "In Warhammer 40,000: Space Marine 2, under what alias does the Ultramarine Demetrian Titus serve in the Deathwatch?",
+      "correctAnswer": "Nullus"
+    },
+    {
+      "id": 3881,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Space Marine Chapters of what allegiance alone may contribute Battle-Brothers to the Deathwatch?",
+      "correctAnswer": "Loyalist Chapters"
+    },
+    {
+      "id": 3882,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "The Deathwatch's relationship to the Ordo Xenos mirrors which other Chamber Militant's relationship to the Ordo Malleus?",
+      "correctAnswer": "The Grey Knights"
+    },
+    {
+      "id": 3883,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What class of Space Marine does the Deathwatch recruit exclusively, refusing untested Neophytes and Scouts?",
+      "correctAnswer": "Proven combat veterans"
+    },
+    {
+      "id": 3884,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What colour is the power armour worn by Deathwatch Space Marines?",
+      "correctAnswer": "Black"
+    },
+    {
+      "id": 3885,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the 2016 boxed miniatures game that pits a Deathwatch Kill Team against the Genestealer Cults?",
+      "correctAnswer": "Deathwatch: Overkill"
+    },
+    {
+      "id": 3886,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What name is given to a Space Marine's term of service within the Deathwatch, which can last from a single mission to centuries?",
+      "correctAnswer": "The Long Vigil"
+    },
+    {
+      "id": 3887,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What term describes the secret bases, scattered across the Imperium, from which the Deathwatch operates?",
+      "correctAnswer": "Watch Fortresses"
+    },
+    {
+      "id": 3888,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What term describes the small, elite, often mixed-Chapter squads in which Deathwatch Space Marines fight?",
+      "correctAnswer": "Kill Teams"
+    },
+    {
+      "id": 3889,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which faction returned to plastic miniatures for the first time in decades because of the Deathwatch: Overkill boxed game?",
+      "correctAnswer": "The Genestealer Cults"
+    },
+    {
+      "id": 3890,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Librarian leads Kill-team Talon in the 2013 Black Library novel Deathwatch by Steve Parker?",
+      "correctAnswer": "Lyandro Karras"
+    },
+    {
+      "id": 3891,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Ordo of the Imperial Inquisition does the Deathwatch serve as Chamber Militant for?",
+      "correctAnswer": "The Ordo Xenos"
+    },
+    {
+      "id": 3892,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which secretive Chapter, descended from the Raven Guard's gene-line, does Lyandro Karras belong to?",
+      "correctAnswer": "The Death Spectres"
+    },
+    {
+      "id": 3893,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Space Marine Chapter does Chaplain Ortan Cassius, leader of Kill Team Cassius, belong to?",
+      "correctAnswer": "The Ultramarines"
+    },
+    {
+      "id": 3894,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Space Marine Chapter does Watch Captain Artemis belong to?",
+      "correctAnswer": "The Mortifactors"
+    },
+    {
+      "id": 3895,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which world serves as the Deathwatch's primary fortress-world and chief training site, gifted to the Ordo Xenos by the Ultramarines?",
+      "correctAnswer": "Talasa Prime"
+    },
+    {
+      "id": 3896,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Against which xenos species did Watch Captain Artemis campaign on Varnix Prime?",
+      "correctAnswer": "The Hrud"
+    },
+    {
+      "id": 3897,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "At the Battle of Port Demesnus, on the crystal moon of Coheria, which Craftworld Aeldari Farseer did Watch Captain Artemis face?",
+      "correctAnswer": "Eldrad Ulthran"
+    },
+    {
+      "id": 3898,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Besides the destruction of his home Chapter, what personal motive can lead a Space Marine to become a Black Shield?",
+      "correctAnswer": "Shame over his Chapter's fall from grace"
+    },
+    {
+      "id": 3899,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "By what nickname is Lyandro Karras more often known within Kill-team Talon?",
+      "correctAnswer": "Scholar"
+    },
+    {
+      "id": 3900,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Deathwatch operative Demetrian Titus was held in Inquisitorial custody, rescued by Inquisitor Thrax, on suspicion of what?",
+      "correctAnswer": "Suspected Chaos corruption"
+    },
+    {
+      "id": 3901,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "During the First Tyrannic War, Chaplain Cassius fought alongside which Ultramarines Chapter Master against Hive Fleet Behemoth?",
+      "correctAnswer": "Marneus Calgar"
+    },
+    {
+      "id": 3902,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "During which historical era did the Jericho Reach, conquered during the Great Crusade, fall into anarchy?",
+      "correctAnswer": "The Age of Apostasy"
+    },
+    {
+      "id": 3903,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Following Roboute Guilliman's return, which new type of Space Marine did the Deathwatch begin recruiting into dedicated new Kill Team structures?",
+      "correctAnswer": "Primaris Space Marines"
+    },
+    {
+      "id": 3904,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "In which year of the M32 millennium did the War of the Beast take place, the conflict from which the Deathwatch's founding is traced?",
+      "correctAnswer": "544.M32"
+    },
+    {
+      "id": 3905,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "On which Missionary World did Watch Captain Artemis fight against a Genestealer Cult infestation?",
+      "correctAnswer": "St. Capilene"
+    },
+    {
+      "id": 3906,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Roughly how old is Chaplain Cassius, making him the oldest active, non-Dreadnought-interred Ultramarine?",
+      "correctAnswer": "Almost 400 years old"
+    },
+    {
+      "id": 3907,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "The eleven Space Marine miniatures included in Deathwatch: Overkill were drawn from how many different Chapters?",
+      "correctAnswer": "Ten"
+    },
+    {
+      "id": 3908,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Under what codename does the Inquisitorial handler of Kill-team Talon operate in the novel Deathwatch?",
+      "correctAnswer": "Sigma"
+    },
+    {
+      "id": 3909,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Under which Inquisitor did Watch Captain Artemis serve?",
+      "correctAnswer": "Inquisitor Severnius"
+    },
+    {
+      "id": 3910,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Under whose orders did Brother-Captain Bannon's kill-team operate at the Battle of Tarsis Ultra?",
+      "correctAnswer": "Inquisitor Lord Kryptman"
+    },
+    {
+      "id": 3911,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Watch Captain Andar Scarion now liaises with officers of which Imperial Crusade in the Jericho Reach?",
+      "correctAnswer": "The Achilus Crusade"
+    },
+    {
+      "id": 3912,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is Lyandro Karras's official Deathwatch call-sign?",
+      "correctAnswer": "Talon Alpha"
+    },
+    {
+      "id": 3913,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the force sword wielded by Lyandro Karras, said to be the third-holiest relic of his Chapter?",
+      "correctAnswer": "Arquemann"
+    },
+    {
+      "id": 3914,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of Watch Captain Artemis's relic power sword?",
+      "correctAnswer": "Exterminatus"
+    },
+    {
+      "id": 3915,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the title of David Annandale's 2016 novel, the ninth book of The Beast Arises series, depicting the formation of the first Deathwatch kill-teams?",
+      "correctAnswer": "Watchers in Death"
+    },
+    {
+      "id": 3916,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What name did the Ork Warboss defeated by Watch Captain Artemis, by triggering a civil war, go by?",
+      "correctAnswer": "WAAAGH! Thrashfang"
+    },
+    {
+      "id": 3917,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What rank did Lyandro Karras hold within his own Chapter before his induction into the Deathwatch?",
+      "correctAnswer": "First Codicier"
+    },
+    {
+      "id": 3918,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What senior Chaplain title does Ortan Cassius hold among the Ultramarines?",
+      "correctAnswer": "Master of Sanctity"
+    },
+    {
+      "id": 3919,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What symbol serves as the Deathwatch's own distinct heraldry, apart from any single Chapter's badge?",
+      "correctAnswer": "A stylized silver skull"
+    },
+    {
+      "id": 3920,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What term describes a Deathwatch Space Marine who has severed all ties to his original Chapter and conceals his heraldry beneath a plain black shoulder pad?",
+      "correctAnswer": "A Black Shield"
+    },
+    {
+      "id": 3921,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title does a Deathwatch officer who commands an individual kill-team, below the rank of Watch Master, hold?",
+      "correctAnswer": "Watch Captain"
+    },
+    {
+      "id": 3922,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title is held by the officer who commands an individual Deathwatch Watch Fortress, since the Deathwatch has no single overarching Chapter Master?",
+      "correctAnswer": "Watch Master"
+    },
+    {
+      "id": 3923,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Chapter does Darrion Rauth, the \"Watcher\" of Kill-team Talon, belong to?",
+      "correctAnswer": "The Exorcists"
+    },
+    {
+      "id": 3924,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Chapter does Watch Captain Andar Scarion, seconded to Watch Fortress Erioch in 782.M41, belong to?",
+      "correctAnswer": "The Astral Claws"
+    },
+    {
+      "id": 3925,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Deathwatch Kill Team structure, designed for Primaris Space Marines, did Watch Master Mordelai devise?",
+      "correctAnswer": "The Fortis Kill Team"
+    },
+    {
+      "id": 3926,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Imperial Fist, nicknamed \"Omni,\" serves in Kill-team Talon?",
+      "correctAnswer": "Maximmion Voss"
+    },
+    {
+      "id": 3927,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Imperial Fists Brother-Captain led a Deathwatch kill-team at the Battle of Tarsis Ultra against Hive Fleet Leviathan?",
+      "correctAnswer": "Bannon"
+    },
+    {
+      "id": 3928,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Imperial Fists Chapter Master and Lord Commander of the Imperium first conceived of small, mixed-Chapter kill-teams during the War of the Beast?",
+      "correctAnswer": "Koorland"
+    },
+    {
+      "id": 3929,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Lamenters Dreadnought serves permanently alongside Kill-team Talon, believing himself the last of his Chapter?",
+      "correctAnswer": "Chyron"
+    },
+    {
+      "id": 3930,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Ork Big Mek did Watch Captain Artemis behead atop his own Gargant?",
+      "correctAnswer": "Wurldstompa"
+    },
+    {
+      "id": 3931,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Ramilles-class starfort serves as the Deathwatch's headquarters in the Jericho Reach?",
+      "correctAnswer": "Watch Fortress Erioch"
+    },
+    {
+      "id": 3932,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Raven Guard Space Marine, nicknamed \"Ghost\" and known as the squad's comedic relief, serves in Kill-team Talon?",
+      "correctAnswer": "Siefer Zeed"
+    },
+    {
+      "id": 3933,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which senior Ultramarines Chapter Master has come to place particular trust in Watch Master Mordelai?",
+      "correctAnswer": "Marneus Calgar"
+    },
+    {
+      "id": 3934,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Space Wolf became the first Watch Commander of the Deathwatch, appointed by Koorland?",
+      "correctAnswer": "Asger Warfist"
+    },
+    {
+      "id": 3935,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Ultramarine sniper, nicknamed \"Prophet,\" serves in Kill-team Talon?",
+      "correctAnswer": "Solarion"
+    },
+    {
+      "id": 3936,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Watch Company at Talasa Prime does Watch Captain Artemis lead?",
+      "correctAnswer": "Watch Company Tertius"
+    },
+    {
+      "id": 3937,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Watch Master, based at Fort Pykman in the Ghoul Stars, is known as a hard-line Puritan obsessed with vigilance against Necron Tomb Worlds?",
+      "correctAnswer": "Utorian Denash"
+    },
+    {
+      "id": 3938,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who is the current Watch Master of Talasa Prime, a member of the Imperial Fists Chapter?",
+      "correctAnswer": "Mordelai"
+    },
+    {
+      "id": 3939,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "After Brother-Captain Bannon was killed in action at Tarsis Ultra, who first assumed command of his kill-team?",
+      "correctAnswer": "Brother Henghast"
+    },
+    {
+      "id": 3940,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "By the time he reached the rank of Watch Captain, roughly how many years had Andar Scarion served the Deathwatch?",
+      "correctAnswer": "Over 50 years"
+    },
+    {
+      "id": 3941,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "During the Battle of Tarsis Ultra, what live xenos specimen did Brother-Captain Bannon's kill-team capture on Inquisitor Kryptman's orders?",
+      "correctAnswer": "A Lictor"
+    },
+    {
+      "id": 3942,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "On which Hive World did Watch Captain Andar Scarion's own Chapter brutally crush a coup, declaring their Chapter Master its governor, making his later Deathwatch recruitment controversial?",
+      "correctAnswer": "Badab Primaris"
+    },
+    {
+      "id": 3943,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Roughly how long before joining the Deathwatch was Watch Captain Artemis recruited from his tribe on Posul?",
+      "correctAnswer": "A century"
+    },
+    {
+      "id": 3944,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the alternate conclave of Ordo Xenos Inquisitor Lords sometimes cited as having founded the Deathwatch generations before the War of the Beast account?",
+      "correctAnswer": "The Apocryphon Conclave of Orphite IV"
+    },
+    {
+      "id": 3945,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Blood Ravens Codicier Librarian serves in Kill Team Cassius in Deathwatch: Overkill?",
+      "correctAnswer": "Jensus Natorian"
+    },
+    {
+      "id": 3946,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Chapter -- once one of the most prolific suppliers of Deathwatch Battle-Brothers -- was barred from Deathwatch service for nearly a century after the Badab War, being reinstated only after its defense of Herodian IV against a Tyranid splinter fleet?",
+      "correctAnswer": "The Mantis Warriors"
+    },
+    {
+      "id": 3947,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Dark Angel is among the ten named Battle-Brothers of Kill Team Cassius in Deathwatch: Overkill?",
+      "correctAnswer": "Zameon Gydrael"
+    },
+    {
+      "id": 3948,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Flesh Tearers Assault Sergeant serves in Kill Team Cassius in Deathwatch: Overkill?",
+      "correctAnswer": "Antor Delassio"
+    },
+    {
+      "id": 3949,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Imperial Fists Devastator serves in Kill Team Cassius in Deathwatch: Overkill?",
+      "correctAnswer": "Rodricus Grytt"
+    },
+    {
+      "id": 3950,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Iron Hands Sternguard Veteran serves in Kill Team Cassius in Deathwatch: Overkill?",
+      "correctAnswer": "Ennox Sorrlock"
+    },
+    {
+      "id": 3951,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Raven Guard Vanguard Veteran serves in Kill Team Cassius in Deathwatch: Overkill?",
+      "correctAnswer": "Edryc Setorax"
+    },
+    {
+      "id": 3952,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Salamanders Terminator serves in Kill Team Cassius in Deathwatch: Overkill?",
+      "correctAnswer": "Garran Branatar"
+    },
+    {
+      "id": 3953,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Space Wolves Blood Claw serves in Kill Team Cassius in Deathwatch: Overkill?",
+      "correctAnswer": "Drenn Redblade"
+    },
+    {
+      "id": 3954,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Ultramarine Sternguard Veteran serves alongside Cassius among the ten named Battle-Brothers of Kill Team Cassius in Deathwatch: Overkill?",
+      "correctAnswer": "Vael Donatus"
+    },
+    {
+      "id": 3955,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Ultramarines 4th Company Captain took command of Bannon's former kill-team before the final assault on Hive Fleet Leviathan's last Hive Ship?",
+      "correctAnswer": "Uriel Ventris"
+    },
+    {
+      "id": 3956,
+      "army": "deathwatch",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which White Scars Biker Sergeant serves in Kill Team Cassius in Deathwatch: Overkill?",
+      "correctAnswer": "Jetek Suberei"
+    },
+    {
+      "id": 3957,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Alongside blue, what two other colors appear in Ultramarines heraldry?",
+      "correctAnswer": "White and gold"
+    },
+    {
+      "id": 3958,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Approximately how many Space Marines make up a standard, Codex-compliant Chapter?",
+      "correctAnswer": "1,000"
+    },
+    {
+      "id": 3959,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Approximately how many years did Guilliman's body lie in stasis before his resurrection?",
+      "correctAnswer": "About ten thousand (10,000) years"
+    },
+    {
+      "id": 3960,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "At which battle were the Ultramarines lured away from the Isstvan III Drop Site Massacre by a false pretext?",
+      "correctAnswer": "The Battle of Calth"
+    },
+    {
+      "id": 3961,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "On which world was the infant Guilliman's gestation pod discovered?",
+      "correctAnswer": "Macragge"
+    },
+    {
+      "id": 3962,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Roughly how large was the Ultramarines Legion at the height of the Great Crusade, making it the largest of the Space Marine Legions?",
+      "correctAnswer": "About 250,000"
+    },
+    {
+      "id": 3963,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Roughly how many worlds make up Ultramar, earning it the nickname \"the Five Hundred Worlds\"?",
+      "correctAnswer": "500"
+    },
+    {
+      "id": 3964,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What Company did Cato Sicarius command before becoming Captain of the Victrix Guard?",
+      "correctAnswer": "The 2nd Company"
+    },
+    {
+      "id": 3965,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What color is Ultramarines power armour?",
+      "correctAnswer": "Blue"
+    },
+    {
+      "id": 3966,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What company did Uriel Ventris command as Captain?",
+      "correctAnswer": "The 4th Company"
+    },
+    {
+      "id": 3967,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What crusade did Guilliman lead after his resurrection to reinforce the Imperium following the opening of the Great Rift?",
+      "correctAnswer": "The Indomitus Crusade"
+    },
+    {
+      "id": 3968,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What fraction of all Space Marine Chapters are said to trace their gene-seed lineage back to the Ultramarines?",
+      "correctAnswer": "Roughly two-thirds"
+    },
+    {
+      "id": 3969,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What implant have Scout Company neophytes not yet received?",
+      "correctAnswer": "The Black Carapace"
+    },
+    {
+      "id": 3970,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is Guilliman's honorific nickname, reflecting his return after ten thousand years to fight once more for the Imperium?",
+      "correctAnswer": "The Avenging Son"
+    },
+    {
+      "id": 3971,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the Ultramarines' homeworld called?",
+      "correctAnswer": "Macragge"
+    },
+    {
+      "id": 3972,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of Marneus Calgar's elite honour guard, established by the resurrected Guilliman?",
+      "correctAnswer": "The Victrix Guard"
+    },
+    {
+      "id": 3973,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of Uriel Ventris's closest companion and fellow exile?",
+      "correctAnswer": "Pasanius Lysane"
+    },
+    {
+      "id": 3974,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the Ultramarines' fortress-monastery on Macragge?",
+      "correctAnswer": "The Fortress of Hera"
+    },
+    {
+      "id": 3975,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the autonomous Imperial realm founded and ruled by Roboute Guilliman?",
+      "correctAnswer": "Ultramar"
+    },
+    {
+      "id": 3976,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the daemon primarch who led the Death Guard's invasion of Ultramar known as the Plague Wars?",
+      "correctAnswer": "Mortarion"
+    },
+    {
+      "id": 3977,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the elite scientific rank held by Belisarius Cawl within the Adeptus Mechanicus?",
+      "correctAnswer": "Archmagos Dominus"
+    },
+    {
+      "id": 3978,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the galaxy-spanning warp rift that split the Imperium in two at the climax of the 13th Black Crusade?",
+      "correctAnswer": "The Great Rift (Cicatrix Maledictum)"
+    },
+    {
+      "id": 3979,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What name is given to the post-Heresy reorganization that broke the Space Marine Legions into 1,000-strong Chapters?",
+      "correctAnswer": "The Second Founding"
+    },
+    {
+      "id": 3980,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What name is given to the wave of newly-deployed Primaris Space Marines delivered via the Indomitus Crusade?",
+      "correctAnswer": "The Ultima Founding"
+    },
+    {
+      "id": 3981,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What numbered Space Marine Legion were the Ultramarines during the Great Crusade?",
+      "correctAnswer": "The XIII Legion"
+    },
+    {
+      "id": 3982,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What piece of wargear does the Ultramarines' 1st Company alone field, per the Codex Astartes?",
+      "correctAnswer": "Terminator Armour"
+    },
+    {
+      "id": 3983,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What surgical procedure did Marneus Calgar undergo to become a Primaris Space Marine?",
+      "correctAnswer": "The Rubicon Primaris procedure"
+    },
+    {
+      "id": 3984,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What sword, once wielded by the Emperor Himself, did Cawl gift to the resurrected Guilliman?",
+      "correctAnswer": "The Emperor's Sword"
+    },
+    {
+      "id": 3985,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What symbol forms the Ultramarines' Chapter badge?",
+      "correctAnswer": "An (inverted) Omega"
+    },
+    {
+      "id": 3986,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What text did Guilliman write that reorganized the Space Marine Legions into standardized Chapters?",
+      "correctAnswer": "The Codex Astartes"
+    },
+    {
+      "id": 3987,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title does Guilliman hold as civil administrator overseeing the war effort after his resurrection, alongside Lord Commander of the Imperium?",
+      "correctAnswer": "Imperial Regent"
+    },
+    {
+      "id": 3988,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title is given to the Ultramarines' senior Chaplain, held by Ortan Cassius?",
+      "correctAnswer": "Master of Sanctity"
+    },
+    {
+      "id": 3989,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title, effectively ruler of the Imperium beneath the Emperor, does Guilliman hold?",
+      "correctAnswer": "Lord Commander of the Imperium"
+    },
+    {
+      "id": 3990,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What was the name of Guilliman's adoptive father, who ruled Macragge as Consul?",
+      "correctAnswer": "Konor"
+    },
+    {
+      "id": 3991,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Archmagos secretly developed the Primaris Space Marines during Guilliman's stasis?",
+      "correctAnswer": "Belisarius Cawl"
+    },
+    {
+      "id": 3992,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Company of a Codex-compliant Chapter is composed exclusively of its most experienced Veterans?",
+      "correctAnswer": "The 1st Company"
+    },
+    {
+      "id": 3993,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Company of a Codex-compliant Chapter serves as its Scout Company?",
+      "correctAnswer": "The 10th Company"
+    },
+    {
+      "id": 3994,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Legion produced the greatest number of successor Chapters during the Second Founding, owing to being the largest Legion?",
+      "correctAnswer": "The Ultramarines"
+    },
+    {
+      "id": 3995,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Tyranid Hive Fleet invaded Macragge in the Battle for Macragge (First Tyrannic War)?",
+      "correctAnswer": "Hive Fleet Behemoth"
+    },
+    {
+      "id": 3996,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Ultramarines Captain is the protagonist of Graham McNeill's Ultramarines novel series?",
+      "correctAnswer": "Uriel Ventris"
+    },
+    {
+      "id": 3997,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Ultramarines Captain led the defense of Forge World Graia against an Ork WAAAGH! in the first Space Marine video game?",
+      "correctAnswer": "Demetrian Titus"
+    },
+    {
+      "id": 3998,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Ultramarines Chapter Master personally recovered Titus and brought him to undergo the Rubicon Primaris procedure in Space Marine 2?",
+      "correctAnswer": "Marneus Calgar"
+    },
+    {
+      "id": 3999,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which brother primarch struck the wound that put Guilliman into ten-thousand-year stasis?",
+      "correctAnswer": "Fulgrim"
+    },
+    {
+      "id": 4000,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which traitor Space Marine Legion ambushed the Ultramarines at the Battle of Calth?",
+      "correctAnswer": "The Word Bearers"
+    },
+    {
+      "id": 4001,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which video game series stars Ultramarines protagonist Demetrian Titus?",
+      "correctAnswer": "Warhammer 40,000: Space Marine"
+    },
+    {
+      "id": 4002,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who is the Chapter Master of the Ultramarines?",
+      "correctAnswer": "Marneus Calgar"
+    },
+    {
+      "id": 4003,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who is the Ultramarines' current Chief Librarian?",
+      "correctAnswer": "Varro Tigurius"
+    },
+    {
+      "id": 4004,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who is the primarch of the Ultramarines?",
+      "correctAnswer": "Roboute Guilliman"
+    },
+    {
+      "id": 4005,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who serves as Captain of the Victrix Guard?",
+      "correctAnswer": "Cato Sicarius"
+    },
+    {
+      "id": 4006,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who wounded Marneus Calgar at Cold Steel Ridge during the Battle for Macragge?",
+      "correctAnswer": "The Swarmlord"
+    },
+    {
+      "id": 4007,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Aboard which vessel did Kor Phaeron flee into the Warp after being maimed by Guilliman?",
+      "correctAnswer": "The Infidus Imperator"
+    },
+    {
+      "id": 4008,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "At nearly 400 years old, who is the oldest living member of the Ultramarines Chapter outside of Dreadnought interment?",
+      "correctAnswer": "Ortan Cassius"
+    },
+    {
+      "id": 4009,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "At which battle against the Necrons was Cato Sicarius gravely wounded by a Necron Lord's War Scythe?",
+      "correctAnswer": "The Battle of Damnos"
+    },
+    {
+      "id": 4010,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "At which battle did Tigurius unleash devastating psychic firepower to lead the exhausted 4th Company to victory against a larger Ork force?",
+      "correctAnswer": "The Battle of Boros"
+    },
+    {
+      "id": 4011,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "At which battle, in 121.M31, did Fulgrim deal Guilliman his near-fatal wound?",
+      "correctAnswer": "The Battle of Thessala"
+    },
+    {
+      "id": 4012,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "At which siege did Torias Telion kill both a Tau commander and an Ethereal with two well-placed bolter shots?",
+      "correctAnswer": "The Siege of Pallia"
+    },
+    {
+      "id": 4013,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "During which campaign, against a Hive Fleet Leviathan Norn-Queen, did Uriel Ventris breach the Codex Astartes by holding dual command?",
+      "correctAnswer": "The Tarsis Ultra campaign"
+    },
+    {
+      "id": 4014,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "From which unit's veterans are all Victrix Guard members exclusively drawn?",
+      "correctAnswer": "The 1st Company"
+    },
+    {
+      "id": 4015,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "In which Segmentum is Ultramar located?",
+      "correctAnswer": "The Ultima Segmentum"
+    },
+    {
+      "id": 4016,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "In which chamber within the Fortress of Hera did Guilliman's stasis-preserved body lie enshrined for millennia?",
+      "correctAnswer": "The Temple of Correction"
+    },
+    {
+      "id": 4017,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "On Ichar IV, during the Kraken attacks, how did Marneus Calgar kill a reincarnated Swarmlord?",
+      "correctAnswer": "With his bare hands"
+    },
+    {
+      "id": 4018,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "On which Iron Warriors daemon world were Ventris and Pasanius ordered to seek and destroy the Daemonculaba?",
+      "correctAnswer": "Medrengard"
+    },
+    {
+      "id": 4019,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "On which neighboring world was the Emperor campaigning when he first heard of Guilliman's existence?",
+      "correctAnswer": "Espandor"
+    },
+    {
+      "id": 4020,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "On which world did Chaplain Cassius purge Genestealer Cults while serving with the Deathwatch?",
+      "correctAnswer": "Ghosar Quintus"
+    },
+    {
+      "id": 4021,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "On which world was Uriel Ventris born?",
+      "correctAnswer": "Calth"
+    },
+    {
+      "id": 4022,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Per the Codex Astartes' core tactical doctrine, which squad type is meant to draw the enemy's fire so a Devastator Squad can attack from a position of strength?",
+      "correctAnswer": "The Tactical Squad"
+    },
+    {
+      "id": 4023,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "To which xenos being did Pasanius lose an arm, later replaced with a bionic limb that gained unusual regenerative properties?",
+      "correctAnswer": "The Nightbringer (a C'tan)"
+    },
+    {
+      "id": 4024,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Under what cover identity did Titus serve with the Deathwatch as a Black Shield?",
+      "correctAnswer": "\"Nullus\""
+    },
+    {
+      "id": 4025,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What Forge World campaign did Titus lead the defense of in the first Space Marine video game?",
+      "correctAnswer": "Graia"
+    },
+    {
+      "id": 4026,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What Word Bearers capital city did the Emperor order Guilliman to raze, roughly forty years before the Horus Heresy?",
+      "correctAnswer": "Monarchia"
+    },
+    {
+      "id": 4027,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What artifact psychic hood does Varro Tigurius wear, which defends against enemy psychic attack?",
+      "correctAnswer": "The Hood of Hellfire"
+    },
+    {
+      "id": 4028,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What company does veteran Sergeant Torias Telion belong to, having trained recruits for over 300 years?",
+      "correctAnswer": "The 10th (Scout) Company"
+    },
+    {
+      "id": 4029,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What did Calgar do upon Guilliman's full awakening in 999.M41?",
+      "correctAnswer": "Knelt and relinquished command of the Chapter to him"
+    },
+    {
+      "id": 4030,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What did Guilliman do to Kor Phaeron after resisting his attempted corruption at Calth?",
+      "correctAnswer": "Tore out his primary heart"
+    },
+    {
+      "id": 4031,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What elite unit was formed from the Ultramarines' survivors of the ground battle against Hive Fleet Behemoth, deviating from standard Codex Astartes doctrine?",
+      "correctAnswer": "The Tyrannic War Veterans"
+    },
+    {
+      "id": 4032,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What event forced the Imperial fleet to withdraw from the Damocles Gulf Crusade, ending it in stalemate?",
+      "correctAnswer": "The approach of Hive Fleet Behemoth"
+    },
+    {
+      "id": 4033,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What genuinely rare psychic gift is Chief Librarian Tigurius renowned for, allowing him to foresee tactical events before they occur?",
+      "correctAnswer": "Precognition (prophetic foresight)"
+    },
+    {
+      "id": 4034,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of Guilliman's flagship, aboard which his body was placed into stasis after the wound at Thessala?",
+      "correctAnswer": "The Gauntlet of Power"
+    },
+    {
+      "id": 4035,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of Sergeant-Brother Antaro Chronus's personal Land Raider?",
+      "correctAnswer": "Gladius II"
+    },
+    {
+      "id": 4036,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What name is given to the group of ten Space Marine Chapters, including the Ultramarines, permanently garrisoned to defend Ultramar?",
+      "correctAnswer": "The Shield Chapters (of Ultramar)"
+    },
+    {
+      "id": 4037,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What name was given to Guilliman's post-Plague Wars effort to restore Ultramar to its original Five-Hundred-World extent?",
+      "correctAnswer": "The Ultramarian Reclamation"
+    },
+    {
+      "id": 4038,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What nickname was given to the Ultramarines Legion during the Unification Wars, reflecting their recruitment from war-tempered populations?",
+      "correctAnswer": "\"The War-born\""
+    },
+    {
+      "id": 4039,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What punishment did Calgar impose on Ventris and Pasanius for breaching the Codex Astartes?",
+      "correctAnswer": "A Death Oath"
+    },
+    {
+      "id": 4040,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What relic, once wielded by Guilliman in the Horus Heresy era, was reconstituted as his power-fist/bolter gauntlet after his resurrection?",
+      "correctAnswer": "The Hand of Dominion"
+    },
+    {
+      "id": 4041,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What ritual dagger did Kor Phaeron use in his attempt to corrupt Guilliman at the Battle of Calth?",
+      "correctAnswer": "The Anathame (a shard of the Anathame)"
+    },
+    {
+      "id": 4042,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title does Guilliman hold reflecting his role as founder and ruler of Ultramar?",
+      "correctAnswer": "Master of Ultramar"
+    },
+    {
+      "id": 4043,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title does Marneus Calgar hold in addition to Chapter Master, reflecting his authority over Ultramar's defense?",
+      "correctAnswer": "Lord Defender of Greater Ultramar"
+    },
+    {
+      "id": 4044,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title does Severus Agemman hold as governor of Ultramar in the Chapter Master's or Primarch's absence?",
+      "correctAnswer": "Regent of Ultramar"
+    },
+    {
+      "id": 4045,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title, referencing Sicarius's rule over a world in Ultramar, appears in his title stack?",
+      "correctAnswer": "Grand Duke of Talassar"
+    },
+    {
+      "id": 4046,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What unauthorized act did Pasanius perform to save Ventris's life during the Tarsis Ultra campaign?",
+      "correctAnswer": "He gave him an unauthorized blood transfusion"
+    },
+    {
+      "id": 4047,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What unique title does Brother-Sergeant Antaro Chronus hold as senior tank commander of the Ultramarines' Armoury?",
+      "correctAnswer": "\"Spear of Macragge\""
+    },
+    {
+      "id": 4048,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What were the two Space Marine Legions, known only by their numbers, that were expunged from all Imperial records?",
+      "correctAnswer": "The Second and Eleventh Legions"
+    },
+    {
+      "id": 4049,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Aeldari priestess helped channel power that aided in Guilliman's resurrection?",
+      "correctAnswer": "Yvraine"
+    },
+    {
+      "id": 4050,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Captain commanded the Ultramarines Legion's 4th Company at the Battle of Calth and was hailed \"Saviour of Calth\"?",
+      "correctAnswer": "Remus Ventanus"
+    },
+    {
+      "id": 4051,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Chaos Sorcerer was secretly behind the Ork WAAAGH! at Graia?",
+      "correctAnswer": "Nemeroth"
+    },
+    {
+      "id": 4052,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Chaplain, Titus's rival, originally reported him to the Inquisition after the Graia campaign?",
+      "correctAnswer": "Leandros"
+    },
+    {
+      "id": 4053,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Chapter cleared Ventris and Pasanius of Chaos taint, allowing Ventris's reinstatement as Captain?",
+      "correctAnswer": "The Grey Knights"
+    },
+    {
+      "id": 4054,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Dan Abnett novel centers on Remus Ventanus and the Battle of Calth?",
+      "correctAnswer": "Know No Fear"
+    },
+    {
+      "id": 4055,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Emperor-class Battleship sacrificed itself at Circe to destroy Hive Fleet Behemoth's space fleet?",
+      "correctAnswer": "The Dominus Astra"
+    },
+    {
+      "id": 4056,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Ultramarines successor Chapter held overall command of the Damocles Gulf Crusade against the T'au Empire?",
+      "correctAnswer": "The Howling Griffons"
+    },
+    {
+      "id": 4057,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who did Marneus Calgar trust, against his initial fears of betrayal, when Guilliman was resurrected?",
+      "correctAnswer": "Chief Librarian Tigurius"
+    },
+    {
+      "id": 4058,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who was the rival Consul whose plot led to the death of Guilliman's adoptive father Konor?",
+      "correctAnswer": "Gallan"
+    },
+    {
+      "id": 4059,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "About how many Astartes did the XIII Legion number when the Emperor gave Guilliman command, circa 833.M30?",
+      "correctAnswer": "Roughly 33,000"
+    },
+    {
+      "id": 4060,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Alongside Sanguinius, Guilliman fought Chaos daemon forces at which world during the Ruinstorm period?",
+      "correctAnswer": "Davin"
+    },
+    {
+      "id": 4061,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Approximately how many Battle-Brothers does Antaro Chronus command within the Ultramarines' Armoury?",
+      "correctAnswer": "About 50"
+    },
+    {
+      "id": 4062,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Besides the Indomitus Crusade and the Plague Wars, what Necron-focused crusade has the Victrix Guard fought in?",
+      "correctAnswer": "The Pariah Crusade"
+    },
+    {
+      "id": 4063,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Besides the Ultramarines themselves, how many other Shield Chapters did Guilliman order to expand Ultramar back to five hundred worlds?",
+      "correctAnswer": "Nine"
+    },
+    {
+      "id": 4064,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Despite Calgar's victory over a reincarnated Swarmlord on Ichar IV in 993.M41, what ultimately happened to the planet?",
+      "correctAnswer": "It was destroyed"
+    },
+    {
+      "id": 4065,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "During the reconquest of Damnos, how many xenos vehicle/engine kills did Chronus's Land Raider \"Gladius II\" record?",
+      "correctAnswer": "Six"
+    },
+    {
+      "id": 4066,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "For about how many years did Guilliman rule Macragge alone as sole Consul before the Emperor's arrival?",
+      "correctAnswer": "About five years"
+    },
+    {
+      "id": 4067,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "For how many days was Pasanius demoted and isolated after concealing his regenerative, necrodermis-infused bionic arm?",
+      "correctAnswer": "100 days"
+    },
+    {
+      "id": 4068,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "For how many years has Sergeant Torias Telion served as a scout sergeant, training recruits under three successive Chapter Masters?",
+      "correctAnswer": "Over 300 years"
+    },
+    {
+      "id": 4069,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "How many star systems had Guilliman built into a mutual-aid alliance by the time the Emperor arrived at Macragge?",
+      "correctAnswer": "Eight"
+    },
+    {
+      "id": 4070,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "How many volumes in the Fortress of Hera reportedly document Calgar's deeds, more than any other living Ultramarine besides Guilliman?",
+      "correctAnswer": "28"
+    },
+    {
+      "id": 4071,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "In roughly what Imperial year (M42) did the Plague Wars end, when Guilliman broke the siege of Ultramar?",
+      "correctAnswer": "012.M42"
+    },
+    {
+      "id": 4072,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "In which star system is Calth located?",
+      "correctAnswer": "The Veridian System"
+    },
+    {
+      "id": 4073,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "In which valley on Macragge is the Fortress of Hera located?",
+      "correctAnswer": "The Valley of Laponis"
+    },
+    {
+      "id": 4074,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Into how many task forces did Calgar organize the Ultramarines' defense against Hive Fleet Behemoth?",
+      "correctAnswer": "Three"
+    },
+    {
+      "id": 4075,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "On which world did Angron defeat Guilliman in single combat during the \"Shadow Crusade\"?",
+      "correctAnswer": "Nuceria"
+    },
+    {
+      "id": 4076,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "On which world was Marneus Calgar born, as a Chapter serf?",
+      "correctAnswer": "Nova Thulium"
+    },
+    {
+      "id": 4077,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What Death World, intended as Mortarion's staging point to strike Macragge via Konor, was destroyed in a near-suicidal Imperial landing operation during the Plague Wars?",
+      "correctAnswer": "Loebos"
+    },
+    {
+      "id": 4078,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What ancient xenos structure on Macragge is also associated with the world, distinct from the Temple of Correction?",
+      "correctAnswer": "The Pharos"
+    },
+    {
+      "id": 4079,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What chamber within the Fortress of Hera did a Chaos fleet reach during a siege of Macragge, before being stopped by Calgar?",
+      "correctAnswer": "The Shrine of the Primarch"
+    },
+    {
+      "id": 4080,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What emergency Heresy-era government did Guilliman establish at Macragge after being cut off by the Ruinstorm?",
+      "correctAnswer": "Imperium Secundus"
+    },
+    {
+      "id": 4081,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of Calgar's bespoke Mark X Gravis armour, worn since his Rubicon Primaris procedure?",
+      "correctAnswer": "The Armour of Heraclus"
+    },
+    {
+      "id": 4082,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of one of Ultramar's six defensive Star Fortresses?",
+      "correctAnswer": "Galatan"
+    },
+    {
+      "id": 4083,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the Deathwatch kill-team Titus served in under the cover identity \"Nullus\"?",
+      "correctAnswer": "Kill-team Kasaeran"
+    },
+    {
+      "id": 4084,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the device used to revive Calgar after he was clinically dead for over twenty minutes during his Rubicon Primaris procedure?",
+      "correctAnswer": "The Belisarian Furnace"
+    },
+    {
+      "id": 4085,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the earliest known copy of the Codex Astartes?",
+      "correctAnswer": "The Apocrypha of Skaros"
+    },
+    {
+      "id": 4086,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the title of the Dan Abnett/Neil Roberts graphic novel depicting First Chapter Master Marius Gage's pursuit of the wounded Kor Phaeron after Calth?",
+      "correctAnswer": "Macragge's Honour"
+    },
+    {
+      "id": 4087,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What name is given to Ultramar's Southern Tetrarchy administrative sector?",
+      "correctAnswer": "Andermung"
+    },
+    {
+      "id": 4088,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What name is given to Ultramar's Western Tetrarchy administrative sector?",
+      "correctAnswer": "Protos"
+    },
+    {
+      "id": 4089,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What name is given to the decades-long subterranean guerrilla war fought on Calth after the Word Bearers detonated the system's sun?",
+      "correctAnswer": "The Underworld War"
+    },
+    {
+      "id": 4090,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What relic blade did Calgar use to finally annihilate the Daemon Prince M'kar in 997.M41?",
+      "correctAnswer": "The Shard of Erebus"
+    },
+    {
+      "id": 4091,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title did Guilliman grant Severus Agemman circa 012.M42, as one of Ultramar's restored ruling Tetrarchs?",
+      "correctAnswer": "Tetrarch of Konor"
+    },
+    {
+      "id": 4092,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title, referencing dominion over the whole realm, does Cato Sicarius hold?",
+      "correctAnswer": "High Suzerain of Ultramar"
+    },
+    {
+      "id": 4093,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What warp phenomenon, raised by the Word Bearers during the Shadow Crusade, cut Ultramar off from the wider Imperium?",
+      "correctAnswer": "The Ruinstorm"
+    },
+    {
+      "id": 4094,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What was Marneus Calgar's birth name, before he took on the identity of a deceased friend?",
+      "correctAnswer": "Tacitan"
+    },
+    {
+      "id": 4095,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What weapon type belonging to a Necron Lord gravely wounded Cato Sicarius at the Battle of Damnos?",
+      "correctAnswer": "A War Scythe"
+    },
+    {
+      "id": 4096,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Black Legion warlord led Chaos forces against Calgar's defenders during the Vigilus \"War of Beasts\"?",
+      "correctAnswer": "Haarken Worldclaimer"
+    },
+    {
+      "id": 4097,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Black Templars battle-brother served alongside Titus in Deathwatch Kill-team Kasaeran?",
+      "correctAnswer": "Beren"
+    },
+    {
+      "id": 4098,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Chaos Warsmith freed the Daemon Prince M'kar, leading to Calgar's second duel with him?",
+      "correctAnswer": "Warsmith Honsou"
+    },
+    {
+      "id": 4099,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Daemon Prince struck down, but did not kill, Severus Agemman during the Invasion of Ultramar?",
+      "correctAnswer": "M'kar"
+    },
+    {
+      "id": 4100,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Inquisitor took Titus into custody on suspicion of heresy at the end of the Graia campaign?",
+      "correctAnswer": "Inquisitor Thrax"
+    },
+    {
+      "id": 4101,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Land Raider Crusader did Antaro Chronus command against the Dark Mechanicus warlord Votheer Tark?",
+      "correctAnswer": "The Wrath of Damnos"
+    },
+    {
+      "id": 4102,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Ork warlord did Cato Sicarius kill in the waterfall caverns of Black Reach?",
+      "correctAnswer": "Zanzag"
+    },
+    {
+      "id": 4103,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Ultramarines 1st Company Captain died at the Battle for Macragge, leading to Severus Agemman's promotion to 1st Company command?",
+      "correctAnswer": "Saul Invictus"
+    },
+    {
+      "id": 4104,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Warpsmith did Chronus's Land Raider \"Gladius II\" fight at the Battle of Ironblood in 822.M41?",
+      "correctAnswer": "Warpsmith Grathax"
+    },
+    {
+      "id": 4105,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which member of Calgar's Honour Guard died during the extraction from Cold Steel Ridge?",
+      "correctAnswer": "Brother Aloysius"
+    },
+    {
+      "id": 4106,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who commanded the Ultramarines' flagship Macragge's Honour in pursuit of Kor Phaeron after the Battle of Calth?",
+      "correctAnswer": "Marius Gage"
+    },
+    {
+      "id": 4107,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who killed the original Marneus Calgar, whose identity the future Chapter Master later assumed?",
+      "correctAnswer": "Khornate cultists"
+    },
+    {
+      "id": 4108,
+      "army": "ultramarines",
+      "allegiance": "imperium",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who was named Lord Protector of Imperium Secundus?",
+      "correctAnswer": "Lion El'Jonson"
+    },
+    {
+      "id": 4109,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Before the Fall, which empire was the single most powerful civilization in the galaxy, predating the Imperium of Man?",
+      "correctAnswer": "The Aeldari Empire"
+    },
+    {
+      "id": 4110,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Besides the Drukhari, name the other two primary Aeldari societies that emerged after the Fall.",
+      "correctAnswer": "Craftworld Aeldari (Asuryani) and the Exodites"
+    },
+    {
+      "id": 4111,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Commorragh's scale is compared to a mountain \u2014 to what is even the largest Imperial hive city compared, by contrast?",
+      "correctAnswer": "A termite mound"
+    },
+    {
+      "id": 4112,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Crowds in Wych Cult arenas judge fighters on more than just bloodshed \u2014 what other quality matters just as much?",
+      "correctAnswer": "Aesthetic grace/style"
+    },
+    {
+      "id": 4113,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Do Drukhari generally prefer to capture enemies alive or kill them outright?",
+      "correctAnswer": "Capture them alive"
+    },
+    {
+      "id": 4114,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Do Drukhari raiders typically fight as occupiers or as raiders?",
+      "correctAnswer": "Raiders"
+    },
+    {
+      "id": 4115,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "How do Drukhari generally regard compassion?",
+      "correctAnswer": "As weakness (something disgusting and self-damaging)"
+    },
+    {
+      "id": 4116,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "How does each Haemonculus regard himself within his own domain?",
+      "correctAnswer": "As a god"
+    },
+    {
+      "id": 4117,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "In which hidden webway city do the Drukhari make their home?",
+      "correctAnswer": "Commorragh"
+    },
+    {
+      "id": 4118,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Is Commorragh located in realspace or within the webway?",
+      "correctAnswer": "Within the webway"
+    },
+    {
+      "id": 4119,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Name the three main types of organization around which Drukhari society is built.",
+      "correctAnswer": "Kabals, Wych Cults, and Haemonculus Covens"
+    },
+    {
+      "id": 4120,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Pre-Fall Aeldari society fractured into extreme hedonistic factions known collectively by what term?",
+      "correctAnswer": "Pleasure Cults"
+    },
+    {
+      "id": 4121,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "The Ynnari faction draws members from the Craftworld Aeldari and the Harlequins, alongside which other Aeldari society?",
+      "correctAnswer": "The Drukhari"
+    },
+    {
+      "id": 4122,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What are Urien Rakarth's signature brutally-perfected superhuman fighting constructs called?",
+      "correctAnswer": "Grotesques"
+    },
+    {
+      "id": 4123,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What behavior is commonplace and actively encouraged among Drukhari to keep political rivals weak and divided?",
+      "correctAnswer": "Betrayal/treachery"
+    },
+    {
+      "id": 4124,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What cataclysmic event, caused by the birth of Slaanesh, gave rise to the Drukhari as a distinct Aeldari people?",
+      "correctAnswer": "The Fall (of the Eldar/Aeldari)"
+    },
+    {
+      "id": 4125,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What did decadent pre-Fall Aeldari come to regard torture and murder as, equal to poetry, music, and painting?",
+      "correctAnswer": "Art forms"
+    },
+    {
+      "id": 4126,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is Asdrubael Vect's famous personal catchphrase?",
+      "correctAnswer": "\"Death is my meat; terror my wine.\""
+    },
+    {
+      "id": 4127,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is Asdrubael Vect's formal title within the Kabal of the Black Heart?",
+      "correctAnswer": "Archon"
+    },
+    {
+      "id": 4128,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is Lelith Hesperax's famous nickname?",
+      "correctAnswer": "The Queen of Knives"
+    },
+    {
+      "id": 4129,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name commonly given to the psychic shockwave unleashed by Slaanesh's birth?",
+      "correctAnswer": "The Scream"
+    },
+    {
+      "id": 4130,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name for the elite black-armoured warrior-monks led by Drazhar?",
+      "correctAnswer": "The Incubi"
+    },
+    {
+      "id": 4131,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name for the rank-and-file warriors who make up the bulk of a Kabal's forces?",
+      "correctAnswer": "Kabalite Warriors"
+    },
+    {
+      "id": 4132,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name for the self-governing Drukhari organizations dedicated to gladiatorial arena combat?",
+      "correctAnswer": "Wych Cults"
+    },
+    {
+      "id": 4133,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name for the self-governing Drukhari organizations of master torturer-surgeons and flesh-sculptors?",
+      "correctAnswer": "Haemonculus Covens"
+    },
+    {
+      "id": 4134,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name for the shadow-skinned, near-invisible Drukhari assassins ruled over by Kheradruakh?",
+      "correctAnswer": "Mandrakes"
+    },
+    {
+      "id": 4135,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name given to the captured, dying stars that illuminate Commorragh with dim crimson light?",
+      "correctAnswer": "Black suns (the Ilmaea)"
+    },
+    {
+      "id": 4136,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of Urien Rakarth's Haemonculus Coven?",
+      "correctAnswer": "The Prophets of Flesh"
+    },
+    {
+      "id": 4137,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the nickname of Duke (Traevelliath) Sliscus, famed Drukhari corsair commander?",
+      "correctAnswer": "\"The Serpent\""
+    },
+    {
+      "id": 4138,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What must Drukhari continually harvest from others in order to sustain their souls and survive?",
+      "correctAnswer": "Suffering/pain (and terror)"
+    },
+    {
+      "id": 4139,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What network of hidden dimensional pathways do Drukhari use to launch surprise raids into realspace?",
+      "correctAnswer": "The webway"
+    },
+    {
+      "id": 4140,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What permanent Warp rift was torn open by the psychic shockwave of Slaanesh's birth?",
+      "correctAnswer": "The Eye of Terror"
+    },
+    {
+      "id": 4141,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What serves as the primary form of currency traded within Commorragh?",
+      "correctAnswer": "Slaves"
+    },
+    {
+      "id": 4142,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What sheltered the ancestors of the Drukhari from the instant, lethal blast of Slaanesh's birth-scream?",
+      "correctAnswer": "Being inside the webway (in personal enclaves), not in realspace"
+    },
+    {
+      "id": 4143,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What term describes the remote worlds settled by the Aeldari ancestors of the Exodites?",
+      "correctAnswer": "Maiden Worlds"
+    },
+    {
+      "id": 4144,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title is given to the leader of a Wych Cult?",
+      "correctAnswer": "Succubus"
+    },
+    {
+      "id": 4145,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title is given to the ruler of a Drukhari Kabal?",
+      "correctAnswer": "Archon"
+    },
+    {
+      "id": 4146,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What visible change comes over a Drukhari who has recently fed on suffering?",
+      "correctAnswer": "They radiate supernatural beauty and vitality"
+    },
+    {
+      "id": 4147,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What visibly happens to a Drukhari who is denied regular \"feeding\" on suffering?",
+      "correctAnswer": "They wither and age rapidly"
+    },
+    {
+      "id": 4148,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What was Asdrubael Vect's social status at birth, before his rise to power?",
+      "correctAnswer": "A slave"
+    },
+    {
+      "id": 4149,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Chaos God continually threatens to consume the souls of the Drukhari?",
+      "correctAnswer": "Slaanesh"
+    },
+    {
+      "id": 4150,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Kabal did Asdrubael Vect found and rule as Archon?",
+      "correctAnswer": "The Kabal of the Black Heart"
+    },
+    {
+      "id": 4151,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Kabal, a major long-term rival of Vect's, is led by Lady Malys?",
+      "correctAnswer": "The Kabal of the Poisoned Tongue"
+    },
+    {
+      "id": 4152,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which ancient, long-vanished civilization originally built the webway, including the future site of Commorragh?",
+      "correctAnswer": "The Old Ones"
+    },
+    {
+      "id": 4153,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who founded the Ynnari faction?",
+      "correctAnswer": "Yvraine"
+    },
+    {
+      "id": 4154,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who is the de facto supreme overlord of Commorragh?",
+      "correctAnswer": "Asdrubael Vect"
+    },
+    {
+      "id": 4155,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who is the long-lost monarch of the Mandrakes?",
+      "correctAnswer": "Kheradruakh (\"the Decapitator\")"
+    },
+    {
+      "id": 4156,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who is the mysterious masked executioner who leads the Incubi?",
+      "correctAnswer": "Drazhar"
+    },
+    {
+      "id": 4157,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who is widely regarded as the single greatest Haemonculus (fleshcrafter) in all of Commorragh?",
+      "correctAnswer": "Urien Rakarth"
+    },
+    {
+      "id": 4158,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "easy",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Why do Drukhari generally avoid developing or displaying psychic powers?",
+      "correctAnswer": "To avoid attracting Slaanesh's attention/hunger"
+    },
+    {
+      "id": 4159,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "A full Drukhari realspace raid typically combines forces from Kabals and Haemonculus Covens with which other sub-faction?",
+      "correctAnswer": "Wych Cults"
+    },
+    {
+      "id": 4160,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "According to tradition, what happens when a male Drukhari rises to the rank of Succubus?",
+      "correctAnswer": "He adopts a female identity/form"
+    },
+    {
+      "id": 4161,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "After his staged resurrection, what kind of Aeldari deity-figure did Vect declare himself to be?",
+      "correctAnswer": "A living Dark Muse"
+    },
+    {
+      "id": 4162,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "At which location did Drazhar first mysteriously appear, before fighting his way to challenge its enthroned Hierarch?",
+      "correctAnswer": "The Great Shrine of the Incubi"
+    },
+    {
+      "id": 4163,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Baron Sathonyx was originally a noble of which Kabal, before his banishment?",
+      "correctAnswer": "The Kabal of the Slashed Eye"
+    },
+    {
+      "id": 4164,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Besides the Salamanders, which two other Space Marine Chapters took part in the punitive \"Commorragh Raid\"?",
+      "correctAnswer": "The Howling Griffons and the Silver Skulls"
+    },
+    {
+      "id": 4165,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Duke Sliscus is renowned as the only being ever to outwit which Space Wolves character?",
+      "correctAnswer": "Lukas the Trickster"
+    },
+    {
+      "id": 4166,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "During which crisis event was Vect apparently killed by Mandrakes, later revealed to have been a deliberately faked death?",
+      "correctAnswer": "The (Great) Dysjunction"
+    },
+    {
+      "id": 4167,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "How do Drukhari souls typically appear to psykers using witch-sight?",
+      "correctAnswer": "Black (corrupted)"
+    },
+    {
+      "id": 4168,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "How do Drukhari typically compare to their Craftworld Eldar cousins in physical strength, speed, and reflexes?",
+      "correctAnswer": "They are physically superior"
+    },
+    {
+      "id": 4169,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "In what year (to the millennium) was the Ynnari faction founded by Yvraine?",
+      "correctAnswer": "999.M41"
+    },
+    {
+      "id": 4170,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "In which arena did Vraesque Malidrach compete as a champion Reaver death-racer before becoming an Archon?",
+      "correctAnswer": "Khad Mhetrul (\"the Bitterspire\")"
+    },
+    {
+      "id": 4171,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Kheradruakh has existed since at least which galaxy-spanning conflict, over ten thousand years ago?",
+      "correctAnswer": "The Horus Heresy"
+    },
+    {
+      "id": 4172,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Lelith Hesperax takes her name from a world she once conquered \u2014 which Archon originally enslaved her there?",
+      "correctAnswer": "Sussarkh"
+    },
+    {
+      "id": 4173,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Members of the Lhilitu sisterhood who serve Archons as master poisoners are known by what name?",
+      "correctAnswer": "Lhamaean(s)"
+    },
+    {
+      "id": 4174,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "The Prophets of Flesh coven is particularly known for converting captured members of which alien species into Grotesques?",
+      "correctAnswer": "The T'au"
+    },
+    {
+      "id": 4175,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Tradition holds that each Wych Cult is ruled by a \"triune\" council made up of how many Succubi?",
+      "correctAnswer": "Three"
+    },
+    {
+      "id": 4176,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Urien Rakarth is widely rumored to be the first-ever member of his own Drukhari role, making him the progenitor of its signature resurrection technique \u2014 what is that role?",
+      "correctAnswer": "Haemonculus"
+    },
+    {
+      "id": 4177,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Vect instigated a Dark Eldar Civil War specifically to suppress the spread of which religious movement within Commorragh?",
+      "correctAnswer": "The Ynnari"
+    },
+    {
+      "id": 4178,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What color of flame typically marks the opening of a Drukhari raid portal from the webway?",
+      "correctAnswer": "Green (viridian)"
+    },
+    {
+      "id": 4179,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What common Wych Cult aid does Lelith Hesperax famously refuse to use, viewing it as a sign of weakness?",
+      "correctAnswer": "Combat drugs/narcotics"
+    },
+    {
+      "id": 4180,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What does the name \"Kheradruakh\" translate to?",
+      "correctAnswer": "\"He Who Hunts Heads\""
+    },
+    {
+      "id": 4181,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What does the title \"Drazhar\" translate to?",
+      "correctAnswer": "\"Living Sword\""
+    },
+    {
+      "id": 4182,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is Baron Sathonyx's epithet?",
+      "correctAnswer": "\"Lord Hellion\""
+    },
+    {
+      "id": 4183,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is Lady Malys's full first name?",
+      "correctAnswer": "Aurelia"
+    },
+    {
+      "id": 4184,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name for Commorragh's central, elite-controlled districts, home to the most powerful Kabals?",
+      "correctAnswer": "High Commorragh"
+    },
+    {
+      "id": 4185,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of Duke Sliscus's corsair fleet?",
+      "correctAnswer": "The Sky Serpents"
+    },
+    {
+      "id": 4186,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the body double Asdrubael Vect uses to protect himself from assassination?",
+      "correctAnswer": "G'elding (the Geldling)"
+    },
+    {
+      "id": 4187,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the shadow-realm district of Commorragh ruled by Kheradruakh?",
+      "correctAnswer": "Aelindrach"
+    },
+    {
+      "id": 4188,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What large, serpentine, non-Aeldari mercenaries commonly serve as bodyguards in an Archon's Court?",
+      "correctAnswer": "Sslyth"
+    },
+    {
+      "id": 4189,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What must happen to a Haemonculus, simultaneously, for their death to be permanent?",
+      "correctAnswer": "Both their body and soul must be destroyed"
+    },
+    {
+      "id": 4190,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What name is given to Urien Rakarth's pinnacle Grotesque creations, which retain more consciousness and personality than standard Grotesques?",
+      "correctAnswer": "\u00dcber Grotesques"
+    },
+    {
+      "id": 4191,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What name was given to the pre-Fall hedonistic Aeldari faction devoted to psychic extremes, alongside the Blood-dancers and Body-changers?",
+      "correctAnswer": "The Spirit Walkers"
+    },
+    {
+      "id": 4192,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What savage, fang-mawed pack creatures from the haunted pyramids of Shaa-dom serve in an Archon's Court?",
+      "correctAnswer": "Ur-Ghul"
+    },
+    {
+      "id": 4193,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What term describes a small Drukhari raiding force, typically three to twelve warriors, drawn from a larger Kabal Shard?",
+      "correctAnswer": "A Splinter"
+    },
+    {
+      "id": 4194,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title is given to a Kabal's elite warrior-aristocrats, ranked above ordinary Kabalite Warriors?",
+      "correctAnswer": "Kabalite Trueborn"
+    },
+    {
+      "id": 4195,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title is given to a squad or unit leader within a Kabal?",
+      "correctAnswer": "Sybarite"
+    },
+    {
+      "id": 4196,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What title may the top-ranking Succubus of a Wych Cult hold?",
+      "correctAnswer": "Prima Succubus"
+    },
+    {
+      "id": 4197,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What two physical traits do Drukhari typically have, attributed to generations of life in the sunless Dark City?",
+      "correctAnswer": "Paler (alabaster) skin and superior night vision"
+    },
+    {
+      "id": 4198,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What type of paired blades, also carried by Incubi squad leaders called Klaivex, does Drazhar wield?",
+      "correctAnswer": "Demiklaives"
+    },
+    {
+      "id": 4199,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What was Commorragh's original role in the ancient Aeldari Empire, before the Fall corrupted it?",
+      "correctAnswer": "A legitimate webway portal-city / fleet-transit hub"
+    },
+    {
+      "id": 4200,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What was Lady Malys's relationship to Asdrubael Vect before he cast her out of his Kabal?",
+      "correctAnswer": "She was his lover (and a member of his Kabal)"
+    },
+    {
+      "id": 4201,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What was the name of the Salamanders Strike Cruiser that Vect lured into a trap in Commorragh, triggering Imperial retaliation against his rivals?",
+      "correctAnswer": "The Forgehammer"
+    },
+    {
+      "id": 4202,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Court of the Archon retainers unleash disorienting \"anti-light\" that plunges foes into a paralytic coma?",
+      "correctAnswer": "Medusae"
+    },
+    {
+      "id": 4203,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Haemonculus created Lelith Hesperax in a cloning vat, rather than through natural birth?",
+      "correctAnswer": "Yukor"
+    },
+    {
+      "id": 4204,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Ork Waaagh! nearly annihilated Craftworld Iyanden before Drukhari raiders unexpectedly intervened to help save it?",
+      "correctAnswer": "Waaagh! Rekkfist"
+    },
+    {
+      "id": 4205,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Phoenix Lord intercepted Drazhar's blade to save Yvraine from Vect's assassination attempt?",
+      "correctAnswer": "Jain Zar"
+    },
+    {
+      "id": 4206,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Ynnari prophet did Lelith Hesperax defeat in single combat in the Grand Arena of Commorragh?",
+      "correctAnswer": "Yvraine"
+    },
+    {
+      "id": 4207,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which slumbering death-god do the Ynnari seek to fully awaken and resurrect?",
+      "correctAnswer": "Ynnead"
+    },
+    {
+      "id": 4208,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who escaped Haemonculus Yukor's cloning vats alongside Lelith Hesperax, later becoming her rival-turned-lover?",
+      "correctAnswer": "Morghana Nathrax"
+    },
+    {
+      "id": 4209,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "medium",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who is the Archon of the Kabal of the Flayed Skull, Commorragh's second-strongest Kabal?",
+      "correctAnswer": "Vraesque Malidrach"
+    },
+    {
+      "id": 4210,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "A separate Dysjunction event was triggered around the resurrection of which tyrant of Shaa-Dom?",
+      "correctAnswer": "El'Uriaq"
+    },
+    {
+      "id": 4211,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "According to an unconfirmed in-universe theory, Drazhar might secretly be Arhra, the corrupted first Phoenix Lord of which Aspect shrine?",
+      "correctAnswer": "The Striking Scorpions"
+    },
+    {
+      "id": 4212,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "After Vect's staged resurrection, which Haemonculus Coven restored his loyal followers to full health?",
+      "correctAnswer": "The Prophets of Flesh"
+    },
+    {
+      "id": 4213,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "After defeating the Great Shrine's Hierarch, what role did Drazhar take instead of claiming leadership by right of victory?",
+      "correctAnswer": "The Incubi's roving executioner"
+    },
+    {
+      "id": 4214,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Baron Sathonyx uses the crystal-veined bones of a captured member of which Aeldari role to glimpse the future?",
+      "correctAnswer": "A Farseer (a captured Farseer's bones)"
+    },
+    {
+      "id": 4215,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Complete Urien Rakarth's philosophy: \"the inscrutable universe turns upon an axis of ____, because pain is inevitable.\"",
+      "correctAnswer": "Suffering"
+    },
+    {
+      "id": 4216,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Drazhar's second duel with a resurrected Jain Zar, on Zandros, deliberately echoed an earlier 928.M41 duel there between Karandras and which Phoenix Lord?",
+      "correctAnswer": "Arhra"
+    },
+    {
+      "id": 4217,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "For roughly how many years has Kheradruakh conducted his seemingly random killing spree across the galaxy?",
+      "correctAnswer": "About eight thousand years"
+    },
+    {
+      "id": 4218,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "How did Lord Xelian, one of Vect's rivals, die during the Commorragh Raid?",
+      "correctAnswer": "A Salamanders Battle Barge crashed into the spire where he stood"
+    },
+    {
+      "id": 4219,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "How many Kabal flagships did Duke Sliscus steal when he fled the political grind of Commorragh?",
+      "correctAnswer": "Three"
+    },
+    {
+      "id": 4220,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "In Path of the Archon, Vect's loyalists fight a civil war against rival Archon Yllithian, leader of which faction?",
+      "correctAnswer": "The White Flames"
+    },
+    {
+      "id": 4221,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "In early M42, Lady Malys foresaw and evaded a series of massacres orchestrated against her by relocating her entire Kabal into what?",
+      "correctAnswer": "The webway"
+    },
+    {
+      "id": 4222,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "In what year did the T'au Empire destroy the Aeldari Maiden World of Lilarsus, following Drukhari manipulation?",
+      "correctAnswer": "876.M39"
+    },
+    {
+      "id": 4223,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Lelith Hesperax is recorded as having once defeated how many opponents simultaneously in the arena without taking a scratch?",
+      "correctAnswer": "Ten"
+    },
+    {
+      "id": 4224,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Lelith Hesperax's pact with the Daemonette known as \"the Satin Princess\" secretly required the collection of how many warrior souls to fully manifest?",
+      "correctAnswer": "10,000"
+    },
+    {
+      "id": 4225,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Lhamaean poison-lore is said to trace back to which Dark Muse, known as \"the Father of Poisons\"?",
+      "correctAnswer": "Shaimesh"
+    },
+    {
+      "id": 4226,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Name the three aristocratic Houses whose destruction Vect orchestrated via the Forgehammer incident.",
+      "correctAnswer": "Houses Xelian, Kraillach, and Yllithian"
+    },
+    {
+      "id": 4227,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Roughly how long did it take Drazhar to defeat the Great Shrine's enthroned Hierarch in single combat?",
+      "correctAnswer": "Roughly two minutes"
+    },
+    {
+      "id": 4228,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of Asdrubael Vect's personal modified Ravager gunship?",
+      "correctAnswer": "The Dais of Destruction"
+    },
+    {
+      "id": 4229,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of Commorragh's main slave-import hub and port?",
+      "correctAnswer": "The Port of Lost Souls"
+    },
+    {
+      "id": 4230,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of Kheradruakh's signature weapon, reputed to be undefendable by any shield?",
+      "correctAnswer": "Kheradruakh"
+    },
+    {
+      "id": 4231,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of Vect's personal melee weapon, fitted with built-in pain-inducers?",
+      "correctAnswer": "The Sceptre of the Dark City"
+    },
+    {
+      "id": 4232,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the arena held by the Cult of Strife, Lelith Hesperax's home cult, in High Commorragh?",
+      "correctAnswer": "The Crucibael"
+    },
+    {
+      "id": 4233,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the largest noble house city-state within Commorragh?",
+      "correctAnswer": "Sorrow Fell"
+    },
+    {
+      "id": 4234,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the name of the major spaceport located within Low Commorragh?",
+      "correctAnswer": "Port Carmine"
+    },
+    {
+      "id": 4235,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What is the title of the third novel in Andy Chambers's Black Library trilogy about Vect, following Path of the Renegade and Path of the Incubus?",
+      "correctAnswer": "Path of the Archon"
+    },
+    {
+      "id": 4236,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What name is given to the soul-tech spheres Vect possesses that are capable of healing him?",
+      "correctAnswer": "Obsidian Orbs"
+    },
+    {
+      "id": 4237,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What self-styled title does Vraesque Malidrach, Archon of the Kabal of the Flayed Skull, hold?",
+      "correctAnswer": "Murderprince of the Poisoned Crown"
+    },
+    {
+      "id": 4238,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "What spire in High Commorragh does the Kabal of the Flayed Skull hold?",
+      "correctAnswer": "The Poisoned Crown"
+    },
+    {
+      "id": 4239,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Archon connected to Vect's court did Kheradruakh kill to claim the symbolic \"thousandth skull\" needed to fully open a portal from the Midnight Dimension?",
+      "correctAnswer": "Sythrac"
+    },
+    {
+      "id": 4240,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Archon did Lelith Hesperax personally kill during Vect's coup in M36, materially helping his rise to power?",
+      "correctAnswer": "Ythillian, of the Kabal of the Silent Scream"
+    },
+    {
+      "id": 4241,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Chaos Space Marine champion does Lelith Hesperax dream of capturing, stripping of his armor, and dueling in the arena?",
+      "correctAnswer": "Lucius the Eternal"
+    },
+    {
+      "id": 4242,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Drukhari Archon manipulated the T'au Empire into destroying the Aeldari Maiden World of Lilarsus?",
+      "correctAnswer": "Andross Klax"
+    },
+    {
+      "id": 4243,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Harlequin Masque staged Asdrubael Vect's funeral as a trap to massacre his assembled rival Archons?",
+      "correctAnswer": "The Masque of the Veiled Path"
+    },
+    {
+      "id": 4244,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which Laughing God challenged Lady Malys to a \"game of wills\" in the webway, resulting in her gaining his crystal heart?",
+      "correctAnswer": "Cegorach"
+    },
+    {
+      "id": 4245,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Which T'au sept colony did Craftworld Iyanden destroy in retaliation, after being manipulated into war by Drukhari raiders?",
+      "correctAnswer": "Ka'mais"
+    },
+    {
+      "id": 4246,
+      "army": "drukhari",
+      "allegiance": "xenos",
+      "edition": "tenth",
+      "difficulty": "hard",
+      "category": "lore",
+      "type": "textBox",
+      "questionText": "Who personally sent Drazhar to assassinate Yvraine during her meeting with Saim-Hann Aeldari?",
+      "correctAnswer": "Asdrubael Vect"
     }
   ]
 }
